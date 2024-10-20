@@ -1,0 +1,2852 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="comment" attr.type="string"/>
+<key id="d3" for="node" attr.name="name" attr.type="string"/>
+<key id="d2" for="node" attr.name="sentiment" attr.type="string"/>
+<key id="d1" for="node" attr.name="platform" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="Reddit_Western_poisonivysoar">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="fenty">
+  <data key="d0">brand</data>
+  <data key="d3">fenty</data>
+</node>
+<node id="Reddit_Western_livelaughdoodoo">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_bebblebutt69">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_hollyyo">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_50509904">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_wakemeupinjanuary">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_SharnaRanwan">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_angiipanda">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Cortado2711">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_tealcompass014">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Kinky_Breakfast">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_FudgeBusiness">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_hunnybun444">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_carriethe1">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Bakerbot101">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="urban decay">
+  <data key="d0">brand</data>
+  <data key="d3">urban decay</data>
+</node>
+<node id="Reddit_Western_Donutwitch29">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_mugglesh0pe">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Gigitheuglyduckling">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_twilekquinn">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_NightOwlSupreme">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_makeuplife6">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_nsfwcleanstart">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_musingsandcuriosity">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_ediblesprysky">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_KneelAurmstrong">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_roller_jay">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_[deleted]">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Julialagulia">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_irissteensma">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Revlon_fan">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_bexbexbobex">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Brompton_Cocktail">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_SweetandUnsweet">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_eraser_dust">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_funbeam">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_erst77">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_vanillyl">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_WillGrahamsLiver">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_4b3ats">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_RampagingKittens">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Ronrinesu">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_AnalGerbilator">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_Lana_car23">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_pepperandplatinum">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Extra_Fig_7547">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_MsTechX">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_shansbury82">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_camcobeauty">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_chimmyturner">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_1998xoxo">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_hitmeagainnoplzdont">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_maniac-pixie">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_redditsuckstho">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_chaospearl">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_prettyincolors">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Frequent_Disaster380">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_AFishCalledWakanda">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_aggressive-teaspoon">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_coffeeandcheesecake">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_gli3247">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_aloneh95">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_alysurr">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_bwabwabwabwum">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_quespal">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_hadapurpura">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_ismabit">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_abcdefghik123">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_gossipbomb">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_somethingsophie">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_boomberrybella">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_fourfs">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_coldvault">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_eveningtrain">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_lilyspawrent">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Thatonepandathing">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_aquarelable">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_kimsaprincessllc">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Madmaddie2">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_donkeypunchtrump">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_Pink_Blacksmith">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Forsaken-Duck-8142">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_banananutnightmare">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_velvetvagine">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western___Anamya__">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_whenthereisfire">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_louiseber">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_P_Grammicus">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_jigglywigglybooty">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_PhyrraNyx">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_dreamphone">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_ChouettePants">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Toma_the_Wondercat">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_corgisaretheanswer">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_weavesunlight">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_MoscatoRose">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_genderwolves">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_frecklesandgeckos">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_emmashawn">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_PhoneOwn615">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_adventureremily">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_millennium_fae">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_ItsCarinaTunt">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_PM_ME_COLOUR_HEX">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_itonlytakes11">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_ggiatepur">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_piggietimes">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_unprecedentedthymes">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_yEEuhboyeeeeeee">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_patriotfear">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_stevebaescemi">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Environmental-Song16">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_ItsmeKT">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Althesleepdealer">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_lifesapreez">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Alcazarazay">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Acrobatic_Ad_2481">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_dystopiaincognito">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_hr_newbie_co">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western__Nurse_Joy_">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_criticalstars">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western__Sinann">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_belckie">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western__1963">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_lumpuswumpus365">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Jennasaykwaaa">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_prettypurplepolishes">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Crazy-Song-3994">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_leelab-ami">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_vowelparty">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Vio_">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_EzriDaxCat">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_aboveallbeboring">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_fckinsleepless">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_kittycatsfoilhats">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_the_silentoracle">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Emilythatglitters">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_passionicedtee">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_GrannyB1970">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_glitches_and_hoes">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_TheDollyMomma">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Pix9139">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_PeepsUnderTheBed">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_PrinceTamaki1">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Flisseflasse">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_shrimpslippers">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_tigm2161130">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_redwoods81">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_divadream">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_s18shtt">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_Serenajf">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Jojosbees">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_PhlossyCantSing">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_wildbeest55">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_theywerecones">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_learnandrelearn">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Forward-Pool-3818">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Rumchunder">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_lizifer93">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_BreannaNicole13">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Distempa">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Showerthawts">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_KnottyKitty">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_C88V">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_teentytinty">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_er0se">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_occasional_idea">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_Iheartbowie">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_megslovesyababy">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_mrmeowmeowington">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_jesgrant">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_deathofregret">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_funky_bunches">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_kindrex89">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_comfy_socks">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_anaxjor">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_4fairydust">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_peakyshelbys">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_ashleiponder">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_babybutcho">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_clekas">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Alidinak">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Triene86">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_maximumspoilage">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_valerwine">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_HamptonsBorderCollie">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Captain_Kirk713">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_noitsacat">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_cybersodas">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_casseroleEnthusiast">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_JudgeJudysApprentice">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_stace_m8">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Usagichan30">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_lolalucky">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_dontforgetthisone13">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_bandsmom74">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Salsabeans16">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_brit_bc">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_foxwaffles">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_LatinaMermaid">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Surferino">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_ChunkySweaterMonthly">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Whynotdragon">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_PinkLasagna">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_theswordintheforest">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_sassweet">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_milliemilly">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_rawr_rawr_6574">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_jedimindbender">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_mrm395">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_BlackOakSyndicate">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_fuschiaoctopus">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Idkijusworkhere">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_ExtraFluffyButts">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Brock_Lobstweiler">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_paurelay">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_aallycat1996">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_chasingandbelieving">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_NyxTheGOAT">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_pixierambling">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_favouriteblues">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_dorothy_zbornakk">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_comradecosmetics">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_gingerflakes">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_sopreshous">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_ILOVEBREAD647">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_shippingtape">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_BTECBushra">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Jadis4742">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_towards_the_stars">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_POPGIRL91">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_eelucktricksun">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_ofjune-x">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_gourmet_fried_rice">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_littlegreeny21">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_AttachedTooEasily">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_TemporaryAdmirable20">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_CerberusIsMyCat">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_veggie_lisa">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Spicylady10">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_fukacai">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_throwawayflapper1929">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_kimoikat">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_powpowforlunch">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_juliamera8">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_nightdraconis13">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_DarthMoxxi">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Paign">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_princess_unicorn_420">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Kalikallay">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_PPvsFC_">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_peeege">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_tatianamaries">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_BeckyFisher95661">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Dry-Bad9586">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_Yourfavdiva">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_SpicyWhiteDress">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_here2helpyaandme">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_ejiives">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_Blowitback">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_shes_just_like_that">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Western_beesofa">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Western_grilledcheeseyum">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Western_simp-le">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Asian_arsenic_greeen">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="tirtir">
+  <data key="d0">brand</data>
+  <data key="d3">tirtir</data>
+</node>
+<node id="Reddit_Asian_mothertuna">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Stayin_BarelyAlive58">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_fuzzboo">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_NameOk3393">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Infamous-Complex8438">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_AsylumXX">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_[deleted]">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_moondoII">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_No-No-Mojo-Jojo">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Cyclibant">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_georgethebarbarian">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_FrEnchFriesOnyOu">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_alicehoopz">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Asian_Hagacchi">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_LeeBees1105">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_flonko">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Ronrinesu">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Happy-BHSUSFR">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Jealous_Tadpole5145">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_nmb48">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Sc4r4byte">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_love-at-third-sight">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_TeufelRRS">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_dearhan">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_-chinoiserie">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Asian_slutmuttsprout">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Ferracoasta">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Asian_ChaoticCrowTime">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Voice_of_Season">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Asian_nitemarine">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_myperfectblue">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Big-Chemical256">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Syrena_Nightshade">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_ChemistEducational65">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Asian_themostdownbad">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Pankeopi">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_yakisobagurl">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_isoliente">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Asian_wewgirl">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Asian_f_ddl">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Asian_TemperatureExotic631">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Dense_University5798">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_phantomixie">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_blueberryJan">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Asian_mei-lei">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_kagamiis97">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_LunarBeast77">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Brilliant72">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Asian_carr1e">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Asian_Equal_Bat414">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Kind-Durian-3041">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_bittsweet">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="shiseido">
+  <data key="d0">brand</data>
+  <data key="d3">shiseido</data>
+</node>
+<node id="Reddit_Asian_I-am-Groot_01">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Asian_Tiramissulover">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Asian_Background-Salad-711">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Asian_hervana">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_FakespotAnalysisBot">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="Reddit_Asian_reaganh8r">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_cfofosho">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Smitti92">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_bonertootz">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_RadiantEast">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_clrcrystals">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_PetiteAsianSB">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_ofmdstan">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Asian_Difficult-Double-644">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Asian_wfhcat">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_thenocturnalfey">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_chocomizzlatte">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_kittystars">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_bunnybunny2003">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_syusyubie">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Purser1">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Professional_Sport14">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_mimiiscute">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Sadbittermelon">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_gatitosocialista">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_imprecationstation">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Asian_iggy_y">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Leather_Raccoon_8550">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Asian_TheMadDurian">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="Reddit_Asian_kanzaki_hitomi765">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Outside_Set_9458">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_whatwouldyoudew">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_Onetwodash">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_lavayuki">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="Reddit_Asian_brnbrnbrn2017">
+  <data key="d0">user</data>
+  <data key="d1">Reddit_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<edge source="Reddit_Western_poisonivysoar" target="fenty">
+  <data key="d4">im confused rbeautyguruchatter would sharing opinion youre clearly trying offend anyone point finger unfortunate even progressive subreddits still discriminatory downright racist towards asian try hardest educate others well various issue asian american pacific islander diaspora face shouldve shrugged unfortunately filipinoamerican female nobody care model minority myth pervasive hell deal interacting people assume asian people look asian culture interchangeable comment made year ago biggest comment ever made gild talked racism towards asian reddit despite comment getting much positive reception nothing changed come opinion rihanna fenty beauty im pretty disappointed targeting racism towards asian woman specific karrueche tran hapa mean biracial multiracial asian halfvietnamese halfblack blasian people would prefer messed unfortunately racism towards asian never taken seriously especially come poc may bad still hurt know even though brand helped introducing whole generation makeup user wake issue colourism beauty industry action shown discriminatory know treading sensitive territory many documented case famous black people racist towards asian get swept rug people simply arent ready discussion black people racist deserve called asian people suffer racism well cultural appropriation casual racism deserve protected much poc wiz khalifa refuse apologize racist korean lyric korean friend speaking asian eye kanye west lil wayne j cole ace hood tyler creator made lyric talking monolids relating asian people even though facial feature much diverse monolids specific feature punchline nonblack rapper made lyric talking slept long good night hair turned nappy people would riot migos us cword get right witcha selfexplanatory depressing nobody seemed care released tyga disrespect japanese flag fetishizes japanese woman album cover defense art piece flag rising sun artist japanese find offensive decide there also issue cultural appropriation asian culture id argue nicki minaj biggest culprit tried justify embracing japanese pop culture specifically great grandfather japanese thats true would mean shes word would less japanese exact basically shes japanese reason bring reaching excuse exclude accused cultural appropriation also music video chunli tribute speaking music video there paragraph article refinery resonated regard whole situation offensive black rapper dont go one two punchlines there one artist consistently make poor choice nicki minaj earlier month released music video chun li said tribute japanese greatgrandfather video subsequent performance including cringey snl appearance contains visual lyrical content focused homage japan rather garble exociticizing asian signifier anime explosion effect japan tattoo chinese character china reference mai tai polynesian coolie hat vietnam chun li chinese character written japanese video game maker attempting pay tribute heritage instead conflates many asian culture orientalist mess like love video rap thai samurai geisha costume therea also chunlichallenge went bit viral search youtube youd see people wear chopstick hair try look asian way looking edgy japanese british popstar named rina sawayama voiced concern northeast southeast asian struggle embrace culture due negative backlash yet watch heritage cherrypicked used marketing ploy im sorry post incredibly long almost nothing topic hand wanted show rihannas post drop water ocean asian people disenfranchised pop culture american society whole people love asian culture asian pop culture japanese korean chinese pop culture extremely cherrypicked marketable japanese korean chinese pop culture people dont love asian people northeast asian apparently entire continent asia comprised china japan korea god forbid anyone acknoledge entire asian american pacific islander diaspora instead assuming every asian northeast ignorant convenience xb edit thank uravensashes clarifying actually go show im breaking stereotype knowing math haha edit thank ufauxhee telling karrueche tran actually half vietnamese halfthai</data>
+</edge>
+<edge source="Reddit_Western_livelaughdoodoo" target="fenty">
+  <data key="d4">interesting timing fenty mind recently im middle east im also bit uncomfortable moroccan spice palette orientalism tokenism inherent naming palette moroccan spice liiiiike come onnnn spice could get spice route orientalist also havent really said anything time love fenty shade range etc etc think would gotten lot shit hadnt fenty coming</data>
+</edge>
+<edge source="Reddit_Western_bebblebutt69" target="fenty">
+  <data key="d4">idea stuff really disappointing see yet another example someone getting away racist towards asian never really rihanna makeup line pretty easy support financially issue anyone continues buy fenty definitely sideeye say dont care racism asian especially bring interasian racism</data>
+</edge>
+<edge source="Reddit_Western_hollyyo" target="fenty">
+  <data key="d4">im glad someone brought able see idea feel guilty fawning fenty product wont purchasing anymore racism isnt okay im giving money someone think</data>
+</edge>
+<edge source="Reddit_Western_50509904" target="fenty">
+  <data key="d4">like said original commenter linked two link want say apology appreciated necessary action alone want clarify though shade inclusivity hard come actuality undertone hard match youre group people struggle finding match already sometimes sacrifice woke little sometimes point original post people make sacrifice convenience sometimes absolutely understand would never raise pitchfork anyone darker complexion buying fenty recognise importance brand industry new conversation popped</data>
+</edge>
+<edge source="Reddit_Western_wakemeupinjanuary" target="fenty">
+  <data key="d4">yikes rice cake comment didnt offend level telling african american pick cotton officially boycott product shame susceptible fungal acne fenty foundation worked really well</data>
+</edge>
+<edge source="Reddit_Western_SharnaRanwan" target="fenty">
+  <data key="d4">fenty beauty global brand everything need u centric</data>
+</edge>
+<edge source="Reddit_Western_angiipanda" target="fenty">
+  <data key="d4">personally think shes something think fenty brand need make clear individual invited audition ad campaign think need follow choosing best individual campaign based lot factor including inclusivity dont want see shes talking commodifying trans woman need trans woman tell makeup feel extremely cheap degrading want company cultivate diverse talent pool filling position hiring ad campaign anything within company dont want company pander u commitment diversity skindeep said im trans dont know like trans cant fully fathom experience believe better approach specifically recruit trans woman ill defer id interested conversation shouldwould look like</data>
+</edge>
+<edge source="Reddit_Western_Cortado2711" target="fenty">
+  <data key="d4">think really interesting light jackie ainas comment huda saying inclusion poc cheap pandering inclusivity rihannas obviously right inclusion minority ad campaign easily construed community gimmick important extremely thoughtful clearly taking seriously cant help think screenshot really useful fenty include trans model next campaign preemptive proof intention isnt pander appease audience really representation</data>
+</edge>
+<edge source="Reddit_Western_tealcompass014" target="fenty">
+  <data key="d4">fenty put pic stunna lipstick worn nikita dragun who transgender idk response trying inclusionary</data>
+</edge>
+<edge source="Reddit_Western_Kinky_Breakfast" target="fenty">
+  <data key="d4">unreasonable trans woman encourage suggest represented fenty beauty im totally fine unreasonable</data>
+</edge>
+<edge source="Reddit_Western_FudgeBusiness" target="fenty">
+  <data key="d4">get insta seller price range adhaar detail required r shipping think thats better option already fenty gloss bought ig store</data>
+</edge>
+<edge source="Reddit_Western_hunnybun444" target="fenty">
+  <data key="d4">shes really mostly known lippies foundation shade highlighter everything else might good may little bit subpar shes absolutely going deliver lipstick lip gloss foundation highlighter every time think fenty gloss bomb foundation whats carrying makeup line quality good cant beat think invest time let everything else kinda take backseat like eyeshadow instance kinda reminds nyx theyre known mostly butter lip gloss eyeshadow palette absolutely terrible best product butter gloss eyeliner brow product lipstick everything else ok except eyeshadow palette awful</data>
+</edge>
+<edge source="Reddit_Western_carriethe1" target="fenty">
+  <data key="d4">caught part routine last night us mostly fenty girl taste updated ill add anything else catch later couldnt tell mascara brow pencil using xb also added timestamp</data>
+</edge>
+<edge source="Reddit_Western_Bakerbot101" target="fenty">
+  <data key="d4">tbh urban decay primer best one doesnt crease last day tom ford lipstick amazing janelle time crap makeup bay us fenty actually really awesome product rihanna queen</data>
+</edge>
+<edge source="Reddit_Western_Bakerbot101" target="urban decay">
+  <data key="d4">tbh urban decay primer best one doesnt crease last day tom ford lipstick amazing janelle time crap makeup bay us fenty actually really awesome product rihanna queen</data>
+</edge>
+<edge source="Reddit_Western_Donutwitch29" target="fenty">
+  <data key="d4">scandal fenty</data>
+</edge>
+<edge source="Reddit_Western_mugglesh0pe" target="fenty">
+  <data key="d4">sr havent tried fenty even wasnt light enough fuck people complaining enough foundation match lighter skin ive found maybe one range didnt match stop whining lmao</data>
+</edge>
+<edge source="Reddit_Western_Gigitheuglyduckling" target="fenty">
+  <data key="d4">thanks posting im black bought fenty makeup past large shade range diversity launch cant support makeup brand who owner vile racist personality always super disappointing stuff like happens feel black people poc post racist stuff like rihanna know know better especially point hertheir life would faced sort racism seriously need go viral know im rihanna want apologize say im sorry posted something disgusting instagram ive also noticed bunch racism toward asian people wont get lot attention sickening tarte cosmetic posted something racist instagram last year write lot people act like never happened dont even talk insane supporting fenty beauty anymore hey op suggestion alternative makeup brand</data>
+</edge>
+<edge source="Reddit_Western_twilekquinn" target="fenty">
+  <data key="d4">didnt know another one bite dust guess know probably every brand problematic dont support j dont support lc dont support kvd brand people behind fenty riri mac example problematic buy youre supporting one single arsehole arsehole view know doesnt make company less problematic doubt make traction tbh like j doesnt need apologise change behaviour wont benefit xb</data>
+</edge>
+<edge source="Reddit_Western_NightOwlSupreme" target="fenty">
+  <data key="d4">werent mac makeup forever cover fx already sporting good shade range fenty came along might good option brand already inclusive became thing fenty debuted im sure require crueltyfree doublechecked cover fx faced also extended shade range recently im sure would suitable</data>
+</edge>
+<edge source="Reddit_Western_makeuplife6" target="fenty">
+  <data key="d4">yes totally agree definitely judging anyone hard time finding shade using fenty especially since woman color already disadvantaged enough beauty world</data>
+</edge>
+<edge source="Reddit_Western_nsfwcleanstart" target="fenty">
+  <data key="d4">thus turned indian brand noticed people recommending nonindian origin store eventually get even decent lingerie yes pretty much issue indian origin brand dont go aesthetic comfort way nonindian brand larger market doesnt care aesthetic comfort still undergarment devoid needless recognition everyone wear underwear umm really dont luxury simply choose choice much last year since lockdown underlying societal issue cause surface level seeming one im saying nowhere even close foreign standard everything global displayed absolutely correct couldnt agree saying boat remember last time bought lingerie indian brand fenty expensive indian market cant fulfil want left find sweet spot less expensive pocket friendly nonindian brand gon na add one literally hounded website brand find something good enough catch eye go wish seem know reason behind title question also solution comeoff post taken aback respond earlier</data>
+</edge>
+<edge source="Reddit_Western_musingsandcuriosity" target="fenty">
+  <data key="d4">thats thing fenty expensive afforded indian thus turned indian brand noticed people recommending nonindian origin store eventually get even decent lingerie kurtis cultural speciality india everyone wear underwear taught indian woman worrying underwear bra looking sexy partner wanting look cute private dirty market doesnt sell stuff underlying societal issue cause surface level seeming one im saying nowhere even close foreign standard everything global displayed creates want indian market cant fulfill</data>
+</edge>
+<edge source="Reddit_Western_ediblesprysky" target="fenty">
+  <data key="d4">good article make brand resonate there strong clear vision personality behind thats glossier fenty really common neither one exactly personified obviously someone want part cool girl aesthetic life dont lot either one still feel like get brand know thats flesh break dont know end day still feel drugstore feel like theyre trying appeal everyone therefore one</data>
+</edge>
+<edge source="Reddit_Western_KneelAurmstrong" target="fenty">
+  <data key="d4">nice refreshing read temptalia dont know article like often usually go page review dupe like google searching nars orgasm temptalia going directly page think brand present incredibly important glossier stick cool girl fenty allinclusive colour pop affordable brand stick mantra rarely problem example range urban decay always edgelord makeup name gross always expected guffaw shade name like dope bump blow etc fit brand there auroa ud ud also tends go direction though brand like benefit recent hello happy foundation debuted shade google search real outrage people mostly beauty news company scrubbing twitter tarte level anger regarding shape tape foundation rage hello happy people arent tired talking inclusivity hasnt every popular beauty guru cancelled brand never inclusivity marketing full white woman fun searched ad poc saw advertising theyre real mascara universal product heard hello happy first time week ago brow bar idea existed positive negative hype flew radar completely looked review actually found mua thread commenter said people werent mad shade range benefit never pretend anything besides white woman think trying drive tarte last year trying shift demographic granola eater young millennials future spending power gen z theyve totally knobbing failure launch failure launch subpar product like yearstoolate unicorn mermaid collection biggest failure course shape tape foundation tarte towing along light skinned poc like patrick starr chrisspy desi katy darkest ambassador makeup shayla people bought saw tarte trying shift word action foundation became symbol faux brand platitude holy crap post intented sexualization makeup somehow got since im already hour boring hour shift ask go lmao fuckin stop making everything sexual reason brought ud start one gimmick seedy ploy get people buy product genuinely felt like trying get away like creator flesh like oh whats inclusive thing skin sex skin sex thats hook dont view skin color marker inclusivity dont think either one want sold idea good quality product idea im rubbing dick face gimmick fine line could sell product give beautiful skin fresh born baby still wouldnt buy could never look anyone face say oh fleshy lip lipstick gorge fleshpot eye gloss</data>
+</edge>
+<edge source="Reddit_Western_KneelAurmstrong" target="urban decay">
+  <data key="d4">nice refreshing read temptalia dont know article like often usually go page review dupe like google searching nars orgasm temptalia going directly page think brand present incredibly important glossier stick cool girl fenty allinclusive colour pop affordable brand stick mantra rarely problem example range urban decay always edgelord makeup name gross always expected guffaw shade name like dope bump blow etc fit brand there auroa ud ud also tends go direction though brand like benefit recent hello happy foundation debuted shade google search real outrage people mostly beauty news company scrubbing twitter tarte level anger regarding shape tape foundation rage hello happy people arent tired talking inclusivity hasnt every popular beauty guru cancelled brand never inclusivity marketing full white woman fun searched ad poc saw advertising theyre real mascara universal product heard hello happy first time week ago brow bar idea existed positive negative hype flew radar completely looked review actually found mua thread commenter said people werent mad shade range benefit never pretend anything besides white woman think trying drive tarte last year trying shift demographic granola eater young millennials future spending power gen z theyve totally knobbing failure launch failure launch subpar product like yearstoolate unicorn mermaid collection biggest failure course shape tape foundation tarte towing along light skinned poc like patrick starr chrisspy desi katy darkest ambassador makeup shayla people bought saw tarte trying shift word action foundation became symbol faux brand platitude holy crap post intented sexualization makeup somehow got since im already hour boring hour shift ask go lmao fuckin stop making everything sexual reason brought ud start one gimmick seedy ploy get people buy product genuinely felt like trying get away like creator flesh like oh whats inclusive thing skin sex skin sex thats hook dont view skin color marker inclusivity dont think either one want sold idea good quality product idea im rubbing dick face gimmick fine line could sell product give beautiful skin fresh born baby still wouldnt buy could never look anyone face say oh fleshy lip lipstick gorge fleshpot eye gloss</data>
+</edge>
+<edge source="Reddit_Western_roller_jay" target="fenty">
+  <data key="d4">wrote really long winded reply another thread much lol ill sum thought article strange enthusiast everyday demographic people know wear makeup walk store find something interesting within budget buy remotely close right shade use arent obsessively looking newest thing even googling swatch first serious fenty beauty get pas shade range product average best authentic kylie cosmetic imo werent even close first inclusive brand dont fit tartes demographic theyve long consistently enough believe brand even barely buy revlon staple decade beat brand wanting try something new trendy boring glossier one big cool girl schitck colourpop shamelessly pump mediocre product follow trend setting spray nail polish contour stick etc yters tell u boring mac store packed every saturday internet bubble</data>
+</edge>
+<edge source="Reddit_Western_[deleted]" target="fenty">
+  <data key="d4">yes agree gloss one lipstick gift fenty entire brand nice even look browse online clear image clear message obviously ton effort put development love way flesh eh</data>
+</edge>
+<edge source="Reddit_Western_[deleted]" target="urban decay">
+  <data key="d4">everyones expected ship date say urban decay ultraviolet palette</data>
+</edge>
+<edge source="Reddit_Western_Julialagulia" target="fenty">
+  <data key="d4">agree think kind rubbed wrong way article even though zero desire buy anything flesh actually product love fenty glossier colourpop end day company trying make money hard see authentic</data>
+</edge>
+<edge source="Reddit_Western_Julialagulia" target="urban decay">
+  <data key="d4">someone rooting urban decay im pleased see trend smart move</data>
+</edge>
+<edge source="Reddit_Western_irissteensma" target="fenty">
+  <data key="d4">omg called fenty average kkk grand dragon something</data>
+</edge>
+<edge source="Reddit_Western_Revlon_fan" target="fenty">
+  <data key="d4">disagree fentys initial launch fenty clear aesthetic consumer mind aesthetic consumer wasnt really surprising see new line launch almost color product gloss bomb sheer lipgloss one color nothing couldnt get anywhere else gravitate toward eyeliner eyeshadow lipstick first trying new line initial launch almost nothing told im customer mind think see youre saying flesh honestly im tempted new brand complete line product yeah special could say brand makeup dont need anymore rollout doesnt seem either unusual boring different type highlighter lot brand least different texture think flesh way overpriced dont blame rolling usual makeup product</data>
+</edge>
+<edge source="Reddit_Western_bexbexbobex" target="fenty">
+  <data key="d4">glad discussed like yeah fenty one launch many shade right bat foundation great shade range</data>
+</edge>
+<edge source="Reddit_Western_Brompton_Cocktail" target="fenty">
+  <data key="d4">wish brand made inclusive shade line people dry skin fenty looked like trash meant someone oily skin even oil seperated didnt perform well hope fenty come something drier skin tone cant even imagine deeper poc dry skin handle right</data>
+</edge>
+<edge source="Reddit_Western_SweetandUnsweet" target="fenty">
+  <data key="d4">wonder part fenty seemed range undertone shade woman color used brand mentioned article knew range thought fenty shade undertone seemed inclusive totally sure though</data>
+</edge>
+<edge source="Reddit_Western_eraser_dust" target="fenty">
+  <data key="d4">think range undertone make fenty beauty awesome ive tried brand mentioned helping indian friend search match may go skin shade theyre way warm toned maybellines fit promised huge range shade fenty thingbut im still seeing darker shade indonesia singapore indian make singapore small minority yet maybellines fit offer shade darkest spicy brown still warm light indian friend meanwhile fenty beauty offer shade singapore im damn grateful fenty beauty offering big whats excuse existing brand dont want hear shit oh market small know afford brand want cater shit ive someone give sub got upvoted claim shes indonesian guess mean cant racist fenty fuck excuse</data>
+</edge>
+<edge source="Reddit_Western_funbeam" target="fenty">
+  <data key="d4">cool visualization wish compared brand like nars especially newish radiant longwear line coverfx becca bipocrecommended brand white founder theyre brand inclusivity minute undertone darker shade fenty forgot though cfx need expand olive range upward</data>
+</edge>
+<edge source="Reddit_Western_erst77" target="fenty">
+  <data key="d4">got ta admit kinda surprised learn loral maybelline one shade darker fenty offered fenty pale princess shade anyone else</data>
+</edge>
+<edge source="Reddit_Western_vanillyl" target="fenty">
+  <data key="d4">someone super oily skin fenty doesnt work either report actually seems work best middle neither dry oily</data>
+</edge>
+<edge source="Reddit_Western_WillGrahamsLiver" target="fenty">
+  <data key="d4">super oily skin fenty foundation sucked youth glow face making look dull dry textured</data>
+</edge>
+<edge source="Reddit_Western_4b3ats" target="fenty">
+  <data key="d4">think thats part also fenty beauty shade range evenly dispersed least thats made impressive yes brand great shade range well even drugstore woohoo fall short evenly shade dispersed spectrum</data>
+</edge>
+<edge source="Reddit_Western_RampagingKittens" target="fenty">
+  <data key="d4">mean fenty didnt even try olive undertone fairly common undertone granted couple olive shade name two brand lot time arent even goodreal olive shade lot brand think olive single intensely medium yellow shade brand ive impressed regard coverfx still room improvement lighter shade</data>
+</edge>
+<edge source="Reddit_Western_Ronrinesu" target="fenty">
+  <data key="d4">sound great review swatch arm seemed like product enjoy wanted hype die bit first motivated get fenty every single review swatch telling wont good product think routine pretty decent make sure moisturize well apply makeup think work added wishlist maybe end year ive hopefully finished base product im going get got backup ordinary serum foundation staple product natural light coverage doesnt highlight dry area product recommend dry skin find shade</data>
+</edge>
+<edge source="Reddit_Western_AnalGerbilator" target="fenty">
+  <data key="d4">fenty abh</data>
+</edge>
+<edge source="Reddit_Western_Lana_car23" target="fenty">
+  <data key="d4">fenty perfume brand topicals</data>
+</edge>
+<edge source="Reddit_Western_pepperandplatinum" target="fenty">
+  <data key="d4">wish could see rare beauty fenty makeup tool palette</data>
+</edge>
+<edge source="Reddit_Western_Extra_Fig_7547" target="fenty">
+  <data key="d4">would love try fenty</data>
+</edge>
+<edge source="Reddit_Western_MsTechX" target="fenty">
+  <data key="d4">box content box content tatcha rice wash full size oz indigo overnight repair selfless centella green tea daily cleanser full size item mascara full size candy club lemonade ring oz milk hydro grip primer oz bread polyester ponytail thing sample danessa myricks foundation bubble butter kenyan hibiscus rose hair mask summer friday jet lag mask shandi darden retinol perform floral street wonderland peony perfume virtue vanilla wood phluid project balance perfume sephoria branded make bag tumbler straw bracelet wattached card case tassel pretty good thought would better receiving two cleanser wasnt thought well opinion missed item packing material doe deep conditioning treatment oz fenty beauty gloss bomb diamond milk saie really great gloss chill much happier discovery</data>
+</edge>
+<edge source="Reddit_Western_shansbury82" target="fenty">
+  <data key="d4">announced room yet id love tatcha room listened podcast founder really inspiring really love product fenty danessa myricks milk natasha denona pmg huda would high list</data>
+</edge>
+<edge source="Reddit_Western_camcobeauty" target="fenty">
+  <data key="d4">wanted add sample packet well fenty skin butta drop whipped oil body cream topicals hydrating mask fable mane hair mask</data>
+</edge>
+<edge source="Reddit_Western_chimmyturner" target="fenty">
+  <data key="d4">isnt even first time rihanna fenty something insensitive people culture shes lingerie show savage song sampled muslim prayer verse highly inappropriate obvious doesnt care inclusivity brand push clearly want make quick buck</data>
+</edge>
+<edge source="Reddit_Western_1998xoxo" target="fenty">
+  <data key="d4">yes got lipstick learning cultural appropriation rihanna definitely supporting fenty</data>
+</edge>
+<edge source="Reddit_Western_hitmeagainnoplzdont" target="fenty">
+  <data key="d4">interested fenty kiro</data>
+</edge>
+<edge source="Reddit_Western_maniac-pixie" target="fenty">
+  <data key="d4">fenty available kiro sold sorry</data>
+</edge>
+<edge source="Reddit_Western_redditsuckstho" target="fenty">
+  <data key="d4">brand unproblematic even meet criterion still operate capitalistic framework mean someone somewhere gotten exploited bring u makeup thats highly marked cost penny make worker see cut example fenty mentioned manufactured distributed lvmh division kendo also marc jacob kvd etc im sure little digging factory makeup made thered exploitation worker right problematic worker seizedown mean production therell always problem exploitation human labor say still product makeup company personal line sand make decision live give people money</data>
+</edge>
+<edge source="Reddit_Western_chaospearl" target="fenty">
+  <data key="d4">great point want mention something thatt made doubletake heard fenty makeup community people loving brand ive heard yay nay foundation range universally praised recently talking friend late makeup collection ordered bunch stuff excited makeup person wear mascara lip gloss drugstore never used cared anything beyond nothing wrong wanted establish isnt wellinformed mentioned gloss fenty said oh rihannas makeup e heard thought made black woman find good color mean fact im irish pale quizzed bunch nonmakeup people including guy never heard brand people heard fenty said thought assumed heard makeup intended primarily woman color honestly dont understand idea coming make wonder many people think brand comfortable association potentially driving lightskinned woman assume shade isnt avaiable even worse let face people think way dollar value arent pig dont want buy makeup black people</data>
+</edge>
+<edge source="Reddit_Western_prettyincolors" target="fenty">
+  <data key="d4">someone also posted fenty rls deal sub maybe also juvias would actually really happy see indiai going copy relevant part reply deal sub ppl aware psa fenty launch cross border store normal nykaa would happier normal nykaa cross border store havent shopped yet cross border store concept similar maccaron mg shipped internationally need id proof customer clearance tho clearance done courier partner proof uploaded subject international shipping time etc seeing long mg service take like month ppl wish fenty would launch general nykaa cb however would like know anyone tried cross border store nykaa experience note afaik custom charge included displayed cost per policy extra custom charge headache pls get confirmation nykaa shopping cb</data>
+</edge>
+<edge source="Reddit_Western_Frequent_Disaster380" target="fenty">
+  <data key="d4">fenty cant help rooting pig bottom left</data>
+</edge>
+<edge source="Reddit_Western_AFishCalledWakanda" target="fenty">
+  <data key="d4">poc african birth shade generally described dark deep dark fenty nw incredibly vague unsurprising always descriptor anything darker tan prefer deep dark descriptor dark undertone general ive learned ignore way described particularly helpful growing skin tone interesting grew allwhite family adopted allwhite village stuck even family moved abroad country ton african still stuck came completely different part africa enjoy blank white people look tell ive gotten tan sun though surprising amount population isnt aware black people tan issue makeup description come little fetishy word like ebony nubian chocolate throw coffee chestnut cocoa brown food like get thrown around lot also never work actually figuring shade never really describe skin color anything black especially follow beauty influencers shade black let heavy lifting kinda answered question say commonly known black community medium advertisement prefer lighterskinned poc half black woman seen preferred especially hair representation shifted slightly darker notice still mostly half black extremely black woman tie back fetish aspect midrange black isnt necessarily ignored kind get vibe generally seen uninteresting boring dark skin tone</data>
+</edge>
+<edge source="Reddit_Western_aggressive-teaspoon" target="fenty">
+  <data key="d4">im never sure im allowed helpful poc discussion go skin depth foundation shade reference see skin depth light medium deep etc versus company market ethnically han chinese born raised u fall veryfair range cosmetic product yearround best match sx kevyn aucoin sensual skin enhancer drieddown smashbox reference fenty right depth would need dash yellow mixer company shade usually described fair fairest fair though fairest really dumb descriptor since definitely people fairer experience growing skin tone affect way perceive skin tone extended family side fairly colorist rarely interacted vaguely aware pale chinese standard didnt affect way lived perceived u dont really burn tan yellow tone skin keep looking super pale without sidebyside comparison didnt develop selfimage issue skintone got makeup college base skin tone description makeup brand base personal experienceobservation mostly base description official description shade match context discus skintone recommending makeup product asking recommendation make sense use marketing language makeup brand fair veryfair neutral part relatively uncontroversial however feel like im fairly yellow foundation labeled peach one match guess im mostly describing undertone peach talk pocs darker coloring feel commonly mislabeled skin depth terminology dont darker coloring ill try keep brief lot undertone labeling brandprovided undertone quiz seem really problematic understand east asian much minority west asian beauty even worse shade inclusivity would prefer makeup brand honest shade rather lying skintone</data>
+</edge>
+<edge source="Reddit_Western_coffeeandcheesecake" target="fenty">
+  <data key="d4">there lot unpack post skin tone im would defined light skinned eastasian im usually around fenty estee lauder n photo swatch blog summer skin tone combination isolation working white collar job religious sunscreen application age im getting lighter year currently paler shade need use colour mixer also winter childhood experience grew dividing time australia asia dont stereotypically asian feature racist point yellow skin small eye joke didnt make sense even bully today many many asian people background australia friendship group mixed multicultural group cultural end spectrum im paler immediate family member markedly comparison extended family taiwanese aboriginal parent didnt make big deal skin colour didnt grow home environment made selfconscious contrast every single time saw extended family theyd make commentary skin colour became tan id hear extensive criticism woman men thought lighter skin tone didnt make look like much shielded discussion didnt truly learn full extent adult time old enough know really meant id already formed idea construction beauty able ignore observation self makeup industry might minority skin tone topic seldom come across consciousness honestly ever hear skin tone skin colour reddit youtube rarely come conversation everyday life skin colourtone effect career adult life maybe privilege people talk acknowledge way hardship find makeup product suit complexion however truly think deliberate choice parent made continued choice adult surround people dont care responsible idea skin colour outlook might different deeper skin tone social medium widespread teen dont problem label light medium tan deep etc wish makeup company would use number system like fenty mac estee lauder add warm neutral cool designation would take away connotation skin tone name make consumer choice based practical consideration</data>
+</edge>
+<edge source="Reddit_Western_gli3247" target="fenty">
+  <data key="d4">ethnically han chinese born raised canada immigrant parent foundation match mac nc bit warm n would probably work better fenty nars salzburg view skin tone light though referred lightmedium several redditors told fairlight marketed anywhere fair lightmedium depending brand find k beauty brand wear shade middle darker end spectrum confused shade range restrictive growing never paid attention colour skin though parent would frequently comment asian people got tanned looked like animal huge history colourism asia china farmer used get tanned working sun pale skin symbol wealth status trying look white however aware colonization part asia pale skin worship much darker root addition never thought light skinned stereotype asian tanned yellow something thought often sometimes struggle define skin tone dont know undertone make foundation right depth work long blend neck began wearing makeup described peach undertone believed pink undertone friend would comment looked pink probably facial redness swatching foundation concealers neck thought olive still know go neutralcool help every brand different definition warm like peach yellow orange smh base description nothing different every brand find match use findation google swatch hope best darker skinned poc sure feel mislabeled skin depth terminology think terrible around</data>
+</edge>
+<edge source="Reddit_Western_aloneh95" target="fenty">
+  <data key="d4">im fenty day justify cost im getting match stix</data>
+</edge>
+<edge source="Reddit_Western_alysurr" target="fenty">
+  <data key="d4">lot indie makeup brand im really makeup enough warrant bunch different sample eyeshadow approach lazy deal loose shadow everything see indie brand im like like fenty try lip gloss favorite</data>
+</edge>
+<edge source="Reddit_Western_bwabwabwabwum" target="fenty">
+  <data key="d4">ever buy product fenty beauty would recommend lipgloss handsdown seemed way overpriced first got little ago like maybe two month ago already used half dont know flattering comfortable lipgloss ever used dry skin also never contour face beyond using blush highlight product wouldnt work lipgloss somethin else</data>
+</edge>
+<edge source="Reddit_Western_quespal" target="fenty">
+  <data key="d4">almay need update formula much need new marketing plan said think turn thing around position drugstore alternative brand like fenty glossier laura mercier get away smaller shade range explicit sheer tint coverage</data>
+</edge>
+<edge source="Reddit_Western_hadapurpura" target="fenty">
+  <data key="d4">pain say reason like lip gloss id rather keep carrie underwood commercial least theyre true life cater demographic theyre actually able serve aka white rural middle american woman need put something face guess work social function want think makeup perfectly valid outlook life almay sell country tell level theyre racist company lack shade tell want makeup brand racist arent capable making darker shade cant even nail one theyve making forever understandable thing irks new ad seems like theyre trying city strike rural brand u dont see get away root never gon na mac fenty beauty plenty people size color rural middle america actually niche interesting underserved one beauty world cultivate salt earth allamerican aesthetic become diverse company</data>
+</edge>
+<edge source="Reddit_Western_ismabit" target="fenty">
+  <data key="d4">mean inclusive fenty</data>
+</edge>
+<edge source="Reddit_Western_abcdefghik123" target="fenty">
+  <data key="d4">recommend rare beauty fenty wide range shade really good quality</data>
+</edge>
+<edge source="Reddit_Western_gossipbomb" target="fenty">
+  <data key="d4">yeah read braggy article headline said savage x fenty going size inclusive claim size inclusive max cup size dd maybe actual product line released better</data>
+</edge>
+<edge source="Reddit_Western_somethingsophie" target="fenty">
+  <data key="d4">dont forget minus sized girl honestly havent heard savage x fenty lingerie line really super impressed fenty foundation line fenty cosmetic honestly refreshing see however super unfortunate expectation size inclusivity u bra size low ordered lingerie set england earlier month ann summer set gorgeous im able get away b sister size im never completely satisfied never justify spending money bra im satisfied try contact let know think size range need expanded believe passively sitting high hope</data>
+</edge>
+<edge source="Reddit_Western_boomberrybella" target="fenty">
+  <data key="d4">lingerie addict post business side bra manufacture yeah based expecting core size addd im pretty impressed theyre managing offer actually impressive wouldnt want launching brand first collection try fit full bust bra simple dont knowledge research dev well remember year ago new brand trying make full bust bra expanded range fit absolutely torn apart poorly done didnt needed thats would happen savage x fenty well profitable start expanding range thats nubian skin done cant expect brand go instantly</data>
+</edge>
+<edge source="Reddit_Western_fourfs" target="fenty">
+  <data key="d4">wouldnt want launching brand first collection try fit full bust bra simple dont knowledge research dev well remember year ago new brand trying make full bust bra expanded range fit absolutely torn apart poorly done didnt needed thats would happen savage x fenty well profitable start expanding range thats nubian skin done cant expect brand go instantly guess response research make quality bra outside matrix size launching there huge market know thats plausible business world today financially speaking even successful much lauded katherine hamilton go hh cup launched band exactly one style hhs bra always stock inquired response oh darn cant make enough check back next season justi want go buy bra store real physical store time know</data>
+</edge>
+<edge source="Reddit_Western_coldvault" target="fenty">
+  <data key="d4">total laywoman involvement real knowledge underwear industry im happy corrected informed doesnt make sense simple dont knowledge research dev well far new brand go id assume rihannas would resource usual develop full line getgo ill go back example fenty beauty thisa lot company dont resource start shade foundation many company launch common shade first expand deeper shade significantly later fenty owned kendo owned lvmh reasoning new brand dont literally start scratch hire professional experience buy existing knowledge bra design kind industry knowledge thats secret like recipe famous food common like formula basic cosmetic brand able start dd bra hope one afford associated rihanna</data>
+</edge>
+<edge source="Reddit_Western_eveningtrain" target="fenty">
+  <data key="d4">fenty beauty kendo brand turn lvmh owns sephora responsible several makeup brand including kat von marc jacob bite beauty etc like brand starting scratch dev lab manufacturing system already firmly place wonder similar situation lingerie line really starting would thought launching truly inclusive size range would line rhis branding fenty beauty sucess priority however many people fashion entertainment costume beauty industry ignorant correct bra sizing average person street</data>
+</edge>
+<edge source="Reddit_Western_lilyspawrent" target="fenty">
+  <data key="d4">really give fuxk pandering long everyone find shade option term brand regardless complexion think people worrying stuff arent one affected point dont care business make money want find shade oh newsflash every single business make profit yes even fenty</data>
+</edge>
+<edge source="Reddit_Western_Thatonepandathing" target="fenty">
+  <data key="d4">definitely pandering arent listening criticism fenty well large number shade inclusive shade range people different complexion similar amount shade choose pandering brand advertises inclusivity boast shade shade represented like heard complain lack shade added instead listening needed there also fact large company wouldnt need pander diverse team</data>
+</edge>
+<edge source="Reddit_Western_aquarelable" target="fenty">
+  <data key="d4">joke aside harrys merch shit quality design overpriced fuck look like doesnt work makeup business scare shitless company really great team leading maybe could awesome harrys team arent known great either let say im really optimistic think may time start worrying young girl money rare thing industry yeah riri business making fenty knew makeup industry needed help extending shade foundation dark skin make great quality obvious behind process kim k kylie make sense cause use everyday life know sell harry going dont think going test product see work feel nice even propperly show going plaster name approach could service make gender neutral us oportunity make makeup unisex kind thing like harris reed guess idk im really optimistic company like need campaign listening client make really useful product contribute something society beauty business like rihanna harry absent year seeing merch feel terribly wrong term graphic design based merch great either really hope im wrong tho</data>
+</edge>
+<edge source="Reddit_Western_kimsaprincessllc" target="fenty">
+  <data key="d4">like point bring good point gucci dooney burke louis vuitton heard savage x fentys new york store going huge high street location nike former tenant skimss pop ups look like try go smaller square footage maybe theyll research take point analysis</data>
+</edge>
+<edge source="Reddit_Western_Madmaddie2" target="fenty">
+  <data key="d4">feel like im sure rihanna really want everyone shade people makeup industry care inclusivity feel like everything brand image money tarte hadnt gotten backlash shape tape foundation wouldnt never relaunched asked listened slogan feel like morphes case shade foundation range marketing trying top fenty darkest shade still light nyma tang</data>
+</edge>
+<edge source="Reddit_Western_donkeypunchtrump" target="fenty">
+  <data key="d4">mac makeup forever even loreal many shade fenty even thing</data>
+</edge>
+<edge source="Reddit_Western_Pink_Blacksmith" target="fenty">
+  <data key="d4">mean lvmh owns fenty beauty french already partnership olympics expect lvmh brand probably announce partnership well</data>
+</edge>
+<edge source="Reddit_Western_Forsaken-Duck-8142" target="fenty">
+  <data key="d4">hope woman paris fenty ad considering got walk fenty show</data>
+</edge>
+<edge source="Reddit_Western_banananutnightmare" target="fenty">
+  <data key="d4">shefenty still partnered depp</data>
+</edge>
+<edge source="Reddit_Western_velvetvagine" target="fenty">
+  <data key="d4">dont give idea dont want fentys witness people banging door asking moment talk bronzer gifgiphyzowztlnonxtjzgql</data>
+</edge>
+<edge source="Reddit_Western___Anamya__" target="fenty">
+  <data key="d4">three lingerie line also got fined scamming customer fenty worse working condition shein</data>
+</edge>
+<edge source="Reddit_Western_whenthereisfire" target="fenty">
+  <data key="d4">ive already heard people using fenty shade descriptor fact still new mac around decade doesnt anywhere near international availability mac make difficult beat</data>
+</edge>
+<edge source="Reddit_Western_louiseber" target="fenty">
+  <data key="d4">ubiquity mac around long available many country became base line also theyve matching people entire time fenty may join lexicon soon say</data>
+</edge>
+<edge source="Reddit_Western_P_Grammicus" target="fenty">
+  <data key="d4">fenty inclusive mac mufe este lauder dl etc many company similar number available shade many company mac offering wide range shade multiple formula various retailer decade fenty launch impressive many way first time someone offered wide shade range sheer number shade best way measure inclusiveness think fenty done differently less shade range marketing put entire shade range used wide shade range major marketing point unquestionably unusual applauded think marketing people behind fenty got timing message perfect current zeitgeist im happy however fenty might disaster might disappear three year might never expand product include multiple formula different skin type makeup need interest brand might fizzle extremely new player old market catering particular skin type sole foundation offering thats sensible new brand doesnt make realistic use standard reference</data>
+</edge>
+<edge source="Reddit_Western_jigglywigglybooty" target="fenty">
+  <data key="d4">mac around decade well established number system tell shadeundertone lot foundation matrix use point reference since shade range large fenty great bringing issue inclusion light still relatively new first good range shade mac mufe lancme coverfx prescriptives etc inclusive see people using fenty reference least youtube comment sometimes mua</data>
+</edge>
+<edge source="Reddit_Western_PhyrraNyx" target="fenty">
+  <data key="d4">sadly dont match fenty match cover fx person created mac shade system cover fx cover fx n neutral p cool g warm</data>
+</edge>
+<edge source="Reddit_Western_PhyrraNyx" target="urban decay">
+  <data key="d4">interesting color story ive seen urban decay forever</data>
+</edge>
+<edge source="Reddit_Western_dreamphone" target="fenty">
+  <data key="d4">mac shade name include description n c w nc nw automatically tell preliminary information undertone without needing reference contrast dont tell much except one probably quite light one probably quite deep mac thirty year older fenty greater availabiliy worldwide standalone store used professional decade would argue greater entrenched presence outside immediate beauty community social medium generally skews young mac product formula finish oily skin dry skin combo powder liquid cream result larger audience fentys current lineup doesnt many option dry mature skin type potential consumer base limited totally support fenty done dont see reason would replace mac standard shade reference hope push towards inclusivity continues imply fenty sole revolutionary driver behind movement seems neglect history cosmetic brand time forty shade initial launch dramatic far brand extensive range</data>
+</edge>
+<edge source="Reddit_Western_ChouettePants" target="fenty">
+  <data key="d4">actually even darker shade people trouble finding match fenty</data>
+</edge>
+<edge source="Reddit_Western_Toma_the_Wondercat" target="fenty">
+  <data key="d4">dont actually shade fenty never</data>
+</edge>
+<edge source="Reddit_Western_corgisaretheanswer" target="fenty">
+  <data key="d4">mention mac ton different formula people find formula like top color fenty one foundation right skin doesnt like youre club dont wear foundation dont know shade id though suppose could made educated guess think fenty upward trajectory going wouldnt surprised people eventually know fenty number come liquid concealers im going quick</data>
+</edge>
+<edge source="Reddit_Western_weavesunlight" target="fenty">
+  <data key="d4">definitely agree hereonce learn ncnw descriptor get general base undertone isnt really present fenty supposed know neutral neutral olive neutral peach numbering system undertone doesnt sort logic</data>
+</edge>
+<edge source="Reddit_Western_MoscatoRose" target="fenty">
+  <data key="d4">brand may similar number shade mean cover wide range nw mac fenty however shade mufe estee lauder coverfx darkest shade lighter also dont perfect shade lancome mix c dont want mix shade another thing lot people realize lot brand carry whole shade range outside usa live canada access brand carry shade sephora fenty sephora foundation forget drugstore option cuz never carry anything beyond lightmedium waiting new bobbi brown launch launch shade meanwhile fenty launched colour sephora location believe darker shade continue sell fenty may new player old market however also catering group people typically left old market someone light medium skintone range may another foundation however people deeperdarker skin range something new widely available thats whenever people say fenty catrice foundation frustrates may formula someone like never try catrice foundation available shade dont think fenty going anywhere anytime soon people deeperdarker complexion way see shooting foot future complexion release less inclusive current lineup answer ops original question people using fenty reference shade noticed pocs range</data>
+</edge>
+<edge source="Reddit_Western_genderwolves" target="urban decay">
+  <data key="d4">urban decay naked liquid foundation favorite foundation ever ive using since september sad wont able afford replace finally run im looking similar dupe drug store brand considering maybelline right since theyre often quarter price</data>
+</edge>
+<edge source="Reddit_Western_frecklesandgeckos" target="urban decay">
+  <data key="d4">always use brush switch flat topped brush optical blurring brush urban decay also use finger im pinch</data>
+</edge>
+<edge source="Reddit_Western_emmashawn" target="urban decay">
+  <data key="d4">remember started getting makeup around watched many makeup video saw cool product urban decay always coolest thing remember pop eyeshadow palette primer potion something wanted badly werent sephora store near lived kid starting play around makeup really miss whimsical unique vibe makeup product everything minimal bland</data>
+</edge>
+<edge source="Reddit_Western_PhoneOwn615" target="urban decay">
+  <data key="d4">one right urban decay surreal skin liquid makeup foundation</data>
+</edge>
+<edge source="Reddit_Western_adventureremily" target="urban decay">
+  <data key="d4">miss urban decay actually living name unique product naked v whatever theyre</data>
+</edge>
+<edge source="Reddit_Western_millennium_fae" target="urban decay">
+  <data key="d4">artem would gift cute seasonal makeup gift set wellliked cuter brand like milk bite beauty vyn would gift imported compilation spa set designed relaxation focused natural ingredient like ncessaire glow recipe luke would shyly gift expensive tool rather product cause thats safest bet head like newest top line dyson hair iron superpowered micro toning massage device marius would like one boyfriend gave girl urban decay entire naked eyeshadow set like makeup hed give would basically uniquely packaged pr kit</data>
+</edge>
+<edge source="Reddit_Western_ItsCarinaTunt" target="urban decay">
+  <data key="d4">product type primer brand urban decay product name original eyeshadow primer potion price usd volume ounce best time place buy ulta sephora urban decay storesonline included day beauty past best wait ulta prestige sephora coupon sale uds site udpp make eyeshadow stay put look freshly applied even full day hour wear refuse wear eyeshadow without</data>
+</edge>
+<edge source="Reddit_Western_PM_ME_COLOUR_HEX" target="urban decay">
+  <data key="d4">productyouniqueabhbeccabenefithard candyinglotjeffreekat von dloralmacmakeup forvermaybellinenarsnyxtartetoo facedurban decaywet n wild liquid foundation powder foundation primer concealer highlighter contour bronzer blush brow pencil brow powder eye primer eyeliner liquid eyeliner pencil eyeshadow single eyeshadow quad eyeshadow palette cream shadow mascara lash serum bullet lipstick liquid lipstick lip balm lip exfoliator lip liner setting spray hello im making table make easier u compare thus far ive included product least two entry list alphabetical order save younique theyre unique ill continue edit table long screen would recommend zooming ctrl cmd price expensive younique counterpart embolded product expensive youniques youniques emboldened complete know nothing makeup please correct im wrong made mistake table</data>
+</edge>
+<edge source="Reddit_Western_itonlytakes11" target="urban decay">
+  <data key="d4">really didnt realize bad especially since im huge urban decay gal lot holy grail drugstore product loveeeeee nyx setting spray cant fathom paying dollar poonique get nyx equivalent like price even buck ud one hard love gah</data>
+</edge>
+<edge source="Reddit_Western_ggiatepur" target="urban decay">
+  <data key="d4">decluttering selling slightly used item prefer ship u please located california minimum purchase please paypal payment shipping start price include shippinig hourglass ambient lighting powder used x diffused light ethereal light mood light dim light hourglass ambient lighting palettedim light depotted color order reason got directly sephora store barely touched bare mineral stroke light eye brightener used x luminous bareminerals bare skin pure brightening serum foundation barely used bare beige bare nude becca beach tint fig used x bite beauty high pigment pencilusedx pomegranate bobbi brown long lasting cream eyeshadow stick sand duneusedx buxom full bodied lip glossused xin hey baby hello lover ohlala eachtake cover fx total cover cream foundation g usedx gerard cosmetic lipstickused x tequila sunrise givenchy ombre cream eye shadow rose dentelle usedx makeup geek foiled eyeshadow used x jester makeup geek pigmentusedx liquid gold mally eyeshadow sticksused x gunmetal marc jacob twinkle pop eye stickused x volver shoshanna leila eachtake nars light reflecting loose powder used x physician formula bronze booster glow boosting airbrushing bronzing veilused x missing mini brush mediumdark tarte bb tinted treatment primer spf used x packaging quite dirty makeup drawer rarely used medium medium tan tarte colored clay cc undereye correctorbarely touched lightmedium urban decay revolution lipstickusedx liar naked urban decay single eyeshadowusedx flash urban original decay primer potion squeeze tube version ozused x ysl rouge volupte shineused x pink paris revlon super lustrous lipsticksusedx toast new york rose velvet take maybelline color tattoo used x electric blue pomegranate punk eachtake jessies girl pure pigment eye dust usedx sunlit cactus nyx cream shadowusedx suede confirmation pic</data>
+</edge>
+<edge source="Reddit_Western_piggietimes" target="fenty">
+  <data key="d4">fun tom ford eyeliner nothing compare honestly even though price tag kill fenty powder bronzer inda sun easiest wear true neutral armani luminous silk foundation perfect color match make skin look near perfect without cake face clinique take day easy use doesnt sting eye like farmacy drunk elephant charlotte tilbury film star bronzer glow highlighter part love subtle sheen bronzer isnt bad favorite</data>
+</edge>
+<edge source="Reddit_Western_unprecedentedthymes" target="fenty">
+  <data key="d4">posted info well shes vegan cruelty free definitely aligned value couple cheaper amazon brush mac sonia kashuk sephora far tell doesnt lot disappointed amazon brush doesnt like buy nice thing recommendation welcome actual makeup us fenty pro filtr primer foundation fenty match stix glossier lash slick boy brow brow flick urban decay eyeshadow primer smash box foundation primer color correcting green tartelette bloom also thinking getting makeup clue thing likeswould want</data>
+</edge>
+<edge source="Reddit_Western_unprecedentedthymes" target="urban decay">
+  <data key="d4">posted info well shes vegan cruelty free definitely aligned value couple cheaper amazon brush mac sonia kashuk sephora far tell doesnt lot disappointed amazon brush doesnt like buy nice thing recommendation welcome actual makeup us fenty pro filtr primer foundation fenty match stix glossier lash slick boy brow brow flick urban decay eyeshadow primer smash box foundation primer color correcting green tartelette bloom also thinking getting makeup clue thing likeswould want</data>
+</edge>
+<edge source="Reddit_Western_yEEuhboyeeeeeee" target="urban decay">
+  <data key="d4">reason read description thought urban decay beauty brand got really excited thinking acnh eyeshadow palette equally awesome tbh lol</data>
+</edge>
+<edge source="Reddit_Western_patriotfear" target="urban decay">
+  <data key="d4">vietnam balance undeniable beauty unchecked urban decay magical</data>
+</edge>
+<edge source="Reddit_Western_stevebaescemi" target="urban decay">
+  <data key="d4">noticed thing seemed dwindling theyd gone decent sized counter department store boot little rack although covent garden boot london got new urban decay counter product selection pretty limited foundation lipstick eyeshadow primer potion hg year im looking forward finding replacement come</data>
+</edge>
+<edge source="Reddit_Western_Environmental-Song16" target="urban decay">
+  <data key="d4">omg sad urban decay amazing still moonlight cream highlighter urban decay got love makeup appreciate quality</data>
+</edge>
+<edge source="Reddit_Western_ItsmeKT" target="urban decay">
+  <data key="d4">love urban decay reason shadow dont agree eye eye always water corner turn red wear shadow didnt used started maybe ish year ago brand</data>
+</edge>
+<edge source="Reddit_Western_Althesleepdealer" target="urban decay">
+  <data key="d4">year two back looking urban decay local french sephora ive told fact store anywhere else country urban decay decided sell france anymore im still pissed lot time favorite product</data>
+</edge>
+<edge source="Reddit_Western_lifesapreez" target="urban decay">
+  <data key="d4">big urban decay person drugstore makeup first ud product heavy metal eyeshadow palette released limited edition really complemented indian outfit well also got lip liner really good</data>
+</edge>
+<edge source="Reddit_Western_Alcazarazay" target="urban decay">
+  <data key="d4">still original naked palette mini heat honey still work beautifullyi wanted get naked cherry palette ive fallen rabbithole finding urban decay discontinued</data>
+</edge>
+<edge source="Reddit_Western_Acrobatic_Ad_2481" target="urban decay">
+  <data key="d4">urban decay used cool edgy sold loreal</data>
+</edge>
+<edge source="Reddit_Western_dystopiaincognito" target="urban decay">
+  <data key="d4">urban decay purchased loreal eleven year ago last year something like sold este lauder though im shocked though company like urban decay going away like though especially since definitely back fashion day</data>
+</edge>
+<edge source="Reddit_Western_hr_newbie_co" target="urban decay">
+  <data key="d4">somebody turned onto skindinavias setting spray recently manufacture nighter urban decay name bottle dont use ud product first brand used started wearing makeup early kind sad honestly</data>
+</edge>
+<edge source="Reddit_Western__Nurse_Joy_" target="urban decay">
+  <data key="d4">literally posted day ago much missed old formula end era urban decayddict decade half miss subway token innovative collaboration like whoever bought ten year ago made antiseptic exact opposite famous</data>
+</edge>
+<edge source="Reddit_Western_criticalstars" target="urban decay">
+  <data key="d4">urban decay got makeup got face prom year ago thats sparked love makeup shame</data>
+</edge>
+<edge source="Reddit_Western__Sinann" target="fenty">
+  <data key="d4">think older brand continued producing quality product alright natasha denona isnt necessarily older brand theyve around since beginning youtube day biggest thing dramatic eyeshadow palette natasha denona palette fine theyre widely known impeccable quality kind quality even simple eye look worth getting something ud many flop discontinued favorite make sense theyre downsizing hard compete market rare beauty fenty etc cant get time stay true root</data>
+</edge>
+<edge source="Reddit_Western_belckie" target="urban decay">
+  <data key="d4">imagine could interview chief marketing officer urban decay morphe even exec sephora get brand perspective craziness good luck school cant wait see art</data>
+</edge>
+<edge source="Reddit_Western__1963" target="urban decay">
+  <data key="d4">ive never problem powder product urban decay setting spray could spray isnt right one id suggest taking foundation touchups youre really worried</data>
+</edge>
+<edge source="Reddit_Western_lumpuswumpus365" target="urban decay">
+  <data key="d4">mcdonalds snack wrap urban decay take away something love bring back year later mark word return</data>
+</edge>
+<edge source="Reddit_Western_Jennasaykwaaa" target="urban decay">
+  <data key="d4">omg iswas best palette want exact palette back pretty please urban decay open reading dupe</data>
+</edge>
+<edge source="Reddit_Western_prettypurplepolishes" target="urban decay">
+  <data key="d4">ive used urban decay eyeshadow brand youve listed compared ud id say colourpop one less chalky theyre pretty easy blend id go far saying colourpops eyeshadow probably best get price point would probably pay high end price colourpop eyeshadow palette</data>
+</edge>
+<edge source="Reddit_Western_Crazy-Song-3994" target="urban decay">
+  <data key="d4">limited release og naked palette urban decay disappointment alltime favorite eyeshadowcolor sidecar available palette limited release sidecar reformulated lackluster peachy gold glitterbomb resembles nothing original</data>
+</edge>
+<edge source="Reddit_Western_leelab-ami" target="urban decay">
+  <data key="d4">bring back gaucho pant need whole naked urban decay revolution</data>
+</edge>
+<edge source="Reddit_Western_vowelparty" target="urban decay">
+  <data key="d4">launched came double ended eyeliner black brown thats increase rip think urban decay would much better figured way make product affordable theyre already dying edit google worth today guess fine ouch</data>
+</edge>
+<edge source="Reddit_Western_Vio_" target="urban decay">
+  <data key="d4">finally entered era true urban decayed</data>
+</edge>
+<edge source="Reddit_Western_EzriDaxCat" target="urban decay">
+  <data key="d4">howling urban decayedand urban decay collectori feel little called totally stealing want purple glittery vinyl put vanity mirror</data>
+</edge>
+<edge source="Reddit_Western_aboveallbeboring" target="urban decay">
+  <data key="d4">miss urban decay interesting best unusual eyeshadow color glitter never forgive going naked aesthetic</data>
+</edge>
+<edge source="Reddit_Western_fckinsleepless" target="urban decay">
+  <data key="d4">cool ive never really seen urban decay makeup naked palette era packaging eyeshadow much interesting plain clear one use</data>
+</edge>
+<edge source="Reddit_Western_kittycatsfoilhats" target="urban decay">
+  <data key="d4">wow score two tube urban decay urban fx microgiltter one time favorite</data>
+</edge>
+<edge source="Reddit_Western_the_silentoracle" target="urban decay">
+  <data key="d4">ugh eyeshadow color era holy grail status ive never found dupe rip old school urban decay used good</data>
+</edge>
+<edge source="Reddit_Western_Emilythatglitters" target="urban decay">
+  <data key="d4">amazing swatch honestly impressive urban decay achieved close match must slightly different formula ingredient think naked look touch warmer new palette maybe buck darkhorse im pleased hear updated shimmer formula though personally would like go metallic bit dated sheerer shimmer prefer wear</data>
+</edge>
+<edge source="Reddit_Western_passionicedtee" target="urban decay">
+  <data key="d4">never heard robin eisenberg color unexpected go together beautifully imo definitely something unique urban decay agree shouldnt naked line though dont know anybody look like sin foxy baked violet cyber wild west heat honey naked yall id see</data>
+</edge>
+<edge source="Reddit_Western_GrannyB1970" target="urban decay">
+  <data key="d4">dont care called one first urban decay palette ive super interested year actual color palette</data>
+</edge>
+<edge source="Reddit_Western_glitches_and_hoes" target="urban decay">
+  <data key="d4">worked product fell certain category almost like subbranding naked nighter vice etc palette would far better vice branding however sizeshape palette always criticised bulky whereas shape naked palette far travel friendly naked range popular fair customer even realise urban decay assumed naked brand</data>
+</edge>
+<edge source="Reddit_Western_TheDollyMomma" target="urban decay">
+  <data key="d4">honestly first urban decay naked palette im seriously considering purchasing going wait see swatch though last ud palette bought stoned vibe actual shadow palette sucked</data>
+</edge>
+<edge source="Reddit_Western_Pix9139" target="urban decay">
+  <data key="d4">ngl best looking pallet urban decay made hot minute</data>
+</edge>
+<edge source="Reddit_Western_PeepsUnderTheBed" target="urban decay">
+  <data key="d4">urban decay nars faced et al need stop sex name grown as adult working hard money makeup luxury item many economy dont need safe word lipstick threesome blush orgasm gloss better sex mascara juststop</data>
+</edge>
+<edge source="Reddit_Western_PrinceTamaki1" target="urban decay">
+  <data key="d4">actually excited urban decay release im going pick id like think came saw u dragging got shit together</data>
+</edge>
+<edge source="Reddit_Western_Flisseflasse" target="urban decay">
+  <data key="d4">wouldnt surprise nakedbranding recognizable urban decay customer mean naked logo like packaging lol</data>
+</edge>
+<edge source="Reddit_Western_shrimpslippers" target="urban decay">
+  <data key="d4">first time ive excited urban decay launch year though ive hearing great thing new vinyl lipstick intrigued</data>
+</edge>
+<edge source="Reddit_Western_tigm2161130" target="urban decay">
+  <data key="d4">worked urban decay educatora lot print work back original naked era screaming thank</data>
+</edge>
+<edge source="Reddit_Western_redwoods81" target="urban decay">
+  <data key="d4">definitely midrange feel like urban decay gunning audience</data>
+</edge>
+<edge source="Reddit_Western_divadream" target="urban decay">
+  <data key="d4">amen honestly wish point urban decay would call day hero product transferred loreal brand</data>
+</edge>
+<edge source="Reddit_Western_s18shtt" target="urban decay">
+  <data key="d4">find abh much harder blend hardly use palette even though urban decay less pigmented blend better always layer preference guess</data>
+</edge>
+<edge source="Reddit_Western_Serenajf" target="urban decay">
+  <data key="d4">first pallet ammo pallet urban decay shade</data>
+</edge>
+<edge source="Reddit_Western_Jojosbees" target="urban decay">
+  <data key="d4">urban decay wallpaper palette circa</data>
+</edge>
+<edge source="Reddit_Western_PhlossyCantSing" target="urban decay">
+  <data key="d4">ancient palette urban decay also forget called covered purple velvet like chain mail cover shade inside bright intense also ancient palette mom gave first started getting makeup mid got many gorgeous silver shade like pull compare shade modern one difference makeup trend wild</data>
+</edge>
+<edge source="Reddit_Western_wildbeest55" target="urban decay">
+  <data key="d4">first palette urban decay naked still first high end eyeshadow individual mac sure long ive im</data>
+</edge>
+<edge source="Reddit_Western_theywerecones" target="urban decay">
+  <data key="d4">peak urban decay</data>
+</edge>
+<edge source="Reddit_Western_learnandrelearn" target="urban decay">
+  <data key="d4">oh gosh first urban decay palette loved</data>
+</edge>
+<edge source="Reddit_Western_Forward-Pool-3818" target="urban decay">
+  <data key="d4">mean white linereyeshadow called yayo red lipstick eyeshadow called gash even brown lipstick called back door sticking true urban decay brand people got sensitive started complaining edgy basic name likeiced americano</data>
+</edge>
+<edge source="Reddit_Western_Rumchunder" target="urban decay">
+  <data key="d4">mildew old digit batch code old urban decay scratch typeface</data>
+</edge>
+<edge source="Reddit_Western_lizifer93" target="urban decay">
+  <data key="d4">great palette really miss urban decay old palette also one old vice holiday palette cool wish werent basic</data>
+</edge>
+<edge source="Reddit_Western_BreannaNicole13" target="urban decay">
+  <data key="d4">product used foundation concealer doublewear c pure beige eyeshadow urban decay ultraviolet palette eyeliner doublewear stay place liner onyx mascara clinique high impact lash eyelure brow estee lauder brow multitasker light brunette</data>
+</edge>
+<edge source="Reddit_Western_Distempa" target="urban decay">
+  <data key="d4">urban decay absolute favourite brand didnt know new palette</data>
+</edge>
+<edge source="Reddit_Western_Showerthawts" target="urban decay">
+  <data key="d4">wtf makeup called urban decay</data>
+</edge>
+<edge source="Reddit_Western_KnottyKitty" target="urban decay">
+  <data key="d4">first time reading makeup urban decay around since like</data>
+</edge>
+<edge source="Reddit_Western_C88V" target="urban decay">
+  <data key="d4">mine urban decay mildew eyeshadow mom let pick one thing ulta maybe dont even like green never plus made look dead finally gave friend could actually wear year later</data>
+</edge>
+<edge source="Reddit_Western_teentytinty" target="urban decay">
+  <data key="d4">oh god still year lost small tube urban decay lip gloss honey flavored nothing moisturizes lip better die run</data>
+</edge>
+<edge source="Reddit_Western_er0se" target="urban decay">
+  <data key="d4">urban decay need bring back flavored body powder</data>
+</edge>
+<edge source="Reddit_Western_occasional_idea" target="urban decay">
+  <data key="d4">first fancy product first time ever went sephora grandmother took elementary school around extremely sticky minty lip gloss urban decay clear lot white shimmer</data>
+</edge>
+<edge source="Reddit_Western_Iheartbowie" target="urban decay">
+  <data key="d4">one caramel still remember tasted also one pia colada flavoured body balm reason dont think ever wore year old thought coolest idea edible loved older urban decay stuff ever bring back lube tube ugh lip balm ill happy stuff smelt incredible</data>
+</edge>
+<edge source="Reddit_Western_megslovesyababy" target="urban decay">
+  <data key="d4">omg try snake bite urban decay swear god close shade</data>
+</edge>
+<edge source="Reddit_Western_mrmeowmeowington" target="urban decay">
+  <data key="d4">got urban decay eyeshadow roach sold time store called metro park</data>
+</edge>
+<edge source="Reddit_Western_jesgrant" target="urban decay">
+  <data key="d4">created look instagram jessicagrant wanted share really happy turned love highlight foundation product list eye urban decay naked heat palette urban decay water line legend nyx cosmetic jumbo eye pencil milk eyeko black magic mascara brow anastasia beverly hill dip brow pomade carmel face lancome dual finish versatile powder makeup benefit hello flawless oxygen wow foundation meraki cosmetic clio loose highlight powder morphe consealer makeupgeek cosmetic spell bound blush physician formula butter bronzer rimmel london stay matte setting powder tarte cosmetic rainforest sea concealer lip bite beauty lip pencil tarte cosmetic lip paint rose urban decay special effect lip top coat rd degree</data>
+</edge>
+<edge source="Reddit_Western_deathofregret" target="urban decay">
+  <data key="d4">thats thought wan na see peacock urban decay</data>
+</edge>
+<edge source="Reddit_Western_funky_bunches" target="urban decay">
+  <data key="d4">unless funeral director urban decay would less optimal choice</data>
+</edge>
+<edge source="Reddit_Western_kindrex89" target="urban decay">
+  <data key="d4">dont anything urban decay actually like kinda wish one tealturquoise shade though sure first ud purchase</data>
+</edge>
+<edge source="Reddit_Western_comfy_socks" target="urban decay">
+  <data key="d4">ive pretty much sworn urban decay dang love color scheme</data>
+</edge>
+<edge source="Reddit_Western_anaxjor" target="urban decay">
+  <data key="d4">ughhh love color story hate urban decay legit stopped using stuff several eczemaonmyeyelids flareups year ago using one naked palette time since ive read post post post quality gone downhill beyond natasha denona charlotte tilbury released something color bank account would serious trouble</data>
+</edge>
+<edge source="Reddit_Western_4fairydust" target="urban decay">
+  <data key="d4">guy please tell dont need onelol urban decay naked palette started love eyeshadow palette international airport urban decay store every time would fly daughter would pick one discovered formula kind went away ud one really interested</data>
+</edge>
+<edge source="Reddit_Western_peakyshelbys" target="urban decay">
+  <data key="d4">urban decay could done much wild west theme instead got boring palette neutral pop color</data>
+</edge>
+<edge source="Reddit_Western_ashleiponder" target="urban decay">
+  <data key="d4">didnt get naked honey naked cherry past christmas half love urban decay cant spend much palette knowing get much cheaper wait unless something absolutely must ive got gift card something even really think</data>
+</edge>
+<edge source="Reddit_Western_babybutcho" target="urban decay">
+  <data key="d4">thank review ive never tried urban decay palette one like youre selling ultraviolet well</data>
+</edge>
+<edge source="Reddit_Western_clekas" target="urban decay">
+  <data key="d4">here hoping order arent cancelled got faced born way matte hour foundation color still showing available ole henriksen banana bright vitamin c serum benefit supersized superstar jumbo primer bronzer set farmacy farmer market kit urban decay ultraviolet eyeshadow palette</data>
+</edge>
+<edge source="Reddit_Western_Alidinak" target="urban decay">
+  <data key="d4">package came urban decay rust palette glow recipe glamglow barbie yay</data>
+</edge>
+<edge source="Reddit_Western_Triene86" target="urban decay">
+  <data key="d4">trouble finding stuff good sale terrible site especially mobile copied people ordered dior palette stock though hopefully go first one usually dont see til like hour later ha edit next day havent received cancellation notice far good hope everyone get stuff got two urban decay palette one friend rust palette fresh rose lip stuff born way foundation edit sadly order cancelled couple day later oh well</data>
+</edge>
+<edge source="Reddit_Western_maximumspoilage" target="urban decay">
+  <data key="d4">order still pending sure got expected ship date item mine expected ship benefit supersized superstar melt rust palette ordinary buffet copper peptide olehenriksen banana bright vitamin c serum expected ship urban decay naked ultraviolet palette placed order et today</data>
+</edge>
+<edge source="Reddit_Western_valerwine" target="urban decay">
+  <data key="d4">got urban decay melt rust farmacy kit huda pastel hoping go</data>
+</edge>
+<edge source="Reddit_Western_HamptonsBorderCollie" target="urban decay">
+  <data key="d4">placed order got urban decay naked ultraviolet eyeshadow palette faced born way matte hour foundation olehenriksen banana bright vitamin c serum buxom latte gloss mini plumping lip gloss set buxom mini top plumping lip gloss set sold ulta yeah order went got email confirmation shipping item ship home est delivery sep rd sep th item ship home est delivery aug th aug th good luck everyone</data>
+</edge>
+<edge source="Reddit_Western_Captain_Kirk713" target="urban decay">
+  <data key="d4">got shipping confirmation urban decay palette</data>
+</edge>
+<edge source="Reddit_Western_noitsacat" target="urban decay">
+  <data key="d4">finally something urban decay end buying gorgeous</data>
+</edge>
+<edge source="Reddit_Western_cybersodas" target="urban decay">
+  <data key="d4">might first urban decay purchase cause omg gorgeous</data>
+</edge>
+<edge source="Reddit_Western_casseroleEnthusiast" target="urban decay">
+  <data key="d4">im sure buying lol hesitation also really rooting urban decay make excited see</data>
+</edge>
+<edge source="Reddit_Western_JudgeJudysApprentice" target="urban decay">
+  <data key="d4">first time ive interested anything urban decay creates long time</data>
+</edge>
+<edge source="Reddit_Western_stace_m8" target="urban decay">
+  <data key="d4">waiting urban decay boring day comment lol jk obviously weird interesting new palette cool shimmer shade boring</data>
+</edge>
+<edge source="Reddit_Western_Usagichan30" target="urban decay">
+  <data key="d4">prefer paletyes color nd pic seems light skintone preference im fan urban decay lot product didnt work hope palette change mind</data>
+</edge>
+<edge source="Reddit_Western_lolalucky" target="urban decay">
+  <data key="d4">rooting urban decay point wouldnt know couldnt get eye liner</data>
+</edge>
+<edge source="Reddit_Western_dontforgetthisone13" target="urban decay">
+  <data key="d4">remember first naked palette dropped insanity remember found sephora like second came sale mom immediately bought two one one brother gf brother gf couldnt believe got since sold everywhere throwing bad boy away legit every color sad moment love urban decay much lol</data>
+</edge>
+<edge source="Reddit_Western_bandsmom74" target="urban decay">
+  <data key="d4">two separate pan moondust palette urban decay one called space rider shown includes star cowgirl space cowboy wild dipper ride cosmic space dust pinkytaupe two palette called galactic cowgirl following shade emo cowboy cosmic cowgirl cowgirl rider cowgirl warrior shade appear white silver pink gold afraid may need buy</data>
+</edge>
+<edge source="Reddit_Western_Salsabeans16" target="urban decay">
+  <data key="d4">space rider definitely alley im excited urban decay product</data>
+</edge>
+<edge source="Reddit_Western_brit_bc" target="fenty">
+  <data key="d4">lh cosmetic linda would apply makeup darker skinned person instead finding darker skinner person pretty much black face europe thought maybe didnt see hurtful first fought back people initially coming susan yaranaturium talked brand several video revealing owner fentyrihanna called kerrueche tran aisan rice cake note kerrueche video last year maybe showing using fenty product apparently</data>
+</edge>
+<edge source="Reddit_Western_foxwaffles" target="fenty">
+  <data key="d4">adept cosmetic horrible ableism refusal conform accessibility standard website manny mua laura lee controversy personal brand lunar beauty laura lee los angeles minimla sheglam dont think need explaining tarte ching chong racist post loooooong time ago idk worth mentioning suffer internalized minimalization aapi racism fenty rihanna history racism appropriation aapi go gxve gwen stefani give glow issue refusal pay darker skinned creator proper rate swatch advertising makeup skintones hourglass repeated refusal inclusive many saying little late saw post sub long time ago article alleging racism higher ups kinda shady idk make problematic shroud disaster collab battybean way back seems issue growing fast receipt poor customer service unearthly terrible formula palette dried instantly questionable release might infringed copyright poor customer service odens eye controversy single shadow formula questionable practice regarding pr list marketing florasis appropriation minority ethnic culture disregard china historically treated minority spoiler good much exhaustive yes usehave purchased past product brand listed</data>
+</edge>
+<edge source="Reddit_Western_LatinaMermaid" target="urban decay">
+  <data key="d4">guy tell charlotte tilburynarsbenefitchanel urban decay problematic go brand spend much charlotte tilbury last week</data>
+</edge>
+<edge source="Reddit_Western_Surferino" target="fenty">
+  <data key="d4">fenty beauty rihanna cyber bullied fan included johnny depp party fenty x savage show amber heard trial collaborated chris brown assaulted accused assaulting woman</data>
+</edge>
+<edge source="Reddit_Western_ChunkySweaterMonthly" target="fenty">
+  <data key="d4">didnt fenty also red lipstick called geisha renamed backlash think rihanna instance ignorant towards asian culture</data>
+</edge>
+<edge source="Reddit_Western_Whynotdragon" target="urban decay">
+  <data key="d4">charlotte seems like nothing except bit overpriced inclusive enough called rich white chick vibe nars owned shiseido didnt hear anything particular benefit story inclusivity chanel supported nazi thats persona directly ww time urban decay seems fine arent shrink lately seem go away eu cause reason</data>
+</edge>
+<edge source="Reddit_Western_PinkLasagna" target="urban decay">
+  <data key="d4">maybe urban decay havent following makeup scene enough lately know theyve done anything bad</data>
+</edge>
+<edge source="Reddit_Western_theswordintheforest" target="urban decay">
+  <data key="d4">thing think top head urban decay launched eyeliner called razor sharp people thought poor taste product swatch involved wrist swatch felt reminiscent self harm marksscars also bit throwback know ud x basquiat question little controversial basquiat spoke lot important black people represented art general face collectionthe person involved swatch ruby rose also think people thought little poor taste basquiat collection spoke consumptioncapitalism official collaboration estatethe firm manages</data>
+</edge>
+<edge source="Reddit_Western_sassweet" target="fenty">
+  <data key="d4">going say real apology made also still suspect owner fenty antiasian well</data>
+</edge>
+<edge source="Reddit_Western_milliemilly" target="fenty">
+  <data key="d4">think co influencers tend jump brand popular inclusive brand hourglass charlotte tilbury etc popular dont cater wide demographic therefore dont get spoken much brand like fenty example turn mean lack inclusiveness also spotlight hope make sense</data>
+</edge>
+<edge source="Reddit_Western_rawr_rawr_6574" target="fenty">
+  <data key="d4">yep place rabid time like im aware brand exist wasnt exposed brand fenty came lack access brand big reason didnt know could matching foundation fenty</data>
+</edge>
+<edge source="Reddit_Western_jedimindbender" target="fenty">
+  <data key="d4">baffle mind though purposely leave good chunk consumer base dont want include poc business opportunity get money increase business amongst new range buyer wouldnt try ultimately poor business decision success brand like fenty pmg proved poc buying power</data>
+</edge>
+<edge source="Reddit_Western_mrm395" target="fenty">
+  <data key="d4">work beauty worked multiple brand sephora trust involved brand carry lot sway get preview product coming shift entire product strategy input one brand worked rebranding get sephora helped give input rebrand direction theyre pretty invested success brand product carry hope see change brand work pretty much agreed launch complexion shade minimum postfenty opinion changing slow major brand produce product really far advance dont agility like coloupop lab</data>
+</edge>
+<edge source="Reddit_Western_BlackOakSyndicate" target="fenty">
+  <data key="d4">mac mufe ben nye nars graftobian rcma kryolan fashion fare iman black opal blackup screwed black founder plenty brand existed catered dark complexion fenty existed fenty made marketing strategy revolve around inclusivity im mad said strategy acting like fentys launch revolutionary misguided</data>
+</edge>
+<edge source="Reddit_Western_fuschiaoctopus" target="fenty">
+  <data key="d4">damn sub harsh explicitly said multiple time know inclusive brand specifically said fenty first one personally saw youre still getting downvoted brand first</data>
+</edge>
+<edge source="Reddit_Western_Idkijusworkhere" target="fenty">
+  <data key="d4">fenty cheap maybelline loral around cheap af bunch diverse foundation shade fenty</data>
+</edge>
+<edge source="Reddit_Western_ExtraFluffyButts" target="fenty">
+  <data key="d4">comment brand specifically influencers although definitely seen influencers review inclusive clothing brand savage x fenty influencers snitchery given glowing review savage x fenty praised body positive message inclusive range jackie aina also done several video calling brand fashion nova pretty little thing lacking inclusivity however call post specifically target makeup influencers dont really expect makeup guru makeup influencers talk inclusivity clothing unless area expertise although agree hope see influencers call fashion brand plenty article victoria secret lululemon many brand slow introducing inclusivity heavily criticised brand also saw lower profit margin year specifically victoria secret reduced amount store cancelled fashion show article suggests general interest brand waning mainly due brand far body positive inclusive</data>
+</edge>
+<edge source="Reddit_Western_Brock_Lobstweiler" target="fenty">
+  <data key="d4">big part live state thats like white specific city white black hispanic someone come judge brand foundation shade available maybe brand would pas poc friendly barrier mac nars fenty profitable sephora carry shade dont sell bad selection theyve determined customer purchase couple year ago sephora got new manager come georgia asked liked one thing said little diversity said actually made color matching harder didnt much experience matching many color white actual quote lol</data>
+</edge>
+<edge source="Reddit_Western_paurelay" target="fenty">
+  <data key="d4">meant deeper relative existing powder radiant light doesnt show medium skin tone properly unlocked powder deeper existing permanent powder dont see obvious hourglass wanted cater deeper skin tone wide complexion range needed came sephora every brand complexion range would compared fentys comparing formulation complexion powder formulating purple eyeshadow hourglass known powder mentioned expanding complexion product expand popular well known product yet created deeper powder year implicit exclusion pretending ingredient formulation finding excuse go back question deepest powder theyve ever released annual limited edition release instead part permanent collection issue brand taken long make move right direction several year feedback choose release new product continue exclude deeper skin tone producing new powder one asked catering lightmedium skin tone im referring ambient infinity powder brand disappointing personal note wish could share enthusiasm many others brand literally cant choose create shade work suck left brand refuse expand</data>
+</edge>
+<edge source="Reddit_Western_aallycat1996" target="fenty">
+  <data key="d4">tried new foundation line essence though came week ago soooo positively surprised im tan line ive never ever good shade match life even fenty shade pretty evenly spread look picture</data>
+</edge>
+<edge source="Reddit_Western_chasingandbelieving" target="fenty">
+  <data key="d4">fenty beauty</data>
+</edge>
+<edge source="Reddit_Western_NyxTheGOAT" target="fenty">
+  <data key="d4">maybelline loreal nyx covergirl wet wild elf revlon high endnars smashbox fenty anastasia beverly hill mac makeup forever</data>
+</edge>
+<edge source="Reddit_Western_pixierambling" target="fenty">
+  <data key="d4">wnw awful come oxidizing liked formula definitely cant find shade im medium skin tone range againeven fenty couldnt make shade</data>
+</edge>
+<edge source="Reddit_Western_favouriteblues" target="fenty">
+  <data key="d4">thats insane product differ person person bronzer one favourite find cool red right smack middle like bronzers reference im fenty foundation</data>
+</edge>
+<edge source="Reddit_Western_dorothy_zbornakk" target="fenty">
+  <data key="d4">know fenty get lot praise shade range theyre another brand shite undertone</data>
+</edge>
+<edge source="Reddit_Western_comradecosmetics" target="fenty">
+  <data key="d4">get youre saying im saying billionaire owner investor dont really need anyones hardearned money politically economically aligned interest quite contrary billionaire worldwide work hard make sure capital ease acquisition accumulation money take priority else including interest average human life planet like lvmh owns kendo owns bevy company partner big name including undisclosed probably huge stake fenty wellliked many poc rihannas name shade range whereas lvmh led one richest men world richest man year ago january year surpassing bezos net worth short time quite class reductionist positing saying would better overall people started understand purchasing power ability support truer ally scheme thing</data>
+</edge>
+<edge source="Reddit_Western_gingerflakes" target="fenty">
+  <data key="d4">exactly sephora one two choice foundation anyone slight dark skin fenty made standard wide inclusive shade range mufe year plus imo like formula better</data>
+</edge>
+<edge source="Reddit_Western_sopreshous" target="fenty">
+  <data key="d4">wild im fenty think yeah didnt work well fine able find lot nice bo indie brand choose mented lip bar beauty bakerie etc</data>
+</edge>
+<edge source="Reddit_Western_ILOVEBREAD647" target="fenty">
+  <data key="d4">fenty stick theyre really nice see bit catered towards dry skin regardless mine oily work fine nyc sunny bronzer cant find local drugstore anymore ive using random one find dark enough orange currently using one elf bc didnt bring bronzer stay bf cant remember shade name hopefully help</data>
+</edge>
+<edge source="Reddit_Western_shippingtape" target="fenty">
+  <data key="d4">yeah thats get kind tricky youre deciding boycott brand fail way maybe foundation range great complexion product suck maybe product great never feature woc advertising else product good basically refuse hire black people company hell even fenty gotten flack shade range time basically sorry got really longwinded haha lot come consumer informing deciding personal line sand</data>
+</edge>
+<edge source="Reddit_Western_BTECBushra" target="fenty">
+  <data key="d4">yeah dont understand shade range sake shade range dismissing entire segment population itsidk express frustrating make group people feel though dont exist important worthy enough addressed accepted fenty huge deal rihanna telling girl boy see u big big deal im buying brand cant even fulfil basic as requirement diverse range pc gone mad relevant important jesos fek</data>
+</edge>
+<edge source="Reddit_Western_Jadis4742" target="urban decay">
+  <data key="d4">im standing dont buy brand arent least attempting inclusive crueltyfree urban decay shade allnighter illamasqua shade skin base nyx shade total control drop foundation hourglass shade vanish stick cover fx shade cream foundation im going stop buying colourpop soon dont expand concealer range</data>
+</edge>
+<edge source="Reddit_Western_towards_the_stars" target="fenty">
+  <data key="d4">enough blackish owned brand buy cosmetic fenty pat mcgrath mented uoma lip bar danessa myricks etc build entire collection brand there need beg acceptance dollar talking</data>
+</edge>
+<edge source="Reddit_Western_POPGIRL91" target="fenty">
+  <data key="d4">love buying black make brand fenty pat mcgrath danessa myricks say lancome showing darker skin tone well year thats foundation use literal perfect match theyre definitely black owned theyve great variety eff jefreee star eff tarte eff juvia know theyre people dirty edit makeup forever started would wide range well theyre black owned edit edit anyone tried beauty bakerie black owned small business</data>
+</edge>
+<edge source="Reddit_Western_eelucktricksun" target="fenty">
+  <data key="d4">girl went several different mac counter different citiestravel work matched nc im fenty walking around looking orange hell remember walking hotel entrance feeling walked past men heard say look orange day supported mac</data>
+</edge>
+<edge source="Reddit_Western_ofjune-x" target="urban decay">
+  <data key="d4">smashbox moved beauty bay along urban decay might find new younger audience price still little high</data>
+</edge>
+<edge source="Reddit_Western_gourmet_fried_rice" target="fenty">
+  <data key="d4">shes absolutely right colourpops inclusivity show reason foundation huge shade range probably hey everyone look many foundation shade trend started fenty palette colourpop formula seems great sheer actual pastel made white base colour added thats show lighter skin pastelish wash colour look</data>
+</edge>
+<edge source="Reddit_Western_littlegreeny21" target="fenty">
+  <data key="d4">displaying darker skinned model doesnt actually mean much im lighter amanda wear fenty colourpop doesnt show remember mad wasted money colourpop eye shadow palette find none like absolutely none shade showed im pretty sure colourpops darkskin model photo edited actually think back got caught using one fair skinned model swatch photo photoshopping photo make skin darker</data>
+</edge>
+<edge source="Reddit_Western_AttachedTooEasily" target="fenty">
+  <data key="d4">generally tell looking dark shade included look theyre meant create palette meant neutral smokey eye look like gon na work fenty skin meant pastel look showing barely lightskinned model probably gon na work dark skinned person think really want learn start watching darker skinned beauty guru ill recommend much mouth andrea renee start see describe makeup doesdoesnt work take note color story use see compare newer color story come</data>
+</edge>
+<edge source="Reddit_Western_TemporaryAdmirable20" target="urban decay">
+  <data key="d4">aol actimel activia adidas aero aesop ahava alpro american crew american eagle andrex aramis ariel aveeno aveda axa becca benadryl biotherm bounty burger king buxton caltex carnation carita paris carmel agrexco cerave cerelac channel cheerio cheetos chevron christina aguilera citi bank clean clear clearblue clinique coca cola coke coffee mate costa coffee culligan water daz dasani depend doritos dove dr jart dunkin donut evlan fanta felix fresca ford garnier gillette giorgio armani haagendazs head shoulder hp hsbc huggies huggieslittle swimmer hyundai ibm imodium innocent intel jaffa jane jcb jo malone johnson johnson juicy couture kate spade kfc kerastase kitkat kleenex kotex la mer la rocheposay lancome lenor lion listerine loreal professional mac maggie maison margiela mar m maybelline mayi moisture hair care mcdonalds mehadrin milo movenpick motorola nesquick nescafe nestle nike nokia pampers papa john pantene pizza hut powerade prada pringles purelife pureology puma revlon rogaine roll royce spellegrino sabre schweppes siemens signal snicker smarties sodastream starbucks stila cosmetic subway tang ordinary tom ford tommy hilfiger toiletry twix urban decay vicks victoria secret volvo walmart whatsapp wix</data>
+</edge>
+<edge source="Reddit_Western_CerberusIsMyCat" target="urban decay">
+  <data key="d4">food kfc mcdonalds starbucks pizza hut domino kit kat burger king hagendazs costa coffee aroma subway nestle hardees mar pepsi coca cola minute maid fanta carnation smarties nerd laffy taffy sweetarts alpo lipton tropicana dasani perrier sprite twix papa john nesquik sabra wall danone tivall businesswalmart hp siemens wix nokia axa clothing nike adidas american eagle tommy hilfiger ralph lauren chanel victoria secret garnier body shop urban decay skim mark spencer tom ford covergirl mac bobbi brown honest summer friday keter strauss entertainment disney medical johnson johnson loral este lauder clinique neutrogena lifebuoy olay maybelline nyx revlon giorgio armani ordinary teva pharmaceutical ahava</data>
+</edge>
+<edge source="Reddit_Western_veggie_lisa" target="urban decay">
+  <data key="d4">im heart broken urban decay anyone know good vegan mascara</data>
+</edge>
+<edge source="Reddit_Western_Spicylady10" target="urban decay">
+  <data key="d4">grab uoma foundation huda beauty foundation stick uoma concealer tarte hydrocealer urban decay brow blade juvias place mauve moment lippie charlotte iconic nude liner could shipped also brush available thanks</data>
+</edge>
+<edge source="Reddit_Western_fukacai" target="fenty">
+  <data key="d4">cosmetic mascara wennalife hair extension fenty lipgloss olaplex still looking</data>
+</edge>
+<edge source="Reddit_Western_throwawayflapper1929" target="fenty">
+  <data key="d4">rare beauty foundation fenty lavender still oooking</data>
+</edge>
+<edge source="Reddit_Western_kimoikat" target="fenty">
+  <data key="d4">interested fenty ease drop still looking</data>
+</edge>
+<edge source="Reddit_Western_powpowforlunch" target="fenty">
+  <data key="d4">ill take fenty brush bye bye undereye concealer please</data>
+</edge>
+<edge source="Reddit_Western_juliamera8" target="fenty">
+  <data key="d4">hi fenty eaze drop sold minute ago im going mark post also huda liquid shadow person line possibly nudestix eye stick im sure wanted one let know bit everything else available though</data>
+</edge>
+<edge source="Reddit_Western_nightdraconis13" target="urban decay">
+  <data key="d4">urban decay born run</data>
+</edge>
+<edge source="Reddit_Western_DarthMoxxi" target="urban decay">
+  <data key="d4">wow im surprised restocked urban decay got item must cleaning storage tempted buy longclaw literally dont need ud well line</data>
+</edge>
+<edge source="Reddit_Western_Paign" target="urban decay">
+  <data key="d4">id like urban decay electric palette colourpop liquid lip glow goal highlighter</data>
+</edge>
+<edge source="Reddit_Western_princess_unicorn_420" target="urban decay">
+  <data key="d4">much could urban decay asphyxia heartless buxom amanda colourpop piranha abh milkshake thank</data>
+</edge>
+<edge source="Reddit_Western_Kalikallay" target="urban decay">
+  <data key="d4">bundle price becca eye light urban decay electric abh lipstick staunch soft touch estee lauder lipstick kvd agatha magic lipstick also wanted try many perfume would able give extra sample price</data>
+</edge>
+<edge source="Reddit_Western_PPvsFC_" target="urban decay">
+  <data key="d4">urban decay naked basic still looking</data>
+</edge>
+<edge source="Reddit_Western_peeege" target="urban decay">
+  <data key="d4">im interested urban decay naked palette makeup geek nude palette still looking thanks</data>
+</edge>
+<edge source="Reddit_Western_tatianamaries" target="urban decay">
+  <data key="d4">interested urban decay naked palette still available</data>
+</edge>
+<edge source="Reddit_Western_BeckyFisher95661" target="fenty">
+  <data key="d4">interested following kind bundle deal could cp hello tf better chocolate makeup mario quad bronzy glam catrice liquid metal eyeshadow becca finishing veil tf powder nd blush palette darya becca highlighter opal tarte bronzer park ave princess benefit dandelion highlighter top shop cream blush flush free patrick starr lip liner outta line ct pillow talk lip cheat ct jewel lip pillow talk ct walk shame bb eye blender brush bb precise blending brush tula face mist fenty cleanser antiaging sample bundle</data>
+</edge>
+<edge source="Reddit_Western_Dry-Bad9586" target="fenty">
+  <data key="d4">girl agree reason hasnt able live notoriety like fenty rare beauty two brand around long kylie cosmetic look far inclusive strive kylie actually serious longevity kc would hand inclusivity department making sure make solely get completely different vibe selena gomez rihanna whenever attend seminar show work review like even pay attention micro influencers kylie keep dropping ball every year dont know going click honestly shouldve seeing kylie cosmetic sephora</data>
+</edge>
+<edge source="Reddit_Western_Yourfavdiva" target="fenty">
+  <data key="d4">first kardashians dont put u brown skinned people ok stand corrected im adult enough surprised didnt find anything fenty yo niece pale hell parent black fenty go shes never consider kylie cosmetic like huh</data>
+</edge>
+<edge source="Reddit_Western_SpicyWhiteDress" target="fenty">
+  <data key="d4">yea kylie makeup bit cheaper decided try shouldve dished extra fenty</data>
+</edge>
+<edge source="Reddit_Western_here2helpyaandme" target="fenty">
+  <data key="d4">know doesnt fenty</data>
+</edge>
+<edge source="Reddit_Western_ejiives" target="urban decay">
+  <data key="d4">ill take urban decay blush obsessed quickie pm detail</data>
+</edge>
+<edge source="Reddit_Western_Blowitback" target="urban decay">
+  <data key="d4">hi please urban decay jeanmichel basquiat blush palette anastasia beverly hill blush kit radiant</data>
+</edge>
+<edge source="Reddit_Western_shes_just_like_that" target="urban decay">
+  <data key="d4">id like mac blush cheeky bit urban decay blush crush</data>
+</edge>
+<edge source="Reddit_Western_beesofa" target="fenty">
+  <data key="d4">marc jacob bright fenty metal moon purchased</data>
+</edge>
+<edge source="Reddit_Western_grilledcheeseyum" target="fenty">
+  <data key="d4">marc jacob ago make sense discontinued probably fenty purchased within last year</data>
+</edge>
+<edge source="Reddit_Western_simp-le" target="urban decay">
+  <data key="d4">thank think ill pas think might light taking offer urban decay nighter spray</data>
+</edge>
+<edge source="Reddit_Asian_arsenic_greeen" target="tirtir">
+  <data key="d4">maybe unrelated normal company send entire shade range creator every video see demoing tirtir product creator whole set feel bit wasteful part company maybe intention creator give away product find odd least experience seen company</data>
+</edge>
+<edge source="Reddit_Asian_mothertuna" target="tirtir">
+  <data key="d4">miss darcei username shes black makeup creator canada us lot asian beauty brand called tirtir shade range marketing western market gifted chanel bag criticism tirtir</data>
+</edge>
+<edge source="Reddit_Asian_Stayin_BarelyAlive58" target="tirtir">
+  <data key="d4">literally went shopping dark tirtir foundation day watching darcy time surprised see inclusive shade range based darcys excitement expansion thought really done something lost respect darcy criticism stopped soon got shade needed soon tirtir started showering gift pr glad jackie edit acknowledging misspelled darceis name</data>
+</edge>
+<edge source="Reddit_Asian_fuzzboo" target="tirtir">
+  <data key="d4">yeah tirtir domestic korean brand catering east asian skin tone quickly gained international cult status know expand shade range fit wasan attempt</data>
+</edge>
+<edge source="Reddit_Asian_NameOk3393" target="tirtir">
+  <data key="d4">hope one think tirtir bare minimum got away sure three pretty dark shade select make work full shade range people color</data>
+</edge>
+<edge source="Reddit_Asian_Infamous-Complex8438" target="tirtir">
+  <data key="d4">dont mean sound rude reason darcei platformed tirtir highly spoiled gave chanel bag bent backward knew shes asian beauty girlie would give free hype darcei seems nice dont really trust recommendation doesnt seem like actually know much makeup</data>
+</edge>
+<edge source="Reddit_Asian_AsylumXX" target="tirtir">
+  <data key="d4">well tirtir foundation last two shade honestly say road inclusivity literally last shade melt skin mean shade match spot plus tirtir still expanding range tell inclusive never asian cushion foundation brand expanded shade range way inclusivity striving god damn well</data>
+</edge>
+<edge source="Reddit_Asian_[deleted]" target="tirtir">
+  <data key="d4">thanks tirtirs handbag shenanigan cant take review foundation seriously assume everyone reviewing want bag even intention noble</data>
+</edge>
+<edge source="Reddit_Asian_moondoII" target="tirtir">
+  <data key="d4">really glad said comment seem agree sure effort thats amazing noticed much tiktok comment black creator tried tirtir lot people excusing jump darkest shade saying korean brandwhich pretty irrelevant trying inclusive giving tip note diverse necessary people didnt critique originally would still like shade</data>
+</edge>
+<edge source="Reddit_Asian_No-No-Mojo-Jojo" target="tirtir">
+  <data key="d4">want return tirtir bad originally got cushion n dark skeptical removed lid pressed cushion right much darker swatch looked like match went back drawing board thought maybe n might one light need tirtir expand range god damn whole demographic skin tone two number missing come korean beauty im staying skincare maybe strong maybe lip stain funny seeing went amazon confirm shade tried tirtir put darcis video review official advertisement product</data>
+</edge>
+<edge source="Reddit_Asian_Cyclibant" target="tirtir">
+  <data key="d4">lightest shade dark lot fair tiktokers ive seen undertone also limited end good news tirtir expanding shade range even next month</data>
+</edge>
+<edge source="Reddit_Asian_georgethebarbarian" target="tirtir">
+  <data key="d4">grab c also grab light blue japanese tone cream ghoulinjapan fair olive made video recently reviewing tirtir cushion shes also sooooo pretty want steal look</data>
+</edge>
+<edge source="Reddit_Asian_FrEnchFriesOnyOu" target="tirtir">
+  <data key="d4">like darcei understand excitement experience tirtir gave taking consideration experience doesnt happen anyone felt catered people thought would never want cater however ever since whole tirtir thing darcei feel like shes bought anything say tirtir never negative theyve pretty much psychologically convinced like feel bias towards cant help doesnt want seem ungrateful</data>
+</edge>
+<edge source="Reddit_Asian_alicehoopz" target="tirtir">
+  <data key="d4">tirtir absolutely made international market think lot people missing part brand wasnt popular korea head ab subreddit folk korea tell hadnt heard brand thought japanese brand thats unsuccessful korea</data>
+</edge>
+<edge source="Reddit_Asian_Hagacchi" target="tirtir">
+  <data key="d4">check rael thinking yeah mikayla got birkin tirtir like apparently got bc made cushion foundation go viral</data>
+</edge>
+<edge source="Reddit_Asian_LeeBees1105" target="tirtir">
+  <data key="d4">thats point jackie made youre going target western demographic need make appropriate shade range could hired consultant like jackie consulted faceds born way foundation shade expansion hopefully tirtir add missing shade</data>
+</edge>
+<edge source="Reddit_Asian_flonko" target="tirtir">
+  <data key="d4">romnd legitimate popular brand korea influencer brand influencer saerom min hired help promote brand work brand directly owner ceo brand seems common misconception amongst non korean yeah tirtir small presence korea small cafeshowroom hongdae seoul sell product reviewer seem non korean there many rating product glowpick popular korean beauty app review product red cushion less review compared thousand brand like hera cushion hate people enjoy tirtir im adding context think expand range there lot korean brand export complexion product ie carry innisfree sephora u skincare product tirtir sending entire cushion range non east asian influencers deserve flack gap shade range imo</data>
+</edge>
+<edge source="Reddit_Asian_Ronrinesu" target="tirtir">
+  <data key="d4">jackie gave fair review doesnt shade theyre competitive western market gon na lie tirtir hitting exactly exclusively western market theyve tiktok last month unfortunately im optimistic kbeauty popping new product conveyor belt disappear quickly hyped dont really aim returning client product genuinely believe brand care product super hyped lot people gon na buy probably many arent gon na like legit count regular customer next year chance year cushion discontinued im old school asian beauty mod speak experience extent release gimmicky hyped product disappear shelf even year first appearance jump next beauty trend genuinely shocked korean brand come truly inclusive shade range time time theyve shown u priority coming product cult following decade really korean market aiming kinda mad faves excellent ingredient keep getting discontinued next gimmick wont even year longevity public</data>
+</edge>
+<edge source="Reddit_Asian_Happy-BHSUSFR" target="tirtir">
+  <data key="d4">missing point trying international brand clearly pr strategy shade expansion nothing wrong critiquing continue improve especially since seem like company actually take feedback customer consideration think u done giving forprofit company pat back something done also matter dont think anyone looking tirtir especially pioneer kbeauty perspective still done well waste brand customer one dont see something work radar</data>
+</edge>
+<edge source="Reddit_Asian_Jealous_Tadpole5145" target="tirtir">
+  <data key="d4">dont use tirtir dont even shade personally avoid brand inclusive im defending im giving different perspective yeah shes ceo said might wrong thank neither hailey bieber jess hunt respective brand considered influencercelebrity brand</data>
+</edge>
+<edge source="Reddit_Asian_nmb48" target="tirtir">
+  <data key="d4">im familiar kbeauty course aware black people korea said dont really think many korean shade innisfree long time dark shade cushion foundation dark think would match half blackhalf korean well even half korean arent tan black people u brand want opinion side order grow good audience mainly asia yes seen comment asian dark maybe im uneducated tirtir seem like kbeauty brand something would sold india pakistan</data>
+</edge>
+<edge source="Reddit_Asian_Sc4r4byte" target="tirtir">
+  <data key="d4">im pretty sure thats typo case somehow miss news tirtir send child influencer gift</data>
+</edge>
+<edge source="Reddit_Asian_love-at-third-sight" target="tirtir">
+  <data key="d4">oh cool one probably bigger shade range compared kbeauty brand e checked range highest go n think tirtir win shade</data>
+</edge>
+<edge source="Reddit_Asian_TeufelRRS" target="tirtir">
+  <data key="d4">fyi tirtir make sample pack shade last checked usd might good idea anyone unsure shade</data>
+</edge>
+<edge source="Reddit_Asian_dearhan" target="tirtir">
+  <data key="d4">cute heard good thing tirtir make want look cushion</data>
+</edge>
+<edge source="Reddit_Asian_-chinoiserie" target="tirtir">
+  <data key="d4">anyone know brand certified cruelty free asked customer service rep tirtir said clue</data>
+</edge>
+<edge source="Reddit_Asian_slutmuttsprout" target="tirtir">
+  <data key="d4">anyone help find tirtir shade one size turn base im light n makeup forever hd skin matte velvet im r</data>
+</edge>
+<edge source="Reddit_Asian_Ferracoasta" target="tirtir">
+  <data key="d4">op tirtir marketing team</data>
+</edge>
+<edge source="Reddit_Asian_ChaoticCrowTime" target="tirtir">
+  <data key="d4">worth saw post tiktok announcing new shade tirtir claimed comment fixed oxidation new shade</data>
+</edge>
+<edge source="Reddit_Asian_Voice_of_Season" target="tirtir">
+  <data key="d4">wasnt amazon tirtir iirc</data>
+</edge>
+<edge source="Reddit_Asian_nitemarine" target="tirtir">
+  <data key="d4">saw tirtir say instagram theyre planning expand shade range month might yet hope</data>
+</edge>
+<edge source="Reddit_Asian_myperfectblue" target="tirtir">
+  <data key="d4">found lot japanese woman like base makeup yellow side lot popular product much yellower youd find korean chinese product also tirtir red cushion good lasting nontransfer humid hot environment think popularity make perfect sense</data>
+</edge>
+<edge source="Reddit_Asian_Big-Chemical256" target="tirtir">
+  <data key="d4">paid influencers big time one popular influencer even got birkin bag tirtir lie</data>
+</edge>
+<edge source="Reddit_Asian_Syrena_Nightshade" target="tirtir">
+  <data key="d4">dip cushion foundation straight away face tends crease tirtir released video properly apply like powder rub cushion back inner lid spread evenly youll get much even coverage</data>
+</edge>
+<edge source="Reddit_Asian_ChemistEducational65" target="tirtir">
+  <data key="d4">june bunch influencers started posting swatch today check tirtir official account story instagram new darkest shade n believe sent mini assume also extended shade range mini</data>
+</edge>
+<edge source="Reddit_Asian_themostdownbad" target="tirtir">
+  <data key="d4">tirtirs marketing team definitely working overtime lmao however best selling cushion foundation japan true</data>
+</edge>
+<edge source="Reddit_Asian_Pankeopi" target="tirtir">
+  <data key="d4">poc make less korea tirtir made brand hasnt even viral long theyve already started expanding range better even western brand let give korean brand leeway inclusivity absolutely important let sort realistic expectation dont really like fellow american western obsessed stuff either giving kind attempt understand country true demographic even company go viral give time adjust korean brand cant predict theyll popular west unless doesnt make sense launch huge range based demographic</data>
+</edge>
+<edge source="Reddit_Asian_yakisobagurl" target="tirtir">
+  <data key="d4">funny often see issue discussed tirtir cushion sadly seems like almost always someone come comment reformulated new formula doesnt oxidise cant help think people shill plant dont believe tho neutralcool person probably wont purchasing time soon thank photo</data>
+</edge>
+<edge source="Reddit_Asian_isoliente" target="tirtir">
+  <data key="d4">shocked bad tirtir red cushion finish oxidation similar covergirl aqua smooth cream foundation used high school pretty sure cost buck lasted month fact tirtir might worse less blendable im going lot careful buying makeup thats viral online</data>
+</edge>
+<edge source="Reddit_Asian_wewgirl" target="tirtir">
+  <data key="d4">know completely defeat purpose cushion foundation ive found apply tirtir thin layer foundation brush doesnt oxidize finish quite nicedewy applied cushion oxidized horribly already bought tirtir might worth giving try foundation brush tossing</data>
+</edge>
+<edge source="Reddit_Asian_f_ddl" target="tirtir">
+  <data key="d4">havent problem tirtir cushion used red c porcelain soon set setting powder personally like white floral bouquet suppin powder also used another time wet n wild translucent loose powder innisfree loose powder never oxidized budged face</data>
+</edge>
+<edge source="Reddit_Asian_TemperatureExotic631" target="tirtir">
+  <data key="d4">thats ive heard stayed away cushion since im pale pink undertone afraid matter shade got would look orange disappointing personally got clio kill cover cushion loving far coverage great doesnt oxidize shade range much limited tirtir luckily shade lingere great match pale skin</data>
+</edge>
+<edge source="Reddit_Asian_Dense_University5798" target="tirtir">
+  <data key="d4">use silver honestly love clio jsm cushion oxidise tirtir aura cushion doesnt think thin application help though ask found black pink one</data>
+</edge>
+<edge source="Reddit_Asian_phantomixie" target="tirtir">
+  <data key="d4">actually dont know mac shade since recently got makeup closest cushion got match heimish artless cushion natural beige still interested tirtir ive hear shade trial kit done lol</data>
+</edge>
+<edge source="Reddit_Asian_blueberryJan" target="tirtir">
+  <data key="d4">im sorry birkin got ta tirtir oxidation also almost bought tirtir oxidation story really putting</data>
+</edge>
+<edge source="Reddit_Asian_mei-lei" target="tirtir">
+  <data key="d4">using n estee lauder dw foundation swiping dw one tad pinker tirtir one lightness ive never used mac tho hope still helped</data>
+</edge>
+<edge source="Reddit_Asian_kagamiis97" target="tirtir">
+  <data key="d4">thats interesting live japan tirtir red mini never oxidizes n even bought another replace mine ran oxidation</data>
+</edge>
+<edge source="Reddit_Asian_LunarBeast77" target="tirtir">
+  <data key="d4">black matte less coverage would use like everyday look pink one advertised matte cushion inbetween staying power really strong tho think reason there much user error co likely people first time using korean cushion tirtir one huge range shade influencers using much product</data>
+</edge>
+<edge source="Reddit_Asian_Brilliant72" target="tirtir">
+  <data key="d4">please tell troll get birkin side kick kid get gucci tirtir makeup im weeping ordered guess thats going back scam tirtir marketing team whole ott experience</data>
+</edge>
+<edge source="Reddit_Asian_carr1e" target="tirtir">
+  <data key="d4">tirtir totally buying influencers flashy present got chanel got gucci got hermes guess see pecking order based bag leaf really bad impression brand mind</data>
+</edge>
+<edge source="Reddit_Asian_Equal_Bat414" target="tirtir">
+  <data key="d4">dont know darkest shade tirtirs foundation range inclusivity much lighter tried deeper shade travelling lighter nc blame influencer finding correct match one go also op comment shade natural beige fairer skintones random shade name across brand dont follow standard life would much easier</data>
+</edge>
+<edge source="Reddit_Asian_Kind-Durian-3041" target="tirtir">
+  <data key="d4">got nerve someone asked whether good consistency etc said im gon na answer cuz would insult poc like got ta play race card tirtir korean beauty brand white beauty brand lmaooo there point using race card</data>
+</edge>
+<edge source="Reddit_Asian_bittsweet" target="shiseido">
+  <data key="d4">thought couldnt love kaysar us also showing hyaluronic acid moisturizer wasnt sure based packaging started around pm oh janelle us hot tool curling iron said us shiseido eye product didnt say</data>
+</edge>
+<edge source="Reddit_Asian_I-am-Groot_01" target="shiseido">
+  <data key="d4">tira cancelled shiseido lipstick order</data>
+</edge>
+<edge source="Reddit_Asian_Tiramissulover" target="shiseido">
+  <data key="d4">shiseido melhor</data>
+</edge>
+<edge source="Reddit_Asian_Background-Salad-711" target="shiseido">
+  <data key="d4">ia sugerir mesmo muito bons inclusive shiseido tambm recomendo</data>
+</edge>
+<edge source="Reddit_Asian_hervana" target="shiseido">
+  <data key="d4">sooo much even forum post eve extensive list think vib forum though great one vibclutch silver pencil bag benefit porefessional oz lancome hypnose drama mascara oz smashbox hydrating primer oz loccitane shea hand cream oz sephora collection instant moisturizer oz murad intensivec radiance peel oz algenist overnight restorative cream oz stella mccartney stella eau de parfum oz total itkit sephora bag deluxe sample remember one still work bestskin bag deluxe skincare sample includes dr brandt glow dr brandt ruby laser technology duo oz x shiseido bioperformance advanced super revitalizing cream oz kate somerville true lash enhancing eye makeup remover estimate oz sample may smaller lancome bienfait multivital spf daily moisturizing cream oz murad intensive c radiance peel oz philosophy miracle worker miraculous antiaging moisturizer oz total value sephora claim</data>
+</edge>
+<edge source="Reddit_Asian_FakespotAnalysisBot" target="shiseido">
+  <data key="d4">fakespot review analysis bot fakespot detects fake review fake product unreliable seller using ai analysis amazon product review name shiseido tsubaki premium repair floral fruity shampoo conditioner set mloz company tsubaki amazon product rating fakespot review grade adjusted fakespot rating analysis performed link fakespot analysis check fakespot chrome extension fakespot analyzes review authenticity product quality using ai look real review mention product issue counterfeit defect bad return policy fake review try hide consumer give af letter trustworthiness review trustworthy review f highly untrustworthy review also provide seller rating warn seller trusted</data>
+</edge>
+<edge source="Reddit_Asian_reaganh8r" target="tirtir">
+  <data key="d4">espoir cushion foundation different foundation except maybe less sanitary super finicky dont understand hype im honest regular foundation much better ive also heard tirtir foundation oxidizes lot ive never used cant sure</data>
+</edge>
+<edge source="Reddit_Asian_cfofosho" target="tirtir">
+  <data key="d4">tirtir cushion foundation recently bought japan commonly see red packaging version tirtir offer different option different finish coverage level spf black one highest spf think medium coverage would consider light compared traditional liquid foundation slightly dewy finish cant remember color option bought mine great match love finish special occasion makeup havent oxidation issue already starting run month using time week skin also good shape wear since really light coverage right condition look stunning</data>
+</edge>
+<edge source="Reddit_Asian_Smitti92" target="tirtir">
+  <data key="d4">red tirtir cushion foundation absolutely love one best foundation acne covering evening face bought tik tok hype ive fallen love immediately cant say anything long last bought recently</data>
+</edge>
+<edge source="Reddit_Asian_bonertootz" target="tirtir">
+  <data key="d4">havent used tirtir cushion current favorite foundation unleashia green cushion think value subjective used nars foundation many year foundation normal making unleashia cushion like bargain also personally really prefer packagingi avoided cushion long time thinking gimmick really nice able apply liquid foundation doesnt need dispensed back hand palette like unleashia particular isnt true cushion press button dispense makeup compact help keep bit sanitary well really allows control much product get puff still able pick product evenly ultimately youre curious think probably worth trying see look like there mini version tirtir cushion might good option try first many brand sure tirtir also offer refill cushion compact save buck time repurchase</data>
+</edge>
+<edge source="Reddit_Asian_RadiantEast" target="tirtir">
+  <data key="d4">thanks looked tonework far impressive appreciate heimish laneige range still small compared tirtir tonework saw lanieges range still pitiful heimishs range bit better never heard tonework im super happy see wide range really hope social medium boom tirtirs shade range really inspires company follow suit</data>
+</edge>
+<edge source="Reddit_Asian_clrcrystals" target="tirtir">
+  <data key="d4">see well thats ok also think better cushion tirtir saw review saying silver pink one lot better red variant cant sure since havent tested</data>
+</edge>
+<edge source="Reddit_Asian_PetiteAsianSB" target="tirtir">
+  <data key="d4">aprilskin laneige feel like aprilskin og cushion used cant remember na shade gosh must yr ago haha shade okay preferred naka na empty ako non could longer get hand one stopped using cushion sakto din na stopped working na sa event rarely put anything face na bought laneige couple month ago based sa swatch recommendation read online got c okay pero prefer shade darker though seamless naman ang color neto saktong shade lang pala apparently try tirtir soon pagdating ng order ko</data>
+</edge>
+<edge source="Reddit_Asian_ofmdstan" target="tirtir">
+  <data key="d4">maganda lapat ng stroke sa akin pero yung tirtir namumuo im medium ako sa stroke yung w ng tirtir masyadong maputi</data>
+</edge>
+<edge source="Reddit_Asian_Difficult-Double-644" target="tirtir">
+  <data key="d4">hows tirtir planning try</data>
+</edge>
+<edge source="Reddit_Asian_wfhcat" target="tirtir">
+  <data key="d4">daily driver glowy love coverage keep foundation datesevents aemani mac everything else tita jung love brush tried friend tirtir feel thick</data>
+</edge>
+<edge source="Reddit_Asian_thenocturnalfey" target="tirtir">
+  <data key="d4">local base reference got medium think mostly go andor korean base lightmedium olive leaning yellow overtone sa local base use first base coron issy skin tint spruce tirtir w romand cushion use sand tiny bit deeper swatched light coverage blend well naman swatched may bit darker youre fair</data>
+</edge>
+<edge source="Reddit_Asian_chocomizzlatte" target="tirtir">
+  <data key="d4">na tempt tuloy ako im using tirtir red w always get compliment either repurchase get jsm yung dati ko gamit laneige n na staple ko na</data>
+</edge>
+<edge source="Reddit_Asian_kittystars" target="tirtir">
+  <data key="d4">gravitate towards missha want closest shade match rest either bright pink ive actually never tried tirtir mum borrowed swatch laneige ive ever tried one cushion namely silkygirl magic bb cushion compared liked laneige felt lighter less stuffy face also like subtle glow give however notice hour start separate become patchy especially around nose chin also make break tho fair ive yet find foundation broken lol im sure would recommend dont enjoy overall experience wearing im sure specific laneige rly hate wearing foundation general</data>
+</edge>
+<edge source="Reddit_Asian_bunnybunny2003" target="tirtir">
+  <data key="d4">personally love clio kill cover mesh glow cushion unleashia glass pink cushion espoir tailor glow stick foundation pale pretty good shade unleashia cushion lightest shade little yellow clio little pink espoir perfect go lightest shade range ive ever foundation dry skin prefer dewy foundation fit medium buildable coverage havent tested summer yet live uk feel work fine always set lightly matte powder reduces glowy base set place foundation doesnt transfer always set setting spray acne layer concealer top foundation use uk brand powder foundation set blemish full coverage skin reacting way foundation id assume something wrong havent heard someone burning foundation personally didnt like tirtir red cushion coverage great bit much coverage lighter shade range crazy yellow skin tone id recommend checking skincare see reacting make sure arent allergic ingredient foundation skin eye reactive make think skin damaged skin burn damaged reacts skincare makeup may wrong thats symptom remind people always say use water based product primer silicone product silicone primer less likely pill skin apply badly however ive never issue dont check ingredient list would recommend trying skincare routine spf waiting min ur makeup found makeup foundation always pill place becomes patchy havent given skincare enough time absorb also heard spf cause foundation break seperate skin faster time far found true trialling different product together find ur match thought maybe ur application causing issue foundation might wrong always apply foundation centre cheek chin forehead small amount blend edge face build product layer better coverage never drag ur cushion sponge brush ur face prevent patch pilling uneven foundation hope help somehow</data>
+</edge>
+<edge source="Reddit_Asian_syusyubie" target="tirtir">
+  <data key="d4">tried cushion might cushion arent suitable application cushion pick product back find get worse older cushion could korean youtubers pick product spatula use like liquid foundation see problem application another thing could try blotting cushion applying super thin layer could also check interacting weirdly skincare primer similar issue really long time havent tried tirtir romand cushion tried black clio cushion hate lol bunch influencers receiving gift company promoting discount code im automatically distrustful lol favorite cushion laneige neo matte cushion wakemake water velvet cushion nothing actually good normal liquid foundation hygienic less prone oxidizingdrying time anyways id say stick youre alreacy comfortable work</data>
+</edge>
+<edge source="Reddit_Asian_Purser1" target="tirtir">
+  <data key="d4">love cushion foundation love tirtir shiseido clio one sunscreen additive make even better help skin dry airplane air im flight attendant im home honolulu</data>
+</edge>
+<edge source="Reddit_Asian_Purser1" target="shiseido">
+  <data key="d4">love cushion foundation love tirtir shiseido clio one sunscreen additive make even better help skin dry airplane air im flight attendant im home honolulu</data>
+</edge>
+<edge source="Reddit_Asian_Professional_Sport14" target="tirtir">
+  <data key="d4">fly cushion ok oil skin find extremely dryingexcept tirtir silver one clio pink one still ok rest felt like desert</data>
+</edge>
+<edge source="Reddit_Asian_mimiiscute" target="tirtir">
+  <data key="d4">thanks swatch anytime ask question asian beauty subreddit get removed really like tirtir cushion w perfect shade need something matte good read line similar number range give hope im looking clio kill cushion finger crossed think different undertone would perfect led haha</data>
+</edge>
+<edge source="Reddit_Asian_Sadbittermelon" target="tirtir">
+  <data key="d4">oh im also using app look normal im sorry ist tirtir mask red fit cushion w</data>
+</edge>
+<edge source="Reddit_Asian_gatitosocialista" target="tirtir">
+  <data key="d4">wanted try tirtir dont seem olive skin friendly also want try unleashia blue cushion shade n im scared might light</data>
+</edge>
+<edge source="Reddit_Asian_imprecationstation" target="tirtir">
+  <data key="d4">tirtir cushion get sample packet online test theshades</data>
+</edge>
+<edge source="Reddit_Asian_iggy_y" target="tirtir">
+  <data key="d4">never tried tirtir korean brand japanese although popular japan ive thinking trying shade seem oxidise quite lot brand sell sachet pack shade yesstyle</data>
+</edge>
+<edge source="Reddit_Asian_Leather_Raccoon_8550" target="tirtir">
+  <data key="d4">hi wanted lyk tirtir foundation kinda high coverage wouldnt invest since youre looking medium coverage foundation would suggest looking foundation matte semi matte finish</data>
+</edge>
+<edge source="Reddit_Asian_TheMadDurian" target="tirtir">
+  <data key="d4">product reviewed tirtir red cushion foundation shade n</data>
+</edge>
+<edge source="Reddit_Asian_kanzaki_hitomi765" target="tirtir">
+  <data key="d4">commented another thread use korean cushion issue dont use tirtir one cant vouch use clio skin nuder cushion shade range much limited though mild type though use cushion sure change little sponge puff often dont accumulate bacteria otherwise buy foundation thats traditional bottle instead</data>
+</edge>
+<edge source="Reddit_Asian_Outside_Set_9458" target="tirtir">
+  <data key="d4">tirtir even viral actually good</data>
+</edge>
+<edge source="Reddit_Asian_whatwouldyoudew" target="tirtir">
+  <data key="d4">clio jungsaemmool good know lot people also love tirtir havent personally tried coming someone acne prone skin</data>
+</edge>
+<edge source="Reddit_Asian_Onetwodash" target="tirtir">
+  <data key="d4">tir tir red least shade included tester ser c lightest start quite bit neutral cliosc oxidises orange site also seem c maybe work unlikely shade match pale especially nonwarm undertone actually see influencer video look picture listen voiceover video go past initial application least tester definitely try certainly made work contourhighlight heavily take effort good coverage lovely finish long shade match one doesnt enough fine line worry foundation settling line fantastic base powdery contourseyeshadowsblushes fame unearned clio kill cover suggested another poster match pale skin better coverage kill cover founwear use whats highest coverage cushion quite bit lighter let say medium tirtir red still good covering blemish youd want concealer acne one</data>
+</edge>
+<edge source="Reddit_Asian_lavayuki" target="shiseido">
+  <data key="d4">find japanese one shade korean one tend cater white pale skin medium skin never find shade korean one japanese one usually shade ad ingredient ive really looked another thing japan global brand like shiseido shu uemura suqqu koh gen etc available everywhere big department store cant said korean brand live uk korean makeup brand department store like japanese one</data>
+</edge>
+<edge source="Reddit_Asian_brnbrnbrn2017" target="shiseido">
+  <data key="d4">hi specifically want something japanese brand want something formulated made japan ive heard great thing troy surratt dew drop foundation iirc made japan extensive shade range downside expensive though also isnt cushion shiseido wellreviewed synchro skin cushion foundation might want try sadly dont think go past nc shade range may want give look though ive heard good thing one</data>
+</edge>
+</graph></graphml>

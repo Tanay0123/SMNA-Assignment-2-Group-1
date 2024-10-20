@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="platform" attr.type="string"/>
+<key id="d2" for="node" attr.name="platform" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="fenty">
+  <data key="d0">Fenty</data>
+  <data key="d1">brand</data>
+  <data key="d2">brand</data>
+</node>
+<node id="YouTube_Western_Unknown">
+  <data key="d0">Unknown</data>
+  <data key="d1">user</data>
+  <data key="d2">YouTube_Western</data>
+</node>
+<node id="tirtir">
+  <data key="d0">Tirtir</data>
+  <data key="d1">brand</data>
+  <data key="d2">brand</data>
+</node>
+<node id="YouTube_Asian_Unknown">
+  <data key="d0">Unknown</data>
+  <data key="d1">user</data>
+  <data key="d2">YouTube_Asian</data>
+</node>
+<edge source="YouTube_Western_Unknown" target="fenty">
+  <data key="d3">YouTube_Western</data>
+</edge>
+<edge source="YouTube_Asian_Unknown" target="tirtir">
+  <data key="d3">YouTube_Asian</data>
+</edge>
+</graph></graphml>

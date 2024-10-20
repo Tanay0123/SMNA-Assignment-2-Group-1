@@ -1,0 +1,463 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sentiment" attr.type="string"/>
+<key id="d3" for="edge" attr.name="platform" attr.type="string"/>
+<key id="d2" for="node" attr.name="platform" attr.type="string"/>
+<key id="d1" for="node" attr.name="brand_origin" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="Western_fenty">
+  <data key="d0">brand</data>
+  <data key="d1">Western</data>
+</node>
+<node id="Reddit_Western_angiipanda">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_Cortado2711">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_Unknown">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_Gigitheuglyduckling">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_NightOwlSupreme">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Western_mac">
+  <data key="d0">brand</data>
+  <data key="d1">Western</data>
+</node>
+<node id="Reddit_Western_KneelAurmstrong">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Western_urban decay">
+  <data key="d0">brand</data>
+  <data key="d1">Western</data>
+</node>
+<node id="Reddit_Western_roller_jay">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_Brompton_Cocktail">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_SweetandUnsweet">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_Senturi">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_[deleted]">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_1998xoxo">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_celiacbulldog">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_AFishCalledWakanda">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_ismabit">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_jigglywigglybooty">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_gossipbomb">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_eveningtrain">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_Thatonepandathing">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_P_Grammicus">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_MoscatoRose">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_Moocows4">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_foxwaffles">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_Whynotdragon">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Western_shiseido">
+  <data key="d0">brand</data>
+  <data key="d1">Western</data>
+</node>
+<node id="Reddit_Western_milliemilly">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_fuschiaoctopus">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_ExtraFluffyButts">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_Brock_Lobstweiler">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_gingerflakes">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_Jadis4742">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="Reddit_Western_Dry-Bad9586">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Western</data>
+</node>
+<node id="YouTube_Western_Unknown">
+  <data key="d0">user</data>
+  <data key="d2">YouTube_Western</data>
+</node>
+<node id="Western_tirtir">
+  <data key="d0">brand</data>
+  <data key="d1">Western</data>
+</node>
+<node id="YouTube_Western_@BIink_Stay143">
+  <data key="d0">user</data>
+  <data key="d2">YouTube_Western</data>
+</node>
+<node id="YouTube_Western_@nicoleheppner6431">
+  <data key="d0">user</data>
+  <data key="d2">YouTube_Western</data>
+</node>
+<node id="YouTube_Western_@MissAlenkin">
+  <data key="d0">user</data>
+  <data key="d2">YouTube_Western</data>
+</node>
+<node id="YouTube_Western_@thecat5819">
+  <data key="d0">user</data>
+  <data key="d2">YouTube_Western</data>
+</node>
+<node id="YouTube_Western_@vipradave8454">
+  <data key="d0">user</data>
+  <data key="d2">YouTube_Western</data>
+</node>
+<node id="YouTube_Western_@nathashapaul5344">
+  <data key="d0">user</data>
+  <data key="d2">YouTube_Western</data>
+</node>
+<node id="YouTube_Western_@kateysandon">
+  <data key="d0">user</data>
+  <data key="d2">YouTube_Western</data>
+</node>
+<node id="Asian_tirtir">
+  <data key="d0">brand</data>
+  <data key="d1">Asian</data>
+</node>
+<node id="Reddit_Asian_Unknown">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Asian</data>
+</node>
+<node id="Reddit_Asian_Stayin_BarelyAlive58">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Asian</data>
+</node>
+<node id="Reddit_Asian_AsylumXX">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Asian</data>
+</node>
+<node id="Reddit_Asian_[deleted]">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Asian</data>
+</node>
+<node id="Reddit_Asian_moondoII">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Asian</data>
+</node>
+<node id="Reddit_Asian_Ronrinesu">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Asian</data>
+</node>
+<node id="Reddit_Asian_Jealous_Tadpole5145">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Asian</data>
+</node>
+<node id="Asian_shiseido">
+  <data key="d0">brand</data>
+  <data key="d1">Asian</data>
+</node>
+<node id="Reddit_Asian_Background-Salad-711">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Asian</data>
+</node>
+<node id="Asian_mac">
+  <data key="d0">brand</data>
+  <data key="d1">Asian</data>
+</node>
+<node id="Reddit_Asian_Naskva">
+  <data key="d0">user</data>
+  <data key="d2">Reddit_Asian</data>
+</node>
+<node id="YouTube_Asian_@brownie9085">
+  <data key="d0">user</data>
+  <data key="d2">YouTube_Asian</data>
+</node>
+<edge source="Reddit_Western_angiipanda" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_Cortado2711" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_Unknown" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_Gigitheuglyduckling" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">negative</data>
+</edge>
+<edge source="Reddit_Western_NightOwlSupreme" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_NightOwlSupreme" target="Western_mac">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_KneelAurmstrong" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">negative</data>
+</edge>
+<edge source="Reddit_Western_KneelAurmstrong" target="Western_urban decay">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">negative</data>
+</edge>
+<edge source="Reddit_Western_roller_jay" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_roller_jay" target="Western_mac">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_Brompton_Cocktail" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_SweetandUnsweet" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_Senturi" target="Western_mac">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_[deleted]" target="Western_mac">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_1998xoxo" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">negative</data>
+</edge>
+<edge source="Reddit_Western_celiacbulldog" target="Western_mac">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_AFishCalledWakanda" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_ismabit" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">neutral</data>
+</edge>
+<edge source="Reddit_Western_jigglywigglybooty" target="Western_mac">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_jigglywigglybooty" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_gossipbomb" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_eveningtrain" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_Thatonepandathing" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_P_Grammicus" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_P_Grammicus" target="Western_mac">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_MoscatoRose" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">negative</data>
+</edge>
+<edge source="Reddit_Western_MoscatoRose" target="Western_mac">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">negative</data>
+</edge>
+<edge source="Reddit_Western_Moocows4" target="Western_mac">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_foxwaffles" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">negative</data>
+</edge>
+<edge source="Reddit_Western_Whynotdragon" target="Western_urban decay">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_Whynotdragon" target="Western_shiseido">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_milliemilly" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_fuschiaoctopus" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">negative</data>
+</edge>
+<edge source="Reddit_Western_ExtraFluffyButts" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_Brock_Lobstweiler" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_Brock_Lobstweiler" target="Western_mac">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_gingerflakes" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Western_Jadis4742" target="Western_urban decay">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">negative</data>
+</edge>
+<edge source="Reddit_Western_Dry-Bad9586" target="Western_fenty">
+  <data key="d3">Reddit_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="YouTube_Western_Unknown" target="Western_fenty">
+  <data key="d3">YouTube_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="YouTube_Western_@BIink_Stay143" target="Western_tirtir">
+  <data key="d3">YouTube_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="YouTube_Western_@nicoleheppner6431" target="Western_urban decay">
+  <data key="d3">YouTube_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="YouTube_Western_@MissAlenkin" target="Western_fenty">
+  <data key="d3">YouTube_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="YouTube_Western_@thecat5819" target="Western_fenty">
+  <data key="d3">YouTube_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="YouTube_Western_@vipradave8454" target="Western_fenty">
+  <data key="d3">YouTube_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="YouTube_Western_@nathashapaul5344" target="Western_fenty">
+  <data key="d3">YouTube_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="YouTube_Western_@kateysandon" target="Western_fenty">
+  <data key="d3">YouTube_Western</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Asian_Unknown" target="Asian_tirtir">
+  <data key="d3">Reddit_Asian</data>
+  <data key="d4">neutral</data>
+</edge>
+<edge source="Reddit_Asian_Stayin_BarelyAlive58" target="Asian_tirtir">
+  <data key="d3">Reddit_Asian</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Asian_AsylumXX" target="Asian_tirtir">
+  <data key="d3">Reddit_Asian</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Asian_[deleted]" target="Asian_tirtir">
+  <data key="d3">Reddit_Asian</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Asian_moondoII" target="Asian_tirtir">
+  <data key="d3">Reddit_Asian</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Asian_Ronrinesu" target="Asian_tirtir">
+  <data key="d3">Reddit_Asian</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Asian_Jealous_Tadpole5145" target="Asian_tirtir">
+  <data key="d3">Reddit_Asian</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="Reddit_Asian_Background-Salad-711" target="Asian_shiseido">
+  <data key="d3">Reddit_Asian</data>
+  <data key="d4">neutral</data>
+</edge>
+<edge source="Reddit_Asian_Naskva" target="Asian_mac">
+  <data key="d3">Reddit_Asian</data>
+  <data key="d4">positive</data>
+</edge>
+<edge source="YouTube_Asian_@brownie9085" target="Asian_tirtir">
+  <data key="d3">YouTube_Asian</data>
+  <data key="d4">positive</data>
+</edge>
+</graph></graphml>

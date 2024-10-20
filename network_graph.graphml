@@ -1,0 +1,1563 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="comment" attr.type="string"/>
+<key id="d3" for="node" attr.name="name" attr.type="string"/>
+<key id="d2" for="node" attr.name="sentiment" attr.type="string"/>
+<key id="d1" for="node" attr.name="platform" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="YouTube_Western_@zachrully5672">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="fenty">
+  <data key="d0">brand</data>
+  <data key="d3">fenty</data>
+</node>
+<node id="YouTube_Western_@User38344">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@ajmartinez5885">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@idkwhattodo888">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@tundrasome9409">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@KalypsoVega">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@kana1372">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@fgh5858">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@samaroz6603">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@truebaronesse5653">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@madhumita4377">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@xrystal89">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@sarajoanna1618">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@kumail4038">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@haneyah917">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@_mahi_7107_">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@gnomo8943">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@MrHamster34">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@tiffanyd.flowersfuturefocu369">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@Im_in_love">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@swiftiesquirrel1989">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@amritharejisanthosh6254">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@monimtenga7412">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="urban decay">
+  <data key="d0">brand</data>
+  <data key="d3">urban decay</data>
+</node>
+<node id="YouTube_Western_@GMpiece">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@bloodymary9404">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@GwenApMannanan">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@nicoleheppner6431">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@yuh9412">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@Mistydayze">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@roccafille">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@baileyspeltbeefy1768">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@Gone2war-q3i">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@4amlibra">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@nilessilly">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@rydbthatsme">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@Jelotaine">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@MoonWitch77">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@Kate_P">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@aubsarg0222">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@nortondade5985">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@MissAlenkin">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@chrisluminare3076">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@sharen219">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@danielcrotty8697">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@aqua-mina">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@SouthernBelleReviews">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@renatahonorato6895">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@user-mz9iy9py6m">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@EwMan-h8b">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@karenndoro6383">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@thaisgregorio2734">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@diopfifi4937">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@kashmirichai123">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@hannahshark8080">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@jonathanlatouche7013">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@dizmop">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@ecenbt">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@jojomargaux9295">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@Kelly-mi1yz">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@sylviak6268">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@halehydraa">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@lorifrederick2367">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@MsAdri89">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@fernandohlima_">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@sophroniel">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@steeldrumheart601">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@lizday3067">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@gjimjams">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@zdoriksandorik">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@jhoover3098">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@namjoonsgf41">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@societycrumbles">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@yahainHotPink">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@cherissetillman8973">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@thecat5819">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@K.aterina">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@BossBrookeArmstrong">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@justinemarin16">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@davidanderson3407">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@jynnejillmendoza5294">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@jeylakeybreezy7050">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@Mouhamedtounkara09">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@kumaladewii">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@awa7671">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@erkan-n">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@livelaughloveMSZ">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@hudaali1854">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@anacarolinapereirarozendo5776">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@daphanie9054">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@landshark3509">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@someone8323">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@Life-vu5te">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@cheribxo">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@Brandi1823">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@rihannalover2461">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@tammysaj4566">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@aliciabyul9550">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@oussamazaanouni1492">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@suckstobeaslay">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@mk78786">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@cheikhounadieye148">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@kassyyoung9870">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@genieNotinabottle">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@amandangcobo7116">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@thePrincessv">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@petronellembembeekwalanga562">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@gabrielavitoria3796">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@gurnaazvirk569">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@schoolgyaru">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@kimberlysbeautyandstyle6695">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@Vspee">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@RealPhoenixRising">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@v.h2755">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@맏쵸">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@elizabethgeorge4588">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@dontdamnme3727">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@tatianalaurier8658">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@OmerMD">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@cherylholmes9636">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@melb4598">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@aubreycannotdraw">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@micaela4728">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@smallpupper">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@oliviam2445">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@Dutch_Van.DerLinde">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@nancystampphoenix3109">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@TheChels91">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@BoxofCarrots">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@remynisce">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@divalarue">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@Soothsoundasmr">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@xandriemme7578">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@fatemasajjad2019">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@cand2904">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@queendomcentral2235">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@zubugumis">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@sophialorencoffee9055">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@ETHYLYNN">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@alyssa6477">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@vipradave8454">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@bellamorte666">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@ptaylorification">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Western_@nathashapaul5344">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@amyames7066">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@ShikhaSingh1303">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@etherLune">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@laurenmatal353">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@anon6116">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@Mageling55">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@elettramia6380">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@purplebushie">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@veronicasawyer1958">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@faithvanhope6214">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@coranottellin">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@Ltommo91">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@threella7">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@agtaylor2863">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@nancykerrigan">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@stephiesun1145">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@LightingJedi">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@michellebarnes7725">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Western_@mayurixoxo4126">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@OnlineAddict">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@kateysandon">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@catherinehackler8409">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Western_@samfrost6474">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Western</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@RowenStelling">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="tirtir">
+  <data key="d0">brand</data>
+  <data key="d3">tirtir</data>
+</node>
+<node id="YouTube_Asian_@zayfizy7189">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Asian_@Robloxloabrr">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Asian_@brownie9085">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@gutznblxssxms">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Asian_@Zahra-py3yn">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@drpri1836">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@Sjochumsen">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Asian_@liahbobita">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@predilection">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@steph8340">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">neutral</data>
+</node>
+<node id="YouTube_Asian_@haniiyoon">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@anatonin8917">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Asian_@sweetcarolineq">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@selinvox4643">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@s.jensen1492">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@sassybanjo3586">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@vikkki">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Asian_@stephaniecasey8557">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@americangirl4410">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@Yorkiemom315">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@juliahester1945">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@joinspace3864">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@AnneFox-mb5qt">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<node id="YouTube_Asian_@aiquinn">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Asian_@tealialily">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">negative</data>
+</node>
+<node id="YouTube_Asian_@AngeeloRabaya">
+  <data key="d0">user</data>
+  <data key="d1">YouTube_Asian</data>
+  <data key="d2">positive</data>
+</node>
+<edge source="YouTube_Western_@zachrully5672" target="fenty">
+  <data key="d4">i'm fenty</data>
+</edge>
+<edge source="YouTube_Western_@User38344" target="fenty">
+  <data key="d4">people supporting fenty rihanna us child labour dig mica mine makeup company talk saving child africa 😂</data>
+</edge>
+<edge source="YouTube_Western_@ajmartinez5885" target="fenty">
+  <data key="d4">😘 fenty skin</data>
+</edge>
+<edge source="YouTube_Western_@idkwhattodo888" target="fenty">
+  <data key="d4">im tan person although im black started using fenty foundation foundation shade skin tint definitely fav tho</data>
+</edge>
+<edge source="YouTube_Western_@tundrasome9409" target="fenty">
+  <data key="d4">aspiring mua koyvoca seems like great affordable alternative fenty</data>
+</edge>
+<edge source="YouTube_Western_@KalypsoVega" target="fenty">
+  <data key="d4">hard get mine yellow red undertone fenty beauty really cover either ...</data>
+</edge>
+<edge source="YouTube_Western_@kana1372" target="fenty">
+  <data key="d4">fenty cruelty free</data>
+</edge>
+<edge source="YouTube_Western_@fgh5858" target="fenty">
+  <data key="d4">fenty best doubt im middle eastern although im light skinned barley find foundation warm undertone usually wear yellow foundation suit skin shade cant compare fenty brand literally best brand sephora shade looking eyeliner stay night great gloss favorite brand meant yt people 😪</data>
+</edge>
+<edge source="YouTube_Western_@samaroz6603" target="fenty">
+  <data key="d4">also love fenty's shade name name number people espresso cinammon thing degrade people exotic food item color use number easier order control degrading</data>
+</edge>
+<edge source="YouTube_Western_@truebaronesse5653" target="fenty">
+  <data key="d4">fenty owned lvmh white owned company forgot mention inconvenient fact</data>
+</edge>
+<edge source="YouTube_Western_@madhumita4377" target="fenty">
+  <data key="d4">cannot afford fenty glad atleast catering u pocs give hope</data>
+</edge>
+<edge source="YouTube_Western_@xrystal89" target="fenty">
+  <data key="d4">brand like fenty became popular suddenly many beauty brand lot color palette guess finally realized money still green matter shade hand giving</data>
+</edge>
+<edge source="YouTube_Western_@sarajoanna1618" target="fenty">
+  <data key="d4">fool think fenty beauty empowerment including money</data>
+</edge>
+<edge source="YouTube_Western_@kumail4038" target="fenty">
+  <data key="d4">r p fenty</data>
+</edge>
+<edge source="YouTube_Western_@haneyah917" target="fenty">
+  <data key="d4">everyone shade 🖐 🖐 🖐🏻 🖐🏻 🖐🏻 🖐🏻 🖐🏻 🖐🏼 🖐🏼 🖐🏾 🖐🏿 fenty 🖐 🖐 🖐🏻 🖐🏻 🖐🏻 🖐🏻 🖐🏼 🖐🏼 🖐🏼 🖐🏼 🖐🏽 🖐🏽 🖐🏼 🖐🏼 🖐🏼 🖐🏾 🖐🏾 🖐🏾 🖐🏾 🖐🏿 🖐🏿 🖐🏿 🖐🏿 🖐🏿 🖐🏿 🖐🏿 🖐🏿 🖐🏿</data>
+</edge>
+<edge source="YouTube_Western_@_mahi_7107_" target="fenty">
+  <data key="d4">person color fenty best foundation match every shade</data>
+</edge>
+<edge source="YouTube_Western_@gnomo8943" target="fenty">
+  <data key="d4">aguante rihanna viva fenty</data>
+</edge>
+<edge source="YouTube_Western_@MrHamster34" target="fenty">
+  <data key="d4">uhmm mac rcma make ever kryolan mehron ben nye graftobian professional brand wide range foundation year fenty give credit due</data>
+</edge>
+<edge source="YouTube_Western_@tiffanyd.flowersfuturefocu369" target="fenty">
+  <data key="d4">beginning #fenty ❤</data>
+</edge>
+<edge source="YouTube_Western_@Im_in_love" target="fenty">
+  <data key="d4">ulta today considering buying hot chocolit thought skin light guess proven wrong 😅 really love shade fenty glow</data>
+</edge>
+<edge source="YouTube_Western_@swiftiesquirrel1989" target="fenty">
+  <data key="d4">love fenty shade look great everyone</data>
+</edge>
+<edge source="YouTube_Western_@amritharejisanthosh6254" target="fenty">
+  <data key="d4">fenty know they're people want 😏 😏 😏 🦄</data>
+</edge>
+<edge source="YouTube_Western_@monimtenga7412" target="urban decay">
+  <data key="d4">think urban decay loréal true match dont know whole brand use blue pigment im melenated find foundation lack true undertone</data>
+</edge>
+<edge source="YouTube_Western_@GMpiece" target="urban decay">
+  <data key="d4">well done urban decay 👌🏿 👌🏿 👌🏿 🙌🏿 🙌🏿 🙌🏿 🙌🏿 💪🏿 💪🏿 💪🏿 💪🏿 know know include others thank ♥ ️</data>
+</edge>
+<edge source="YouTube_Western_@bloodymary9404" target="urban decay">
+  <data key="d4">urban decay always wide selection everything youd look pretty bright metallic teal shimmer eyeliner really make brown eye stand like wear go friend</data>
+</edge>
+<edge source="YouTube_Western_@GwenApMannanan" target="urban decay">
+  <data key="d4">there excuse company care skin tone good job urban decay</data>
+</edge>
+<edge source="YouTube_Western_@nicoleheppner6431" target="urban decay">
+  <data key="d4">i'm whitey mcwhiterson rarely wear makeup next need buy definitely support urban decay i'm pleased see company real inclusiveness</data>
+</edge>
+<edge source="YouTube_Western_@yuh9412" target="urban decay">
+  <data key="d4">gone stay cuz urban decay 🤭</data>
+</edge>
+<edge source="YouTube_Western_@Mistydayze" target="urban decay">
+  <data key="d4">urban decay</data>
+</edge>
+<edge source="YouTube_Western_@roccafille" target="urban decay">
+  <data key="d4">definitily urban decay next foundation purchase</data>
+</edge>
+<edge source="YouTube_Western_@baileyspeltbeefy1768" target="fenty">
+  <data key="d4">feel like problem end complexion spectrum … people dark end struggle greatly find foundation concealer perfectly match skin tone tone people pale end struggle greatly find foundation concealer perfectly match skin tone tone pale nearly impossible find something work perfectly come drug store even harder .. fenty first brand truly matched since makeup brand gotten better made something truly work pale skin many brand still dark right tone</data>
+</edge>
+<edge source="YouTube_Western_@Gone2war-q3i" target="urban decay">
+  <data key="d4">urban decay og back day ❤</data>
+</edge>
+<edge source="YouTube_Western_@4amlibra" target="urban decay">
+  <data key="d4">needed reason love urban decay</data>
+</edge>
+<edge source="YouTube_Western_@nilessilly" target="urban decay">
+  <data key="d4">urban decay always got everything covered love</data>
+</edge>
+<edge source="YouTube_Western_@rydbthatsme" target="urban decay">
+  <data key="d4">think great found one urban decay company want create many shade dont spend money work end</data>
+</edge>
+<edge source="YouTube_Western_@Jelotaine" target="urban decay">
+  <data key="d4">urban decay slays ❤</data>
+</edge>
+<edge source="YouTube_Western_@MoonWitch77" target="urban decay">
+  <data key="d4">shout urban decay “ needed ” well said</data>
+</edge>
+<edge source="YouTube_Western_@Kate_P" target="urban decay">
+  <data key="d4">someone pale struggle find brand foundation actually light enough also arent yellow orange im cool undertone girly exact line urban decay actually use glad hear end spectrum covered ❤ ❤ love foundation</data>
+</edge>
+<edge source="YouTube_Western_@aubsarg0222" target="urban decay">
+  <data key="d4">im happy robert welsh made video stating bad really dark really light complexion bc lord know cannot wear drug store half middle type priced brand bc undertone always wrong either yellow orange went basic tried elizabeth arden guess stuff straight green never “ green ” problem lol … … .. stick bobbi brown one ever gotten undertone color right apart marc jacob yano went business … bare mineral yellow despite seemingly catering lighter complexion ill try urban decay thanks thisand edit yes know could paint entire face neck go shade darker wanted really work winter time im tan reach middle shade versatility</data>
+</edge>
+<edge source="YouTube_Western_@nortondade5985" target="fenty">
+  <data key="d4">couple year ago decided try fenty concealer perfect always get go harvey nichols released skin tin loved tinted spf daily essential skin care also daily routine there something skin love</data>
+</edge>
+<edge source="YouTube_Western_@MissAlenkin" target="fenty">
+  <data key="d4">vampire pale shade foundation usually mix everything whitening drop thank fenty forcing brand make colour inclusive pallet hope people south asia africa european beauty company usually dont cater u agree world still perfect deffinetly getting better regard personally fenty foundation texture suitable although love concealer found match another brand inspired</data>
+</edge>
+<edge source="YouTube_Western_@chrisluminare3076" target="fenty">
+  <data key="d4">promoting fentynol ..</data>
+</edge>
+<edge source="YouTube_Western_@sharen219" target="fenty">
+  <data key="d4">fenty beauty goated</data>
+</edge>
+<edge source="YouTube_Western_@danielcrotty8697" target="fenty">
+  <data key="d4">want meeting ulta decided start carrying fenty accept ch nemesis brand store cant fun moment</data>
+</edge>
+<edge source="YouTube_Western_@aqua-mina" target="fenty">
+  <data key="d4">keep meaning get fenty foundation never got around dont makeup well</data>
+</edge>
+<edge source="YouTube_Western_@SouthernBelleReviews" target="fenty">
+  <data key="d4">one never bought owned anything fenty beauty fenty skin owned perfume rihanna never beauty</data>
+</edge>
+<edge source="YouTube_Western_@renatahonorato6895" target="fenty">
+  <data key="d4">fenty beauty changed market forever</data>
+</edge>
+<edge source="YouTube_Western_@user-mz9iy9py6m" target="fenty">
+  <data key="d4">rare sell way better fenty overtaken fenty sale year ..</data>
+</edge>
+<edge source="YouTube_Western_@EwMan-h8b" target="fenty">
+  <data key="d4">fenty beauty foundation gloss dont like either get oily sweaty easily way wear foundation slather kind moisturizer beforehand otherwise itll crack dry formula dry immediately touching skin make hard blend youd think would good thing oily skin nope good luck finding cheap setting spray make last foundation last maybe hour max ive tried different setting spray foundation make horrible best foundation combo oily skin macc already bought fenty cant afford buy new bottle im stuck oh shade ulta recommended make completely yellow 😢</data>
+</edge>
+<edge source="YouTube_Western_@karenndoro6383" target="fenty">
+  <data key="d4">fenty beauty everyone felt seen mean skin type</data>
+</edge>
+<edge source="YouTube_Western_@thaisgregorio2734" target="fenty">
+  <data key="d4">fenty's marking successful even someone like usually wear makeup leave house maximum week work home curious interested trying bought beautiful fenty heat gloss concealer pleasantly suprised mathched perfectly find hard find shade match light brown shade skin concealers usually look dark light even though fenty quite expansive country think worth</data>
+</edge>
+<edge source="YouTube_Western_@diopfifi4937" target="fenty">
+  <data key="d4">fenty beauty well</data>
+</edge>
+<edge source="YouTube_Western_@kashmirichai123" target="fenty">
+  <data key="d4">also mentioned fenty claim cruelty free yet us child slave mined mineral india</data>
+</edge>
+<edge source="YouTube_Western_@hannahshark8080" target="fenty">
+  <data key="d4">even fenty beauty fails people especially woman colour beauty industry huge alone thank rihanna ❤ ️</data>
+</edge>
+<edge source="YouTube_Western_@jonathanlatouche7013" target="fenty">
+  <data key="d4">fenty fenthy</data>
+</edge>
+<edge source="YouTube_Western_@dizmop" target="fenty">
+  <data key="d4">saw clip called rise fall fenty</data>
+</edge>
+<edge source="YouTube_Western_@ecenbt" target="fenty">
+  <data key="d4">i'm really make girlie sense love putting make playing color seldom time energy sifting plethora product fenty came huge range product message quality accessibility inclusivity kind brainer try see liked found product swear absolutely need look thing almost exclusively shop fenty easy know let term range quality think really knew create loyal customer life long customer</data>
+</edge>
+<edge source="YouTube_Western_@jojomargaux9295" target="fenty">
+  <data key="d4">yall fenty beauty laughed saw woman walk life uniting together laughing dancing living sharing story amazing promoting marketing fenty beauty definitely practiced 4ps marketing ❤ rihanna need get brand level like pat magraw brand rihanna doesnt dominate market foundation lip product real great shadow pallet staple makeup product get see careful better researching customer want stay around love ❤</data>
+</edge>
+<edge source="YouTube_Western_@Kelly-mi1yz" target="fenty">
+  <data key="d4">heard lipstick release great formula keep making color also watch lot beauty community little creator use fenty</data>
+</edge>
+<edge source="YouTube_Western_@sylviak6268" target="fenty">
+  <data key="d4">mac go wrong brand choice took switch fenty didnt mac lead way shade range inclusivity</data>
+</edge>
+<edge source="YouTube_Western_@halehydraa" target="fenty">
+  <data key="d4">someone rarely wear make really wish fenty would release like mini version foundation</data>
+</edge>
+<edge source="YouTube_Western_@lorifrederick2367" target="fenty">
+  <data key="d4">working sephora jcp hearing upcoming fenty launch thought oh great .. another celebrity makeup line snore well education launched totally gobsmacked range color undertone anything ever seen fulfilling able match foundation everyone even shade light medium pink undertone extremely hard get match sale roof many many happy customer definitely set bar brand seen many launch brand since still lack day age shade range rare beauty come close fenty beauty consistently launched excellent product lip gloss divine pry ease drop skintint powder foundation cold dead hand course many backup way go fenty beauty</data>
+</edge>
+<edge source="YouTube_Western_@MsAdri89" target="fenty">
+  <data key="d4">fenty available ulta genus ideal cost living keep going many u benefit ultas reward point system better sephora</data>
+</edge>
+<edge source="YouTube_Western_@fernandohlima_" target="fenty">
+  <data key="d4">rihanna genius way think impressive think fenty going still successful moving forward first good move come mind support feeling fact rihanna put known name brand put last name make little bit difficult people general connect everything good although association benefit brand also disconnection allow rihanna live life without people getting sick hearing name time second rihanna low-key lifestyle reveal much personal life public nowadays even know son's name hahaha sense kinda stay trouble image stay cool possible far music industry also plus matter give less space people criticize</data>
+</edge>
+<edge source="YouTube_Western_@sophroniel" target="fenty">
+  <data key="d4">wanted bad purchase dainty doll foundation unable source new zealand kind ironic fenty even go light enough pink enough skin tone despite press they've running since beginning saying cater skin tone white mixer would less critical foundation yellow mac's fenty first wide shade range biggest loudest</data>
+</edge>
+<edge source="YouTube_Western_@steeldrumheart601" target="fenty">
+  <data key="d4">allot company said created wider range skin tone follow fenty go store reverted selling specific shade like before.they still underestimate brown consumer that's loss</data>
+</edge>
+<edge source="YouTube_Western_@lizday3067" target="fenty">
+  <data key="d4">mentioned risk losing luxury status think sophisticated still relatively affordable continues emphasis inclusivity luxury brand higher price point inherently exclusive purchased fenty product im excited see brand go</data>
+</edge>
+<edge source="YouTube_Western_@gjimjams" target="fenty">
+  <data key="d4">hated ketchup gloss thing hey like buy harm ... love fenty boot uk make accessible think brand image strong enough take association ... let's say great win boot 😜</data>
+</edge>
+<edge source="YouTube_Western_@zdoriksandorik" target="fenty">
+  <data key="d4">remember exactly fenty beauty dropped foundation shadesand right pale colour i'm person general shade ivory white always dark yellow remember pre-fenty impossible friend buy sort pale foundation really changed game</data>
+</edge>
+<edge source="YouTube_Western_@jhoover3098" target="fenty">
+  <data key="d4">watching video back back understitchs fenty fashion video everything rise rise beauty line many mistake fashion line great lesson building customer loyalty honestly video assigned business class well done 🏆 🏆 🏆</data>
+</edge>
+<edge source="YouTube_Western_@namjoonsgf41" target="fenty">
+  <data key="d4">i've watch video similar video topic fenty rise fall true 🥲 https://youtu.be/gclgdfutyci</data>
+</edge>
+<edge source="YouTube_Western_@societycrumbles" target="fenty">
+  <data key="d4">i've said say lot lack inclusvity makeup world fenty releasing shade foundation considered revolutionary</data>
+</edge>
+<edge source="YouTube_Western_@yahainHotPink" target="fenty">
+  <data key="d4">september official launch time fenty beauty guess alliance started</data>
+</edge>
+<edge source="YouTube_Western_@cherissetillman8973" target="fenty">
+  <data key="d4">try fenty wear makeup wanted try good brand</data>
+</edge>
+<edge source="YouTube_Western_@thecat5819" target="fenty">
+  <data key="d4">japanese person life united state currently japanese american immigrant generation country etc interesting see american cause sort problem relation japanese people often use japanese people arent upset back home sensitive american need calm point japanese american going pick recurring issue compared u japanese people tend isolated anti-japanese anti-asian racism important emphasize think like pocs honestly ethnic group general like appreciation.so see non japanese person kimono think totally cool think japanese people think way perception what's used weapon people defend actual issue cultural appropriation huge vital concept acknowledge japanese cultural-related thing think merely misrepresentation misinformation aspect wearing cheongsam china geisha japan look katy perry paper mentioned misinformation misrepresentation.mixing matching culture like continuously spread false narrative u asian think people get caught white person wearing kimono ok rather looking issue specifically mixing matching culture furthermore almost kimono context western usage weird orientalist shiny flimsy cloth japanese kimono shiny lol thin showing lot skin layering kimono outside yukatas summer heavily layered point warmer wear kimono outside japanese winter western clothing jacket curvy curvy silhouette historically speaking huge western trend went historically speaking corset japan emphasize straight silhouette kimono deliberately hide waist look like rectangle using thick expensive piece called obi throw chinese motif print japanese chinese print different visually different culture dragon thing maybe korean influence well play mixing matching game cultural clothing color also super opt demure color rather super bright one tabi worn despite kimono presented non-yukata.another depiction kimono almost even bastardized way used synonym robe often time see bridesmaid robe labeled kimono sleek shiny showing lot skin layer non-japanese patterning probably associated orientalist association finally kim kardashian pre-skims kimono scandal gone forth original name fear even watered cultural clothing would've become.another issue brand depicting inaccurate depiction kimono might use east asian model may japanese consumer care fit mental orientalist assumption think another huge issue spreading misconception usage east asian model allows false credibility depicted clothing consumer know better would think ah east asian clothing worn east asian mean kimono legit actually saw tiktok made good intention hence trending showed bad asian cultural clothing usually halloween costume v real asian cultural clothing except kimono creator didnt realize fault ended using picture nonauthentic kimono chinese website east asian country also nonauthentic depiction eachother's cultural clothing like japan also depict chinese cultural clothing stereotypically often seen manga trope chun li example anyway creator saw looked legit enough came mainland asian website believed authentic unforutnately unintentionally continued spread misinformation term kimono presented real version haha harmful well.the makeup industry controversy orientalist stuff new seen limecrime china doll mixed culture full misinformation incident fenty beauty thing honest seen worse wouldnt personally feel super upset way used mere adjective course contribution watering culture like kimono skim incident outrage understandable.anyway instead looking kimono english due rampant misinformation halloween brand tryna sell sexy dragon geisha lady kpop konnichiwa clothes pushing wrong result top always tell peer look google image 着物は translates kimono hiragana end google know search request japanese 振袖は translates furisode hiragana end google know search request japanese 着物の種類 look type kimono range yukata furisode oofurisode kimono subcategory within category houmongi hakama also piece added onto kimono furisode creates hakama look graduation worn working shinto temple geisha'芸者とは geisha 芸者と舞妓の違い difference geisha maiko 芸者と舞妓と花魁の違い difference geisha maiko oiran oiran often sexualized fetishized lot orientalist stuff come imo esp people dont know difference betwen geisha oiran lol common component japanese kimono tabi-zouri fancier geta often casual obijime-obi-obiage-nagajyuban longer version hanjyuban halfsized version hadajyuban go directly skin dateeri kasaneeri-datejime-erishinall piece layered layered furisode formal kimono oofurisode many layer huge extravagant print perfect winter weather yukata casual easy put minimal layer summer season often cooler color blue green faded brown simple pattern summer weather anyway watching evolution fenty beauty really neat keep great content sorry unrelated ramblings comment section thought relevant enough splurge info best could fellow viewer might interested haha</data>
+</edge>
+<edge source="YouTube_Western_@K.aterina" target="fenty">
+  <data key="d4">love fenty brand find foundation match</data>
+</edge>
+<edge source="YouTube_Western_@BossBrookeArmstrong" target="fenty">
+  <data key="d4">find fenty beauty sooooooo overrated 🥱 feel like rihannas name wasnt attached one would really care product decent extraordinary</data>
+</edge>
+<edge source="YouTube_Western_@justinemarin16" target="fenty">
+  <data key="d4">personally fan ketchup gloss marketing scheme always thought fenty beauty sophisticated chic brand release ruined imo much mouth made video put well came gimmicky touch usual branding marketing usually effective staying relevant keeping trend one done tacky way imo</data>
+</edge>
+<edge source="YouTube_Western_@davidanderson3407" target="fenty">
+  <data key="d4">owner robyn fenty ); lvmh parent kendo holding lvmh fenty corp</data>
+</edge>
+<edge source="YouTube_Western_@jynnejillmendoza5294" target="fenty">
+  <data key="d4">kawaykaway sa napunta didto dahil sa ballang hamog na inggit na inggit sa isang muph candidate ti-nag pa talaga sa comment section itong fenty beauty copyright kunwari concerned pero baklang hamog</data>
+</edge>
+<edge source="YouTube_Western_@jeylakeybreezy7050" target="fenty">
+  <data key="d4">#fentybeauty song b cute blnd music werdest song ad use music like wtf brand use music</data>
+</edge>
+<edge source="YouTube_Western_@Mouhamedtounkara09" target="fenty">
+  <data key="d4">l love fenty.it good see black woman star live riri et queen b start solution like b'cause black need see closhes lip shoe make ups corresponding b'cause sortîmes easy find it.wish à good continuation love riri 💋 ❤</data>
+</edge>
+<edge source="YouTube_Western_@kumaladewii" target="fenty">
+  <data key="d4">love fenty beauty please notice asian korean japanese chinese there's also south east asian different skintone east asian woman</data>
+</edge>
+<edge source="YouTube_Western_@awa7671" target="fenty">
+  <data key="d4">#teamfentybeauty thanks rihanna</data>
+</edge>
+<edge source="YouTube_Western_@erkan-n" target="fenty">
+  <data key="d4">u watch video fenty beauty rih</data>
+</edge>
+<edge source="YouTube_Western_@livelaughloveMSZ" target="fenty">
+  <data key="d4">boycott fenty beauty 🇵🇸 🇵🇸 🇵🇸</data>
+</edge>
+<edge source="YouTube_Western_@hudaali1854" target="fenty">
+  <data key="d4">slayyyed eata devoured dont need hilight hilight fenty ❤ ❤ ❤</data>
+</edge>
+<edge source="YouTube_Western_@anacarolinapereirarozendo5776" target="fenty">
+  <data key="d4">essa base e difícil de encontrar da fenty</data>
+</edge>
+<edge source="YouTube_Western_@daphanie9054" target="fenty">
+  <data key="d4">say fenty</data>
+</edge>
+<edge source="YouTube_Western_@landshark3509" target="fenty">
+  <data key="d4">fenty lipstick remind kaleidos clay lipstick</data>
+</edge>
+<edge source="YouTube_Western_@someone8323" target="fenty">
+  <data key="d4">hmmm well fenty one doesnt emphasize lip wrinkle using dark shade lipstick try one lighter shade youd see problem know many lip line lipstick worsens texture</data>
+</edge>
+<edge source="YouTube_Western_@Life-vu5te" target="fenty">
+  <data key="d4">fenty lipstick reminds old liquid lipstick lakme indian brand range</data>
+</edge>
+<edge source="YouTube_Western_@cheribxo" target="fenty">
+  <data key="d4">fenty beauty take money point 😅 would love see eye-look video look gorgeous 😻</data>
+</edge>
+<edge source="YouTube_Western_@Brandi1823" target="fenty">
+  <data key="d4">fenty day everyday 💜</data>
+</edge>
+<edge source="YouTube_Western_@rihannalover2461" target="fenty">
+  <data key="d4">love rihanna fenty beauty win</data>
+</edge>
+<edge source="YouTube_Western_@tammysaj4566" target="fenty">
+  <data key="d4">fenty</data>
+</edge>
+<edge source="YouTube_Western_@aliciabyul9550" target="fenty">
+  <data key="d4">fenty beauty shade baby get make gonna fenty beauty</data>
+</edge>
+<edge source="YouTube_Western_@oussamazaanouni1492" target="fenty">
+  <data key="d4">literally comparing incomparable fenty beauty another level</data>
+</edge>
+<edge source="YouTube_Western_@suckstobeaslay" target="fenty">
+  <data key="d4">fenty duhh</data>
+</edge>
+<edge source="YouTube_Western_@mk78786" target="fenty">
+  <data key="d4">guy showed lil si video much makeup lover absolutely loved fenty beauty disgusted kylie cosmetic lived lipstick fenty literally went came kylie</data>
+</edge>
+<edge source="YouTube_Western_@cheikhounadieye148" target="fenty">
+  <data key="d4">giving fbi logo year signification fenty langue peul lie lie tea calling wine beauty water c3acollhing wine</data>
+</edge>
+<edge source="YouTube_Western_@kassyyoung9870" target="fenty">
+  <data key="d4">fenty ofc ... spent fenty ... nva tried kylie though</data>
+</edge>
+<edge source="YouTube_Western_@genieNotinabottle" target="fenty">
+  <data key="d4">fenty ❤ ️ 💕 💯 💕 ❤ ️ 💯</data>
+</edge>
+<edge source="YouTube_Western_@amandangcobo7116" target="fenty">
+  <data key="d4">fenty beauty one 💐</data>
+</edge>
+<edge source="YouTube_Western_@thePrincessv" target="fenty">
+  <data key="d4">fenty fantastic ❤ ️ 💝 kyle belongs 🗑</data>
+</edge>
+<edge source="YouTube_Western_@petronellembembeekwalanga562" target="fenty">
+  <data key="d4">fenty bro</data>
+</edge>
+<edge source="YouTube_Western_@gabrielavitoria3796" target="fenty">
+  <data key="d4">4:32 took realize basic thought skin care something preparatory skin sorry understand kind thing i'm really impressed ability fenty base dream use one day</data>
+</edge>
+<edge source="YouTube_Western_@gurnaazvirk569" target="fenty">
+  <data key="d4">huh obviously fenty beauty 🌴 🦋 🦋 🦋</data>
+</edge>
+<edge source="YouTube_Western_@schoolgyaru" target="fenty">
+  <data key="d4">tbh even watch video fenty beauty already</data>
+</edge>
+<edge source="YouTube_Western_@kimberlysbeautyandstyle6695" target="fenty">
+  <data key="d4">fenty beauty way</data>
+</edge>
+<edge source="YouTube_Western_@Vspee" target="fenty">
+  <data key="d4">kylie cosmetic 🤚🏻 🤚🏼 fenty beauty 🤚🏻 🤚🏼 🤚🏽 🤚🏾 🤚🏿</data>
+</edge>
+<edge source="YouTube_Western_@RealPhoenixRising" target="fenty">
+  <data key="d4">kylie cosmetic 👩🏻 fenty beauty 👩🏼 👩🏼‍🦱 👩🏻‍🦰 👩🏻 👩🏻‍🦱 👩🏽 👩🏽‍🦱 👩🏾 👩🏾‍🦱 👩🏿 👩🏿‍🦱</data>
+</edge>
+<edge source="YouTube_Western_@v.h2755" target="fenty">
+  <data key="d4">fenty care people pure</data>
+</edge>
+<edge source="YouTube_Western_@맏쵸" target="fenty">
+  <data key="d4">hey um .. fenty beauty ofcrs</data>
+</edge>
+<edge source="YouTube_Western_@elizabethgeorge4588" target="fenty">
+  <data key="d4">fenty beauty period</data>
+</edge>
+<edge source="YouTube_Western_@dontdamnme3727" target="fenty">
+  <data key="d4">fenty</data>
+</edge>
+<edge source="YouTube_Western_@tatianalaurier8658" target="fenty">
+  <data key="d4">damn fenty fire 🔥</data>
+</edge>
+<edge source="YouTube_Western_@OmerMD" target="fenty">
+  <data key="d4">fenty red damn redthe kylie lipstick ...</data>
+</edge>
+<edge source="YouTube_Western_@cherylholmes9636" target="fenty">
+  <data key="d4">need stop fussing company serve u go welcomed ignore serve simply letting know dont want customer i'm cool giving company air rhianna's fenty understands assignment</data>
+</edge>
+<edge source="YouTube_Western_@melb4598" target="fenty">
+  <data key="d4">seriously though talk fact major line “ decade ” act like knew brown skin didnt im supporting fenty</data>
+</edge>
+<edge source="YouTube_Western_@aubreycannotdraw" target="fenty">
+  <data key="d4">fenty 🔛 🔝</data>
+</edge>
+<edge source="YouTube_Western_@micaela4728" target="fenty">
+  <data key="d4">fenty always slay</data>
+</edge>
+<edge source="YouTube_Western_@smallpupper" target="fenty">
+  <data key="d4">fenty r e seriously killing competition love product</data>
+</edge>
+<edge source="YouTube_Western_@oliviam2445" target="fenty">
+  <data key="d4">got perfect shade match fenty never found something right amount orange red shade im indigenous latino rihanna always pale brown dark skin girl 🙏🏼</data>
+</edge>
+<edge source="YouTube_Western_@Dutch_Van.DerLinde" target="fenty">
+  <data key="d4">fenty shade range amazing awkward skin tone fenty first foudation skin tint first match skin tone</data>
+</edge>
+<edge source="YouTube_Western_@nancystampphoenix3109" target="fenty">
+  <data key="d4">fenty make artist best friend ❤ ❤ ❤</data>
+</edge>
+<edge source="YouTube_Western_@TheChels91" target="fenty">
+  <data key="d4">argument … fenty best dark skin</data>
+</edge>
+<edge source="YouTube_Western_@BoxofCarrots" target="fenty">
+  <data key="d4">fenty would've never found foundation concealer actually matched vampiric as literally life-changing</data>
+</edge>
+<edge source="YouTube_Western_@remynisce" target="fenty">
+  <data key="d4">fenty honestly good girl color 😭</data>
+</edge>
+<edge source="YouTube_Western_@divalarue" target="fenty">
+  <data key="d4">always buy fenty integrity quality first laugh copy kardashians's look copy whatever black woman style past present future give u prop</data>
+</edge>
+<edge source="YouTube_Western_@Soothsoundasmr" target="fenty">
+  <data key="d4">jealously realise black people exist fenty exist wtf i'm sticking black brand</data>
+</edge>
+<edge source="YouTube_Western_@xandriemme7578" target="fenty">
+  <data key="d4">albino person tried fenty loved let's give round applause queen 👏 👏</data>
+</edge>
+<edge source="YouTube_Western_@fatemasajjad2019" target="fenty">
+  <data key="d4">kylie come shade many brand coping fenty kylie happy coming shade kylie fan girl</data>
+</edge>
+<edge source="YouTube_Western_@cand2904" target="fenty">
+  <data key="d4">like rihanna dont know new fenty skin line similar kylie skin line even design name</data>
+</edge>
+<edge source="YouTube_Western_@queendomcentral2235" target="fenty">
+  <data key="d4">#teamfenty #pouty</data>
+</edge>
+<edge source="YouTube_Western_@zubugumis" target="fenty">
+  <data key="d4">video ended phone showed sephora fenty beauty phone know what's good :)</data>
+</edge>
+<edge source="YouTube_Western_@sophialorencoffee9055" target="fenty">
+  <data key="d4">tell riri's line serious ... fund limited fenty win</data>
+</edge>
+<edge source="YouTube_Western_@ETHYLYNN" target="fenty">
+  <data key="d4">never bought kim kardashian kylie jenner product kardashians show allowed even played house horrible role model year old daughter however drop new fenty line rihanna gave u pro filter hydrating longwear foundation 😍 🥰 juvias place line daughter</data>
+</edge>
+<edge source="YouTube_Western_@alyssa6477" target="fenty">
+  <data key="d4">whole bashing tarte complete waste time honest everyone including jumping band wagon talking topic yes agree tarte wrong ... kept one formula large amount shade u woc tarte brand extend color u woc talk brand tarte spotlight maybe might disagree i'm saying let's honest i'm right talk one brand plenty others one acknowledging example shape tape wide range shade one talked yes brand excuse can't cater u woc everyone speaking fenty nars bobbi brown etc shade fuss tarte go brand cater bunch bull honestly say fall woc ain't going fret something go another brand</data>
+</edge>
+<edge source="YouTube_Western_@vipradave8454" target="fenty">
+  <data key="d4">last two shade tarte even look different think high time every makeup brand start understand diversity skin tone make product inclusive skin tone fact even nars recently launched huge shade range foundation can't forget pioneer fenty beauty great video arshia i'm glad brave enough speak brand offer shade range 😘 😘 😘</data>
+</edge>
+<edge source="YouTube_Western_@bellamorte666" target="fenty">
+  <data key="d4">shape tape concealer many shade either expect foundation ... there's many brand cater darker skin tone either one calling brand cater dark skin tone find shade fenty care</data>
+</edge>
+<edge source="YouTube_Western_@ptaylorification" target="fenty">
+  <data key="d4">since putting opinion providing constructive criticism tarte launching large shade range might good idea see tarte offer benefit example tarte completely cruelty free brand.now brand mentioned fenty beauty tarte cruelty free mac cruelty free.nars longer cruelty free test animal make forever cruelty freenyx cruelty free bare mineral cruelty freecover fx cruelty free vegan harm animal bobbi brown cruelty free glossier cruelty free estee lauder cruelty free huda beauty cruelty free except lash l'oreal cruelty free show different perspective thing somewhere close nc42 complexion well likely would hard time finding great match present shade range said i'd much rather wait expand shade range buy cruelty free product purchase nars mac bobbi brown makeup forever come ethic mentioned brand market offer shade range fenty cover fx bare mineral good job critical one less foundation great shade range animal cruelty okay animal suffer die makeup choose purchase put face every dollar give non crulety free non vegan brand choosing thousand animal killed google testing make-up animal even youtube please enlighten nice day</data>
+</edge>
+<edge source="YouTube_Western_@nathashapaul5344" target="fenty">
+  <data key="d4">think agree since fenty beauty released foundation brand excuse can't cater towards poc let's stop making excuse ignorant brand loved tarte feel excluded that's great feeling isnt makeup representation get together</data>
+</edge>
+<edge source="YouTube_Western_@amyames7066" target="fenty">
+  <data key="d4">thank video arent afraid speak mind people talked controversy danced around issue felt like people didnt want poss tarte otherwise would get pr list understand take longer make darker shade mean tarte taken time make u brown black girl feel included reason darker color dont sell becuause brand dont make local sephora darker shade fenty beauty consistently sold friend mine waiting week get color week dark shade sell company make buying tarte apologizing insta story isnt permenant u didnt catch bad nope apology need front center genuine sorry tarte lost loyal customer.but thank honest standing love keep great work</data>
+</edge>
+<edge source="YouTube_Western_@ShikhaSingh1303" target="fenty">
+  <data key="d4">love love love fenty &lt;3</data>
+</edge>
+<edge source="YouTube_Western_@etherLune" target="fenty">
+  <data key="d4">fenty one blend perfectly skin flawless ✨</data>
+</edge>
+<edge source="YouTube_Western_@laurenmatal353" target="fenty">
+  <data key="d4">fenty match like</data>
+</edge>
+<edge source="YouTube_Western_@anon6116" target="fenty">
+  <data key="d4">still thinking someone get video rihanna someone fenty beauty youd perfect spokesperson company ❤</data>
+</edge>
+<edge source="YouTube_Western_@Mageling55" target="fenty">
+  <data key="d4">see fenty powder vanished good match</data>
+</edge>
+<edge source="YouTube_Western_@elettramia6380" target="fenty">
+  <data key="d4">lighting fenty beauty doesnt look dark would use shade even foundation use lighter shade top darker face powder match skin tone fenty color would work olive skinned girl tan easily</data>
+</edge>
+<edge source="YouTube_Western_@purplebushie" target="fenty">
+  <data key="d4">“ see difference ” bc fenty one became invisible turned ur head oo saw slight difference bc powder matte ur skin glowing light moved gone</data>
+</edge>
+<edge source="YouTube_Western_@veronicasawyer1958" target="fenty">
+  <data key="d4">fenty beauty haus lab usually giod</data>
+</edge>
+<edge source="YouTube_Western_@faithvanhope6214" target="fenty">
+  <data key="d4">fenty deserves prop use makeup see company see everyone</data>
+</edge>
+<edge source="YouTube_Western_@coranottellin" target="fenty">
+  <data key="d4">fenty beauty ... take money take 🤣</data>
+</edge>
+<edge source="YouTube_Western_@Ltommo91" target="fenty">
+  <data key="d4">always fenty beauty ❤ ❤</data>
+</edge>
+<edge source="YouTube_Western_@threella7" target="fenty">
+  <data key="d4">fenty everything b-e-a-u-t-i-f-u-l 💃🏾 🫶🏽 🙏🏽</data>
+</edge>
+<edge source="YouTube_Western_@agtaylor2863" target="fenty">
+  <data key="d4">love fenty idea stupid</data>
+</edge>
+<edge source="YouTube_Western_@nancykerrigan" target="fenty">
+  <data key="d4">first heard promo much mouth thought please let prank fenty girl</data>
+</edge>
+<edge source="YouTube_Western_@stephiesun1145" target="fenty">
+  <data key="d4">love line fenty beauty sent ketchup ... 😅 😅 😅</data>
+</edge>
+<edge source="YouTube_Western_@LightingJedi" target="fenty">
+  <data key="d4">love 2fenty glow juicy</data>
+</edge>
+<edge source="YouTube_Western_@michellebarnes7725" target="fenty">
+  <data key="d4">shade fenty gloss</data>
+</edge>
+<edge source="YouTube_Western_@mayurixoxo4126" target="fenty">
+  <data key="d4">actually got fenty lip gloss free im obsessed</data>
+</edge>
+<edge source="YouTube_Western_@OnlineAddict" target="fenty">
+  <data key="d4">darke skinned consider buy fenty future support business concept inclusivity really like good product work dark skinned girl</data>
+</edge>
+<edge source="YouTube_Western_@kateysandon" target="fenty">
+  <data key="d4">fenty beauty amazing love designed line inclusive everyone amazing 😻</data>
+</edge>
+<edge source="YouTube_Western_@catherinehackler8409" target="fenty">
+  <data key="d4">think weird fenty trendsetter makeup company really need start adding extreme spectrum shade way many friend pale say use white face paint cause cant find anything else lmao beautiful dark babe cant find anything dark enough catch cosmetic industry</data>
+</edge>
+<edge source="YouTube_Western_@samfrost6474" target="fenty">
+  <data key="d4">i'm pale af like pale there's still many company could shop fenty beauty get much money mean hello listens</data>
+</edge>
+<edge source="YouTube_Asian_@RowenStelling" target="tirtir">
+  <data key="d4">tirtir tear tear</data>
+</edge>
+<edge source="YouTube_Asian_@zayfizy7189" target="tirtir">
+  <data key="d4">tirtir japan</data>
+</edge>
+<edge source="YouTube_Asian_@Robloxloabrr" target="tirtir">
+  <data key="d4">terter hahahha tirtir</data>
+</edge>
+<edge source="YouTube_Asian_@brownie9085" target="tirtir">
+  <data key="d4">hope tirtir influence brand inclusive shade</data>
+</edge>
+<edge source="YouTube_Asian_@gutznblxssxms" target="tirtir">
+  <data key="d4">tirtir fr locked</data>
+</edge>
+<edge source="YouTube_Asian_@Zahra-py3yn" target="tirtir">
+  <data key="d4">beautifully explained ❤ ️ shade using red tirtir</data>
+</edge>
+<edge source="YouTube_Asian_@drpri1836" target="tirtir">
+  <data key="d4">damn ... medium girlies left chat ... wanted buy glad tirtir cushion foundation best ❤ got shade 29n perfect match</data>
+</edge>
+<edge source="YouTube_Asian_@Sjochumsen" target="tirtir">
+  <data key="d4">bought bb cream year ago way dark lightest shade unfortunatly tirtir still color japan still sadly really want try</data>
+</edge>
+<edge source="YouTube_Asian_@liahbobita" target="tirtir">
+  <data key="d4">tirtir cushion oxidize im interested bc expanded shade range im worried shade im eyeing might run dark orange</data>
+</edge>
+<edge source="YouTube_Asian_@predilection" target="tirtir">
+  <data key="d4">think skintone use tirtir missha shade definitely interested makeup reccs thank</data>
+</edge>
+<edge source="YouTube_Asian_@steph8340" target="tirtir">
+  <data key="d4">tirtir actually working expanding shade range recently released darker shade red compact know still long way go least they're listening</data>
+</edge>
+<edge source="YouTube_Asian_@haniiyoon" target="tirtir">
+  <data key="d4">personally id say tirtir cushion foundation offer fairly good shade range least better brand like shade im mistaken</data>
+</edge>
+<edge source="YouTube_Asian_@anatonin8917" target="tirtir">
+  <data key="d4">unfortunately couldnt find good shade tirtir cushion japan 😢</data>
+</edge>
+<edge source="YouTube_Asian_@sweetcarolineq" target="tirtir">
+  <data key="d4">agree many pic 👏🏼 👏🏼 👏🏼 never tried daisique want tirtir lip oil 😊 btw tirtir cushion shade online amazon got red one 24w perfect match</data>
+</edge>
+<edge source="YouTube_Asian_@selinvox4643" target="tirtir">
+  <data key="d4">love ur honest review watch video tirtir global site many confusing video floating around semi matte apparently swipe tap cover use finger apply sponge provided beauty blender brush needed use powder eye nose area lol 😂 😂</data>
+</edge>
+<edge source="YouTube_Asian_@s.jensen1492" target="tirtir">
+  <data key="d4">im big k beauty lover especially skin care purchased tirtir foundation due fact many foundation moment .. thank great review ❤</data>
+</edge>
+<edge source="YouTube_Asian_@sassybanjo3586" target="tirtir">
+  <data key="d4">bit tirtir sorry sits pore hate used missha bb cream today love</data>
+</edge>
+<edge source="YouTube_Asian_@vikkki" target="tirtir">
+  <data key="d4">tirtir break ... look bad around mouth day go</data>
+</edge>
+<edge source="YouTube_Asian_@stephaniecasey8557" target="tirtir">
+  <data key="d4">loving tirtir ceramic skin moisturizer feel work like charlotte tilbury magic cream far less cha-ching</data>
+</edge>
+<edge source="YouTube_Asian_@americangirl4410" target="tirtir">
+  <data key="d4">live tirtir cushion foundation … arent applying way shown apply colour best match sponge completely used … end point think shade 23n sand might matched better</data>
+</edge>
+<edge source="YouTube_Asian_@Yorkiemom315" target="tirtir">
+  <data key="d4">like tirtir first struggled puff came watched robert welsh showed use puff love makeup never looked good like first also used much first time</data>
+</edge>
+<edge source="YouTube_Asian_@juliahester1945" target="tirtir">
+  <data key="d4">love love love headband today 💕 💕 jen phelps care tirtir broke i'm anxious see review stain pretty</data>
+</edge>
+<edge source="YouTube_Asian_@joinspace3864" target="tirtir">
+  <data key="d4">hear white tirtir id like see aswell</data>
+</edge>
+<edge source="YouTube_Asian_@AnneFox-mb5qt" target="tirtir">
+  <data key="d4">loved tirtir wore dog gala event last week foundation favorite foundation used reason work great skin guess imon bandwagon tiktok people love tint used cheek lip im totally agreeing eyeshadow good chunk glitter maybe trim glimmer another pallet tirtir look great also</data>
+</edge>
+<edge source="YouTube_Asian_@aiquinn" target="tirtir">
+  <data key="d4">said tirtir doesnt spf thats easily make shade wont ashy cushion actually spf</data>
+</edge>
+<edge source="YouTube_Asian_@tealialily" target="tirtir">
+  <data key="d4">experienced tirtir foundation oxidizing badly</data>
+</edge>
+<edge source="YouTube_Asian_@AngeeloRabaya" target="tirtir">
+  <data key="d4">tirtir launched new shade releasing may new shade darker 29n natural beige used new darker shade 33c hazel 33n macchiato 35n walnut 40n cinnamon 43n deep cocoa new dark shade tan dark skin tone they'll probably release deeper shade june shade soon shade june starting may shade</data>
+</edge>
+</graph></graphml>
