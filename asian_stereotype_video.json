@@ -1,0 +1,1712 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "obNxUBkVNjujGpr9OUIyorowh8E",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "AU",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4bHjQOfDi0PQyOmO0dRzYJGllY8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZGaz0BGiDIc"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-05T19:40:52Z",
+                "channelId": "UCD3ZoKElYuwOWjcjgxWmWjw",
+                "title": "J-Beauty vs K-Beauty: a professional reveals the REAL differences between Japanese and Korean beauty",
+                "description": "J-Beauty vs K-Beauty: What's the Difference? Have you ever wondered what's the real difference between J-Beauty and K-Beauty ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZGaz0BGiDIc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZGaz0BGiDIc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZGaz0BGiDIc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Odile Monod - The Monodist",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-05T19:40:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0XDCobM9Gdz6cAN4DUKoV7cgjLM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "A1D9n3lNcF4"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-18T12:25:55Z",
+                "channelId": "UCl4WuAjoED1T-44hMHoWvqw",
+                "title": "Indian K-Pop Idol Accused of Skin Bleaching Goes Viral in China? Colorism, X:IN Aria &amp; Fair Skin",
+                "description": "Hi it's Adeola (add\u2022ee\u2022oh\u2022la)! Don't forget to like, subscribe, share & turn on post notifications \u3030\ufe0f NO COPYRIGHT ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A1D9n3lNcF4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A1D9n3lNcF4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A1D9n3lNcF4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Adeola Ash",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-18T12:25:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3xxYlt2jln0aOBBHVo7cEymHQes",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Z3WQu8PHSOs"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-19T02:05:09Z",
+                "channelId": "UCLnXvz0Xiv5hu9vm4KsRZxw",
+                "title": "Dark Skin Representation in The Malaysian Beauty Industry + My Top 3 Fav Makeup Brands",
+                "description": "Video Description: This video talks about the lack of dark skin representation in the local Malaysian beauty industry and the issues ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z3WQu8PHSOs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z3WQu8PHSOs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z3WQu8PHSOs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Daveena Kaur",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-09-19T02:05:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "h3N0ICY7D5ZgitSDZkTRAPe6TfE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "A3TSSjihhQ0"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-26T02:00:18Z",
+                "channelId": "UCYhAqUVtNpXdYxq3RIuWkqw",
+                "title": "How K-POP Destroys Your Body Image: A Video Essay",
+                "description": "two months of researching, scripting, and editing...and a whole two month hiatus to go along with it. but here's what i can show as ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A3TSSjihhQ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A3TSSjihhQ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A3TSSjihhQ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "chaebin n out",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-26T02:00:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "F9LZLkDECzMC4JsUWF1HoSeb7LQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3X3cD1xXSjg"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-16T02:44:00Z",
+                "channelId": "UCtF27HDA6UVxUg3KFMYuFPA",
+                "title": "Whitening Skin Products in Asia, Africa and Middle East. | Silvia Vismara",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3X3cD1xXSjg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3X3cD1xXSjg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3X3cD1xXSjg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Silvia Vismara",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-16T02:44:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Oz5OyOb1fBQuCPzFgxBuuQncnac",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xjSwF3j1dHk"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-18T11:30:32Z",
+                "channelId": "UC9HQXWbt14wTdr_Tzc8ZE0A",
+                "title": "Plastic Surgeon Reveals 5 Skin Care Products EVERYONE Should Use!",
+                "description": "Watch me, a holistic plastic surgeon, reveal the five skin care products which are mandatory for everyone! These products WORK!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xjSwF3j1dHk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xjSwF3j1dHk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xjSwF3j1dHk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Doctor Youn",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-18T11:30:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "D8mWQus5OVKlPyYVUqk9zpyyfCQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DzSW2_BUOEE"
+            },
+            "snippet": {
+                "publishedAt": "2024-04-05T17:00:12Z",
+                "channelId": "UCNtUXiCqH6nUTFeTW4qLpqw",
+                "title": "Skin bleaching: The risks behind the beauty craze",
+                "description": "Skin bleaching, lightening, or spot removal \u2013 the pursuit for a 'fairer' complexion has become popular in Africa. With an industry ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DzSW2_BUOEE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DzSW2_BUOEE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DzSW2_BUOEE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DW The 77 Percent",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-04-05T17:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cpZI8dLDUiuItnXHT496U6EHJKc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eOMRcicNYqk"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-20T08:10:33Z",
+                "channelId": "UC8f2CDyLibpGYSN3O2LfDwg",
+                "title": "Reviewing New &amp; Affordable K-Beauty, J-Beauty, Taiwanese-Beauty | SKIN CARE DISCOVERY",
+                "description": "Visit our online shop: https://shop.beautywithinofficial.com/ Since you beauties loved the first skincare review and have been ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eOMRcicNYqk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eOMRcicNYqk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eOMRcicNYqk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Beauty Within",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-12-20T08:10:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-2N9xO4wPr5vLb4u4GmeqeTVqL8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "q8JEQcVD-yI"
+            },
+            "snippet": {
+                "publishedAt": "2024-10-01T22:00:40Z",
+                "channelId": "UCwD8mTXs1VFCKMSD61M2MCg",
+                "title": "the COST of modern beauty | beauty is pain and financial destitution | social media propagated",
+                "description": "Is beauty worth the pain\u2014and financial strain? In this video, we delve into the complex world of modern beauty standards, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q8JEQcVD-yI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q8JEQcVD-yI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q8JEQcVD-yI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Essential Patience",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-10-01T22:00:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PHIxLvelGQocLQlz3IW8BCi91ao",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dE4Lo4TIc8Y"
+            },
+            "snippet": {
+                "publishedAt": "2019-01-25T17:00:09Z",
+                "channelId": "UCmuccm2PUMlyIyvD6EOh_qA",
+                "title": "Light Skinned Privilege | Decoded",
+                "description": "Do light skinned black women have skin color privilege? The answer is yes! And while we tend to think about people being ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dE4Lo4TIc8Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dE4Lo4TIc8Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dE4Lo4TIc8Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MTV Impact",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-01-25T17:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Q9F9gi7lncEre3lbsnQ6E17wkw4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "m8cijanCfpU"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-07T17:02:35Z",
+                "channelId": "UCnEe2OKQQ-5yTiEv65YW_3A",
+                "title": "The Dark Side Of Skincare",
+                "description": "EVERYTHING YOU HAVE BEEN TOLD ABOUT SKINCARE IS A LIE. Have you ever felt overwhelmed with the amount of skincare ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m8cijanCfpU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m8cijanCfpU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m8cijanCfpU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Meta Health",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-07T17:02:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mWY2vOYRh81PAzUFYlX4eM54QI8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WQisWV4n6XM"
+            },
+            "snippet": {
+                "publishedAt": "2024-10-01T15:03:00Z",
+                "channelId": "UCsc9GUM0FXZbF8qnwTDKv1Q",
+                "title": "The light skin beauty VS bitter dark skin propaganda",
+                "description": "Stop leaving yourself vulnerable to data breaches. Go to my sponsor https://aura.com/jawnlouis to get a 14-day free trial and see if ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WQisWV4n6XM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WQisWV4n6XM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WQisWV4n6XM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jawn Louis",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-10-01T15:03:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sNfKEK6Y17gOWltI_wN-2ojxToU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mzK3w7DIiu4"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-16T23:58:44Z",
+                "channelId": "UCk-WsYiym5MJ7T9Uk2XF0yA",
+                "title": "The Fascination of White Skin in Asia",
+                "description": "This is my final Project in Ethnic Film Class. The objective of this school project was to talk about an experience I personally have ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mzK3w7DIiu4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mzK3w7DIiu4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mzK3w7DIiu4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gast\u00f3n Gardey",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-05-16T23:58:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kJw9iwcRfeng3vi4xhmyz85VBSU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YmsTzo_T7rI"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-04T20:00:01Z",
+                "channelId": "UCOMmsjb-VtlubcqaeyHpQVA",
+                "title": "Korean Skincare 101: (MUST WATCH) How to Find Products for Your Skin Type",
+                "description": "So for those of you guys who ask for product recommendations or which products will work well for your skin, here's a little ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YmsTzo_T7rI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YmsTzo_T7rI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YmsTzo_T7rI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TheBeautyBreakdown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-02-04T20:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1rfWXuvG4Bib9_34KPQDktQFDp4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uW_3IRE-pwU"
+            },
+            "snippet": {
+                "publishedAt": "2024-09-23T13:00:06Z",
+                "channelId": "UCBFJAd4nDfNVinOF1OQwrPg",
+                "title": "Why Do Asian Phones Lighten Skin in Photos? | Samsung, Huawei, Oppo vs. iPhone &amp; Google Pixel",
+                "description": "Why Do Asian Phones Lighten Skin in Photos? | Samsung, Huawei, Oppo vs. iPhone & Google Pixel In this video, we dive deep ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uW_3IRE-pwU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uW_3IRE-pwU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uW_3IRE-pwU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Archangel The Great . ATG",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-09-23T13:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tO-IH7PQtthZ7fbQ8AWJ6zVouQs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J-yZaDW7O8Y"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-17T20:23:25Z",
+                "channelId": "UC6ir9yTPDz1JFO6rbCj7lTw",
+                "title": "Unboxing K-Beauty Products from Asian Beauty Zone www.asianbeautyzone.co.uk",
+                "description": "https://www.asianbeautyzone.co.uk Yes it's Arrived so many products and samples for VIP Members Join our facebook VIP group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J-yZaDW7O8Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J-yZaDW7O8Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J-yZaDW7O8Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Asian Beauty Zone",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-07-17T20:23:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pKFLqzy47Z2z5iGw2pZoHvuaWIk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bMr6KrB-Dyc"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-23T16:00:10Z",
+                "channelId": "UCD3ZoKElYuwOWjcjgxWmWjw",
+                "title": "Best Korean Sunscreens for All Skin Types - [NO \uad11\uace0] \ud53c\ubd80 \ud0c0\uc785\ubcc4 TOP 6 \ud83c\udfc6 \uc120\ud06c\ub9bc \ucd94\ucc9c\ud15c \ud83c\udf1e",
+                "description": "Best Korean sunscreens for all skin types? Say no more! In this highly-requested video, I finally share with you my 6 favourite ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bMr6KrB-Dyc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bMr6KrB-Dyc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bMr6KrB-Dyc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Odile Monod - The Monodist",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-23T16:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JURz1gbqNX495906crWsTXQzt9M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vR0gAQe5sGo"
+            },
+            "snippet": {
+                "publishedAt": "2024-09-28T16:52:06Z",
+                "channelId": "UCwI5NVIIRK8EjD61--XhScA",
+                "title": "Dark skinned black woman bullied off TikTok over a blush! Golloria and YSL controversy",
+                "description": "Dark skinned black woman bullied of TikTok over a blush! Golloria George and YSL lavender blush controversy.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vR0gAQe5sGo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vR0gAQe5sGo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vR0gAQe5sGo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tinta Manengu",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-09-28T16:52:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DCAFBjQ8r3lYXePEr0bDKPYSIsI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8ENb5wzL9_g"
+            },
+            "snippet": {
+                "publishedAt": "2016-03-16T10:52:52Z",
+                "channelId": "UCjsO7IRs8qTY0_puriFTIdw",
+                "title": "&#39;Anti-wrinkle v Anti-ageing&#39;: what&#39;s best for Asian skin",
+                "description": "Video taken at in-cosmetics Asia \u2013 The leading exhibition and conference in Asia for personal care ingredients \u2013 takes place in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8ENb5wzL9_g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8ENb5wzL9_g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8ENb5wzL9_g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "in-cosmetics",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-03-16T10:52:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bJOTfxKfh6BBrRIdkv50e0XFDXk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yh0a_7wdSag"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-19T18:56:13Z",
+                "channelId": "UCQ4q3NeSJ7is9wmFgJQZHgg",
+                "title": "FULL FACE using AAPI owned beauty products! + Diversity Chat \u2022 Glow Recipe, Summer Fridays, KAJA",
+                "description": "FULL FACE USING ASIAN-OWNED MAKEUP BRANDS! HAPPY AAPI MONTH! #aapimonth #aapimakeup #kbeauty PRODUCTS: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yh0a_7wdSag/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yh0a_7wdSag/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yh0a_7wdSag/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Angelina Serena",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-19T18:56:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PbridTA5J_6BH4YxODydi5ETZJo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "H0YOtvswtEs"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-26T14:20:21Z",
+                "channelId": "UCMx5YoymTRPr1BQRHZkLv2A",
+                "title": "Why South Asia is obsessed with fair skin?",
+                "description": "DARK IS DIVINE.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H0YOtvswtEs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H0YOtvswtEs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H0YOtvswtEs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sohab Talks",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-26T14:20:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "c_zjSHTn4GVQxs5sOpbhN9yfVhc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YZb0T1CaUG4"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-07T17:30:04Z",
+                "channelId": "UCD3ZoKElYuwOWjcjgxWmWjw",
+                "title": "The Iconic Korean Anti Aging Skincare Brand You Should Know About: Meet Isa Knox",
+                "description": "Do you know what was the first certified anti-aging skincare product in the history of Korean Beauty? In today's video we'll take a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YZb0T1CaUG4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YZb0T1CaUG4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YZb0T1CaUG4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Odile Monod - The Monodist",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-07T17:30:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IH4LVaJTEngcxQtRBR9ePS-zB4Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "85frrFNC4IA"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-26T12:52:38Z",
+                "channelId": "UCe0K4yVkiHa7DORscY7fk5A",
+                "title": "DOES INDIA HATE DARK SKIN? TRUTH ABOUT LAKME / NYKAA MAKEUP SHADE RANGE | REVIEW",
+                "description": "Been thinking about the hypocrisy in the world of makeup when it comes to representing Indian, south asian, dark skin tone girls.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/85frrFNC4IA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/85frrFNC4IA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/85frrFNC4IA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shweta Vijay",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-01-26T12:52:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "k1XwCE_0H-GMBH3GNhutk9QUwsA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ffugXNNBG1A"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-09T15:00:22Z",
+                "channelId": "UCCj956IF62FbT7Gouszaj9w",
+                "title": "The hatred of dark skin explained | On The Cards - BBC",
+                "description": "Subscribe and to the BBC https://bit.ly/BBCYouTubeSub Watch the BBC first on iPlayer https://bbc.in/iPlayer-Home Watch ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ffugXNNBG1A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ffugXNNBG1A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ffugXNNBG1A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BBC",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-09T15:00:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WddiVKpl7tfRn9tLwPkKDUe7wFE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "o5BVmJC35Gk"
+            },
+            "snippet": {
+                "publishedAt": "2024-01-02T14:50:33Z",
+                "channelId": "UCQCp1VeZ0nuErOixeQV2UXA",
+                "title": "Why Do Filipinos Hate Their Skin? - May Kwento Ako | I Have a Story - Episode 2",
+                "description": "TURN ON THE SUBTITLES! Hey, it's Jasper! In this episode of May Kwento Ako (I Have a Story), we dive deep into the historical ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o5BVmJC35Gk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o5BVmJC35Gk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o5BVmJC35Gk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jasper Dominic Abibas",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-01-02T14:50:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4WWl8-XNErqNKbUl9k32vBoNCIw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FVSDq1K3p9M"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-08T18:28:02Z",
+                "channelId": "UC9iiy4ngz2nLJLCEbO5ya9w",
+                "title": "MUST HAVE skincare goodies for DRY &amp; SENSITIVE skin from STYLEVANA! \ud83c\udf3f",
+                "description": "hello everyone! welcome back to my channel! i hope you guys like this video!! click the like button and comment down below ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FVSDq1K3p9M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FVSDq1K3p9M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FVSDq1K3p9M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marjorie Christy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-08T18:28:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Nx_cArPZQBsCg5D0sO86JGZv9xY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wIdAI5s2HJQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-26T23:23:15Z",
+                "channelId": "UCWKVOuMVREegsipmWjfoe0A",
+                "title": "Why are we taught to dislike dark skin?",
+                "description": "The first 1000 people to use the link will get a free trial of Skillshare Premium Membership: http://skl.sh/ibrahimkamit03212 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wIdAI5s2HJQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wIdAI5s2HJQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wIdAI5s2HJQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ibrahim Kamit",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-26T23:23:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "C53zJavR0KXb4DOtRI1j2SKWHEQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qOkeMv-Kndk"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-09T22:52:46Z",
+                "channelId": "UC89xcLO61Zo3248hS9JAZGQ",
+                "title": "Race Change, Pale Skin &amp; The Asian Doll Industry",
+                "description": "What is \"The Race Change Community\"? And do we need to celebrate diversity more in the Asian Doll Community and Asian ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qOkeMv-Kndk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qOkeMv-Kndk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qOkeMv-Kndk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "dollvee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-09T22:52:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wjlZaYckfjZLqMxX7oLuVwLAvdk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VfbiyP8Ni9g"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-13T09:06:27Z",
+                "channelId": "UCMsUe_u_pgHVgYtGwH3FLtg",
+                "title": "WHITE Beauty Standards in BROWN Culture",
+                "description": "Brown Paint is first and foremost a metaphor for repainting the narrative of what it means to be brown. It is a platform that hopes to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VfbiyP8Ni9g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VfbiyP8Ni9g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VfbiyP8Ni9g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brown Paint",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-13T09:06:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2ICH07eYbOmRLFdnos2C7gTgUXc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "F6l1906pTAw"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-16T10:00:10Z",
+                "channelId": "UCkFVQ3YmnJJN2jCIPibBhgA",
+                "title": "Affordable Glass Skin Skincare Must-Haves | Stylevana K-Beauty",
+                "description": "Bling Bling \u2728   Shine like a diamond. Cassandra's K-beauty skincare routine to achieve glass skin is not a secret anymore.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F6l1906pTAw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F6l1906pTAw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F6l1906pTAw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Stylevana",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-16T10:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2oFj1ydmpTlCyc9TkWOWBMUvVWM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qMf5CMrKtXE"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-20T15:51:49Z",
+                "channelId": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+                "title": "For Whiter Skin, Some Are Turning to Injections",
+                "description": "Lighter skin has long been associated with power and privilege, and the use of lightening creams remains pervasive in some ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qMf5CMrKtXE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qMf5CMrKtXE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qMf5CMrKtXE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bloomberg Originals",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-20T15:51:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7EMDJmxFOIuskRzwrXAss7yawk8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zu0To-RoLDQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-07T19:34:50Z",
+                "channelId": "UCuvO0y2EU_kRfYzlhGJNOKA",
+                "title": "Dark Skinned Asian People",
+                "description": "This video was created to provide people with an understanding of what most people from Asia looked like in the not so distant ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zu0To-RoLDQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zu0To-RoLDQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zu0To-RoLDQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Straight UP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-07T19:34:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bGGsMiXWdmzhDLNpF8Dx56KozMM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Bel_TdIecnc"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-30T00:22:42Z",
+                "channelId": "UC0ALa0KMJJ4sYdOj5pW3rcw",
+                "title": "Skin Whitening Brands Are Lying To You | Reaction Video",
+                "description": "90 day fast skin lightening checklist: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Bel_TdIecnc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Bel_TdIecnc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Bel_TdIecnc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tattiana Sforza",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-30T00:22:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WoM1NmlD_JI3ogx-TP5W9rD3fSg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "n20x3nN6-u4"
+            },
+            "snippet": {
+                "publishedAt": "2014-04-23T14:04:19Z",
+                "channelId": "UC_o-NfSSfZoLfR_QKEcOm3Q",
+                "title": "My Skincare Routine | Younger Looking Skin with ETUDE HOUSE products",
+                "description": "EtudeHouse #AntiAging #SkincareRoutine \u2606 LOVE wearing circle lens? Don't forget to check out my SHOP!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n20x3nN6-u4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n20x3nN6-u4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n20x3nN6-u4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Taya Sunaz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-04-23T14:04:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3xF7Q0751J2e4_b3HELRDX5DV1k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BvGPOGEhh1o"
+            },
+            "snippet": {
+                "publishedAt": "2024-10-02T07:19:51Z",
+                "channelId": "UC6FApW7Dls-T3NfAqQot9kQ",
+                "title": "A Doomsday Game Descends.While Everyone Struggles to Survive,I Have Discovered Secret to Clearing It",
+                "description": "Once a Week, A Doomsday Game Descends. While Everyone Struggles to Survive, I Have Discovered the Secret to Clearing It, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BvGPOGEhh1o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BvGPOGEhh1o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BvGPOGEhh1o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Monkey Manhwa Recap",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-10-02T07:19:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yZOV3b9PihV2CFvzWz6Wm3sDdaY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h_IwN-qsy74"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-21T14:00:30Z",
+                "channelId": "UC4u0qaMIAgOL8L37RwLcDQA",
+                "title": "Doctor V - Is Glutathione safe? | Skin Of Colour | Brown Or Black Skin",
+                "description": "Download your Free E-Guide to Skin of Colour: https://bit.ly/3bWFUlF SKIN REVOLUTION Book - Order today at: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h_IwN-qsy74/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h_IwN-qsy74/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h_IwN-qsy74/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dr. Vanita Rattan ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-21T14:00:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EimphA62SI6s5G9XC645ypDW6vc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mjmtH5WXGKc"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-30T16:00:12Z",
+                "channelId": "UCI7KeRaGrC5_UZGtngzE3ZA",
+                "title": "Best Skincare: Dry Skin I Brown Girl Secrets I Bkhanfident Product Review",
+                "description": "I have faced so many issues with dry skin, to hyper pigmentation, to scaly skin. Over the course of time, I've learned how to invest ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mjmtH5WXGKc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mjmtH5WXGKc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mjmtH5WXGKc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "B.Khanfident",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-30T16:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2JQIe_bA1sMYrezI-B-sV-9dJ0A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pKlV7_jXzm0"
+            },
+            "snippet": {
+                "publishedAt": "2024-09-29T12:00:50Z",
+                "channelId": "UC6FApW7Dls-T3NfAqQot9kQ",
+                "title": "I Just Lost My Job and Then Awakened a Dream System, Everything from My Dreams Can Become Reality!",
+                "description": "I JUST LOST MY JOB AND THEN AWAKENED A DREAM-COME-TRUE SYSTEM. EVERYTHING FROM MY DREAMS CAN ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pKlV7_jXzm0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pKlV7_jXzm0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pKlV7_jXzm0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Monkey Manhwa Recap",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-09-29T12:00:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "E-gtIdM2v_Mc_wBVCa8ZkO02AxI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "awmczhE67AU"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-01T15:41:01Z",
+                "channelId": "UCKV0PostOmPjnXEbDgDYSFg",
+                "title": "HSN | Beauty Bioscience Skin Care 06.01.2017 - 09 AM",
+                "description": "Discover skincare which targets signs of aging to improve skin tone and the appearance of wrinkles. Skincare with key ingredients ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/awmczhE67AU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/awmczhE67AU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/awmczhE67AU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HSNtv",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-06-01T15:41:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "clsdxotgbKe5a_CdNQX8Gc467Zw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uSJEfJ6YSbk"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-08T15:05:28Z",
+                "channelId": "UCqj5ql2BU4Hkew_y_ZoNxKA",
+                "title": "COLORISM: SKIN LIGHTENING AND BEAUTY STANDARDS",
+                "description": "Skin bleaching and coloursim is a huge topic but we touch on why it happens and the impact of the British Empire on views about ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uSJEfJ6YSbk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uSJEfJ6YSbk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uSJEfJ6YSbk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ignoranceisbliss",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-08T15:05:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5K0lVJ0N-myJW8M-tsOy1n8j6ak",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ow7zUext0lI"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-02T14:38:11Z",
+                "channelId": "UCDeVfp25anv6jr4Is10ef-A",
+                "title": "Tinted Sunscreen for Darker Skin Tones \u2022 Non-Toxic \u2022 Waxhead Sunscreen",
+                "description": "SHOP https://gowaxhead.com/products/tint-plus-facial-sunscreen \u201cFeels light on my face and it's easy to apply. I look as if I have a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ow7zUext0lI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ow7zUext0lI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ow7zUext0lI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Waxhead Sun Defense",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-02T14:38:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jR-45NrLJA483n48U_h8fi_iGp4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ht1aGD8TX9M"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-05T14:23:34Z",
+                "channelId": "UCW4gXUEypFeI3xgoQ27LFBA",
+                "title": "philosophy renewed hope in a jar skin tint with brush on QVC",
+                "description": "For More Information or to Buy: http://www.qvc.com/.product.A287993.html This previously recorded video may not represent ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ht1aGD8TX9M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ht1aGD8TX9M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ht1aGD8TX9M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "QVCtv",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-09-05T14:23:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HeHwAi9lQHhsnndX3xJtT3jPZ9I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qq6NANAz9Vw"
+            },
+            "snippet": {
+                "publishedAt": "2019-12-11T21:00:08Z",
+                "channelId": "UC_QvxMBsaYLGmN9C15t-jTg",
+                "title": "Testing Out K-Beauty Makeup &amp; Trends ft. Stylevana",
+                "description": "Hey Guys! In today's video I'm testing out a full face (pretty much) using K-Beauty makeup products and K-Beauty makeup ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qq6NANAz9Vw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qq6NANAz9Vw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qq6NANAz9Vw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Taylor Elizabeth Beauty",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-12-11T21:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6gvOt4tyREb59advrER213rVhyk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YQQ8pmr3q1I"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-07T22:15:01Z",
+                "channelId": "UC3y1VNzSbMVIUlKC2ErEVZw",
+                "title": "\ud83d\ude0eBEST Mineral Sunscreens 2020 \u2600 No White-cast, Dark-skin friendly test",
+                "description": "Reviewing & testing 12 mineral sunscreens I've been enjoying! Subscribe and Join the #PalmPalmFam ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YQQ8pmr3q1I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YQQ8pmr3q1I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YQQ8pmr3q1I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Liah Yoo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-07T22:15:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bV82qmmzDq9dfnrxk1PhFeiCNJo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KF4W1ALQyKo"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-07T13:00:07Z",
+                "channelId": "UCNQEZg7OomZQ_k9sNMOYsHw",
+                "title": "Japanese Skin Care Products &amp; Routine | Dry, Sensitive Skin &amp; Open Pores",
+                "description": "Hope you enjoy watching some of my favorite Japanese skincare products for dry/sensitive & pore-y skin Open for product ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KF4W1ALQyKo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KF4W1ALQyKo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KF4W1ALQyKo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Alicia Mariko",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-07-07T13:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Lxv0HfGg2nedlC4r9sE7YggKVnc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oz4qBdcHsmk"
+            },
+            "snippet": {
+                "publishedAt": "2024-05-07T13:03:25Z",
+                "channelId": "UCYkQcdt0Svoq1UU5vz6EAvQ",
+                "title": "IPSY Boxycharm May 2024  Do You Know? AAPI Founded Brands &amp; Products  Discounts for May! Informative",
+                "description": "Follow Me on Instagram: Truewants2 https://www.instagram.com/truewants2/ THANKS Button Under Video enables you contribute ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oz4qBdcHsmk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oz4qBdcHsmk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oz4qBdcHsmk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Truewants",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-05-07T13:03:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qdFIMJsFUqDhkuyE3V8GVQO7rGo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "i7Nz_ebuUKY"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-07T09:01:06Z",
+                "channelId": "UCWLuJ8KZBypcoOHtZPoyEhw",
+                "title": "Foundation guide for darker skin tones + BEAUTYBLENDER GIVEAWAY",
+                "description": "Editor-in-Chief Susannah Taylor sits down with our Not Fair columnist Ayesha Muttucumaru to talk all about her brand new GTG ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i7Nz_ebuUKY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i7Nz_ebuUKY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i7Nz_ebuUKY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Get The Gloss",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-04-07T09:01:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4qGXOsSsqVDslA4OUitFuRZyibM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zWADKbH8AvM"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-19T21:43:51Z",
+                "channelId": "UCsFSrULp6FiMBk_xi7xOA0A",
+                "title": "Disordered Eating and Skin Shade Dissatisfaction in Young Adults in Singapore and Malaysia",
+                "description": "STRIPED Visiting Scholar Dr. Sook Ning Chua, PhD, presented her research to the Division of Adolescent/Young Adult Medicine ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zWADKbH8AvM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zWADKbH8AvM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zWADKbH8AvM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Harvard STRIPED",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-19T21:43:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "o_RvN3U6gsdJRl8U8lFwEkQelNg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yx4-0eI8bn8"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-28T18:00:33Z",
+                "channelId": "UCmpbERxzvAtB_fmvVT-dr1w",
+                "title": "Warm vs Cool Olive Skin - What&#39;s the Difference?",
+                "description": "Not all olive skin tones are the same - we can be warm OR cool! Let's talk about the differences between warm vs cool olives, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yx4-0eI8bn8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yx4-0eI8bn8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yx4-0eI8bn8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Style Refinement",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-28T18:00:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iUdxaIG5Q4PiAeE6rmI9jI-Ehm0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "N-svsWzXZAA"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-03T13:52:31Z",
+                "channelId": "UCEuqMjZ1kYJe2c3lvRV0vJg",
+                "title": "The Beauty Industry - What is Trending?",
+                "description": "Unisex cosmetics, Wellness\u200b, Naturalness\u200b, Green beauty, Anti-pollution, Masstige\u200b, CBD\u200b, Skin Microbiome\u200b, Authenticity.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N-svsWzXZAA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N-svsWzXZAA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N-svsWzXZAA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ayton Global Research",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-03T13:52:31Z"
+            }
+        }
+    ]
+}
